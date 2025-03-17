@@ -1,0 +1,5577 @@
+Original Word: alto -> Processed Word: altu
+Pattern Applied: o$->u
+
+Original Word: altu -> Processed Word: aɫtu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: amarelo -> Processed Word: amarelu
+Pattern Applied: o$->u
+
+Original Word: amarelu -> Processed Word: ɐmarelu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐmarelu -> Processed Word: ɐmaɾelu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: amigo -> Processed Word: amigu
+Pattern Applied: o$->u
+
+Original Word: amigu -> Processed Word: ɐmigu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐmigu -> Processed Word: ɐmiɣu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: antigo -> Processed Word: ɐ̃tigo
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: ɐ̃tigo -> Processed Word: ɐ̃tigu
+Pattern Applied: o$->u
+
+Original Word: ɐ̃tigu -> Processed Word: ɐ̃tiɣu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: assado -> Processed Word: assadu
+Pattern Applied: o$->u
+
+Original Word: assadu -> Processed Word: ɐssadu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐssadu -> Processed Word: ɐssaðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ɐssaðu -> Processed Word: ɐsaðu
+Pattern Applied: s{2}->s
+
+Original Word: azul -> Processed Word: azuɫ
+Pattern Applied: l$->ɫ
+
+Original Word: azuɫ -> Processed Word: ɐzuɫ
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: baixo -> Processed Word: bajxo
+Pattern Applied: ai(?=[bcçdghjlmnpqrstvxz])->aj
+
+Original Word: bajxo -> Processed Word: bajxu
+Pattern Applied: o$->u
+
+Original Word: bajxu -> Processed Word: bajʃu
+Pattern Applied: x->ʃ
+
+Original Word: belo -> Processed Word: belu
+Pattern Applied: o$->u
+
+Original Word: bom -> Processed Word: bõ
+Pattern Applied: om$->õ
+
+Original Word: bonito -> Processed Word: bonitu
+Pattern Applied: o$->u
+
+Original Word: branco -> Processed Word: brɐ̃co
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: brɐ̃co -> Processed Word: brɐ̃cu
+Pattern Applied: o$->u
+
+Original Word: brɐ̃cu -> Processed Word: brɐ̃ku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: brɐ̃ku -> Processed Word: bɾɐ̃ku
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: capaz -> Processed Word: kapaz
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kapaz -> Processed Word: kapaʃ
+Pattern Applied: z$->ʃ
+
+Original Word: caro -> Processed Word: caru
+Pattern Applied: o$->u
+
+Original Word: caru -> Processed Word: karu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: karu -> Processed Word: kaɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: castanho -> Processed Word: castanhu
+Pattern Applied: o$->u
+
+Original Word: castanhu -> Processed Word: castɐnhu
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: castɐnhu -> Processed Word: kastɐnhu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kastɐnhu -> Processed Word: kaʃtɐnhu
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: kaʃtɐnhu -> Processed Word: kaʃtɐɲu
+Pattern Applied: nh->ɲ
+
+Original Word: cheio -> Processed Word: chɐjo
+Pattern Applied: ei->ɐj
+
+Original Word: chɐjo -> Processed Word: chɐju
+Pattern Applied: o$->u
+
+Original Word: chɐju -> Processed Word: ʃɐju
+Pattern Applied: ^ch->ʃ
+
+Original Word: chinês -> Processed Word: chines
+Pattern Applied: ê->e
+
+Original Word: chines -> Processed Word: ʃines
+Pattern Applied: ^ch->ʃ
+
+Original Word: ʃines -> Processed Word: ʃineʃ
+Pattern Applied: s$->ʃ
+
+Original Word: claro -> Processed Word: claru
+Pattern Applied: o$->u
+
+Original Word: claru -> Processed Word: klaru
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: klaru -> Processed Word: klaɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: comprido -> Processed Word: cõprido
+Pattern Applied: om(?=[bcçdghjlmnpqrstvxz])->õ
+
+Original Word: cõprido -> Processed Word: cõpridu
+Pattern Applied: o$->u
+
+Original Word: cõpridu -> Processed Word: cõpriðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: cõpriðu -> Processed Word: kõpriðu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kõpriðu -> Processed Word: kõpɾiðu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: contente -> Processed Word: contẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: contẽte -> Processed Word: cõtẽte
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: cõtẽte -> Processed Word: cõtẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: cõtẽtɨ -> Processed Word: kõtẽtɨ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: diferente -> Processed Word: diferẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: diferẽte -> Processed Word: diferẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: diferẽtɨ -> Processed Word: difeɾẽtɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: difícil -> Processed Word: dificil
+Pattern Applied: í->i
+
+Original Word: dificil -> Processed Word: dificiɫ
+Pattern Applied: l$->ɫ
+
+Original Word: dificiɫ -> Processed Word: difisiɫ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: doce -> Processed Word: docɨ
+Pattern Applied: e$->ɨ
+
+Original Word: docɨ -> Processed Word: dosɨ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: enorme -> Processed Word: enormɨ
+Pattern Applied: e$->ɨ
+
+Original Word: enormɨ -> Processed Word: enoɾmɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: escuro -> Processed Word: escuru
+Pattern Applied: o$->u
+
+Original Word: escuru -> Processed Word: eskuru
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: eskuru -> Processed Word: eʃkuru
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: eʃkuru -> Processed Word: eʃkuɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: estranho -> Processed Word: estranhu
+Pattern Applied: o$->u
+
+Original Word: estranhu -> Processed Word: estrɐnhu
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: estrɐnhu -> Processed Word: eʃtrɐnhu
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: eʃtrɐnhu -> Processed Word: eʃtɾɐnhu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: eʃtɾɐnhu -> Processed Word: eʃtɾɐɲu
+Pattern Applied: nh->ɲ
+
+Original Word: fácil -> Processed Word: fáciɫ
+Pattern Applied: l$->ɫ
+
+Original Word: fáciɫ -> Processed Word: faciɫ
+Pattern Applied: á(?!$)->a
+
+Original Word: faciɫ -> Processed Word: fasiɫ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: famoso -> Processed Word: famosu
+Pattern Applied: o$->u
+
+Original Word: famosu -> Processed Word: fɐmosu
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: fɐmosu -> Processed Word: fɐmozu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: feliz -> Processed Word: feliʃ
+Pattern Applied: z$->ʃ
+
+Original Word: fino -> Processed Word: finu
+Pattern Applied: o$->u
+
+Original Word: forte -> Processed Word: fortɨ
+Pattern Applied: e$->ɨ
+
+Original Word: fortɨ -> Processed Word: foɾtɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: fresco -> Processed Word: frescu
+Pattern Applied: o$->u
+
+Original Word: frescu -> Processed Word: fresku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: fresku -> Processed Word: freʃku
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: freʃku -> Processed Word: fɾeʃku
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: frio -> Processed Word: friu
+Pattern Applied: o$->u
+
+Original Word: friu -> Processed Word: fɾiu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: grande -> Processed Word: grɐ̃de
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: grɐ̃de -> Processed Word: grɐ̃dɨ
+Pattern Applied: e$->ɨ
+
+Original Word: grɐ̃dɨ -> Processed Word: gɾɐ̃dɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: igual -> Processed Word: iguaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: iguaɫ -> Processed Word: iɣuaɫ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: importante -> Processed Word: ĩportante
+Pattern Applied: im(?=[bcçdghjlmnpqrstvxz])->ĩ
+
+Original Word: ĩportante -> Processed Word: ĩportɐ̃te
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: ĩportɐ̃te -> Processed Word: ĩportɐ̃tɨ
+Pattern Applied: e$->ɨ
+
+Original Word: ĩportɐ̃tɨ -> Processed Word: ĩpoɾtɐ̃tɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: junto -> Processed Word: jũto
+Pattern Applied: un(?=[bcçdgjlmnpqrstvxz])->ũ
+
+Original Word: jũto -> Processed Word: jũtu
+Pattern Applied: o$->u
+
+Original Word: jũtu -> Processed Word: ʒũtu
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: leve -> Processed Word: levɨ
+Pattern Applied: e$->ɨ
+
+Original Word: limpo -> Processed Word: lĩpo
+Pattern Applied: im(?=[bcçdghjlmnpqrstvxz])->ĩ
+
+Original Word: lĩpo -> Processed Word: lĩpu
+Pattern Applied: o$->u
+
+Original Word: lindo -> Processed Word: lĩdo
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: lĩdo -> Processed Word: lĩdu
+Pattern Applied: o$->u
+
+Original Word: livre -> Processed Word: livrɨ
+Pattern Applied: e$->ɨ
+
+Original Word: livrɨ -> Processed Word: livɾɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: longo -> Processed Word: lõgo
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: lõgo -> Processed Word: lõgu
+Pattern Applied: o$->u
+
+Original Word: mau -> Processed Word: maw
+Pattern Applied: au->aw
+
+Original Word: natural -> Processed Word: naturaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: naturaɫ -> Processed Word: natuɾaɫ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: negro -> Processed Word: negru
+Pattern Applied: o$->u
+
+Original Word: negru -> Processed Word: negɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: normal -> Processed Word: normaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: normaɫ -> Processed Word: noɾmaɫ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: novo -> Processed Word: novu
+Pattern Applied: o$->u
+
+Original Word: obrigado -> Processed Word: obrigadu
+Pattern Applied: o$->u
+
+Original Word: obrigadu -> Processed Word: obrigaðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: obrigaðu -> Processed Word: obriɣaðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: obriɣaðu -> Processed Word: obɾiɣaðu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: ótimo -> Processed Word: ótimu
+Pattern Applied: o$->u
+
+Original Word: ótimu -> Processed Word: ɔtimu
+Pattern Applied: ó->ɔ
+
+Original Word: passado -> Processed Word: passadu
+Pattern Applied: o$->u
+
+Original Word: passadu -> Processed Word: passaðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: passaðu -> Processed Word: pasaðu
+Pattern Applied: s{2}->s
+
+Original Word: pequeno -> Processed Word: pequenu
+Pattern Applied: o$->u
+
+Original Word: pequenu -> Processed Word: pekenu
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: pobre -> Processed Word: pobrɨ
+Pattern Applied: e$->ɨ
+
+Original Word: pobrɨ -> Processed Word: pobɾɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: português -> Processed Word: portugues
+Pattern Applied: ê->e
+
+Original Word: portugues -> Processed Word: portuges
+Pattern Applied: gu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->g
+
+Original Word: portuges -> Processed Word: portuɣes
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: portuɣes -> Processed Word: poɾtuɣes
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: poɾtuɣes -> Processed Word: poɾtuɣeʃ
+Pattern Applied: s$->ʃ
+
+Original Word: possível -> Processed Word: possivel
+Pattern Applied: í->i
+
+Original Word: possivel -> Processed Word: possiveɫ
+Pattern Applied: l$->ɫ
+
+Original Word: possiveɫ -> Processed Word: possivɛɫ
+Pattern Applied: e(?=ɫ)->ɛ
+
+Original Word: possivɛɫ -> Processed Word: posivɛɫ
+Pattern Applied: s{2}->s
+
+Original Word: preciso -> Processed Word: precisu
+Pattern Applied: o$->u
+
+Original Word: precisu -> Processed Word: precizu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: precizu -> Processed Word: presizu
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: presizu -> Processed Word: pɾesizu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: preto -> Processed Word: pretu
+Pattern Applied: o$->u
+
+Original Word: pretu -> Processed Word: pɾetu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: principal -> Processed Word: prĩcipal
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: prĩcipal -> Processed Word: prĩcipaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: prĩcipaɫ -> Processed Word: prĩsipaɫ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: prĩsipaɫ -> Processed Word: pɾĩsipaɫ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: pronto -> Processed Word: prõto
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: prõto -> Processed Word: prõtu
+Pattern Applied: o$->u
+
+Original Word: prõtu -> Processed Word: pɾõtu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: quente -> Processed Word: quẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: quẽte -> Processed Word: quẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: quẽtɨ -> Processed Word: kẽtɨ
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: rico -> Processed Word: ricu
+Pattern Applied: o$->u
+
+Original Word: ricu -> Processed Word: riku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: riku -> Processed Word: ʀiku
+Pattern Applied: ^r->ʀ
+
+Original Word: seco -> Processed Word: secu
+Pattern Applied: o$->u
+
+Original Word: secu -> Processed Word: seku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: simpático -> Processed Word: sĩpático
+Pattern Applied: im(?=[bcçdghjlmnpqrstvxz])->ĩ
+
+Original Word: sĩpático -> Processed Word: sĩpáticu
+Pattern Applied: o$->u
+
+Original Word: sĩpáticu -> Processed Word: sĩpaticu
+Pattern Applied: á(?!$)->a
+
+Original Word: sĩpaticu -> Processed Word: sĩpatiku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: simples -> Processed Word: sĩples
+Pattern Applied: im(?=[bcçdghjlmnpqrstvxz])->ĩ
+
+Original Word: sĩples -> Processed Word: sĩpleʃ
+Pattern Applied: s$->ʃ
+
+Original Word: sozinho -> Processed Word: sozinhu
+Pattern Applied: o$->u
+
+Original Word: sozinhu -> Processed Word: soziɲu
+Pattern Applied: nh->ɲ
+
+Original Word: triste -> Processed Word: tristɨ
+Pattern Applied: e$->ɨ
+
+Original Word: tristɨ -> Processed Word: triʃtɨ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: triʃtɨ -> Processed Word: tɾiʃtɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: último -> Processed Word: ultimo
+Pattern Applied: ú->u
+
+Original Word: ultimo -> Processed Word: ultimu
+Pattern Applied: o$->u
+
+Original Word: ultimu -> Processed Word: uɫtimu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: velho -> Processed Word: velhu
+Pattern Applied: o$->u
+
+Original Word: velhu -> Processed Word: veɫhu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: veɫhu -> Processed Word: vɛɫhu
+Pattern Applied: e(?=ɫ)->ɛ
+
+Original Word: vermelho -> Processed Word: vermelhu
+Pattern Applied: o$->u
+
+Original Word: vermelhu -> Processed Word: vermeɫhu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: vermeɫhu -> Processed Word: vermɛɫhu
+Pattern Applied: e(?=ɫ)->ɛ
+
+Original Word: vermɛɫhu -> Processed Word: veɾmɛɫhu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: vivo -> Processed Word: vivu
+Pattern Applied: o$->u
+
+Original Word: agora -> Processed Word: ɐgora
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐgora -> Processed Word: ɐgorɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ɐgorɐ -> Processed Word: ɐɣorɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: ɐɣorɐ -> Processed Word: ɐɣoɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: aí -> Processed Word: ɐi
+Pattern Applied: aí->ɐi
+
+Original Word: ainda -> Processed Word: aĩda
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: aĩda -> Processed Word: ɐĩda
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐĩda -> Processed Word: ɐĩdɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ali -> Processed Word: ɐli
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: amanhã -> Processed Word: amanhɐ̃
+Pattern Applied: ã(?!o)->ɐ̃
+
+Original Word: amanhɐ̃ -> Processed Word: ɐmanhɐ̃
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐmanhɐ̃ -> Processed Word: ɐmɐnhɐ̃
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: ɐmɐnhɐ̃ -> Processed Word: ɐmɐɲɐ̃
+Pattern Applied: nh->ɲ
+
+Original Word: apenas -> Processed Word: ɐpenas
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐpenas -> Processed Word: ɐpenaʃ
+Pattern Applied: s$->ʃ
+
+Original Word: aqui -> Processed Word: ɐqui
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐqui -> Processed Word: ɐki
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: assim -> Processed Word: assĩ
+Pattern Applied: im$->ĩ
+
+Original Word: assĩ -> Processed Word: ɐssĩ
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐssĩ -> Processed Word: ɐsĩ
+Pattern Applied: s{2}->s
+
+Original Word: até -> Processed Word: atɛ
+Pattern Applied: é->ɛ
+
+Original Word: atɛ -> Processed Word: ɐtɛ
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: bastante -> Processed Word: bastɐ̃te
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: bastɐ̃te -> Processed Word: bastɐ̃tɨ
+Pattern Applied: e$->ɨ
+
+Original Word: bastɐ̃tɨ -> Processed Word: baʃtɐ̃tɨ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: bem -> Processed Word: bɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: cá -> Processed Word: ca
+Pattern Applied: á$->a
+
+Original Word: ca -> Processed Word: ka
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: cedo -> Processed Word: cedu
+Pattern Applied: o$->u
+
+Original Word: cedu -> Processed Word: ceðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ceðu -> Processed Word: seðu
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: demasiado -> Processed Word: demasiadu
+Pattern Applied: o$->u
+
+Original Word: demasiadu -> Processed Word: demasiaðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: demasiaðu -> Processed Word: demaziaðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: depois -> Processed Word: depojs
+Pattern Applied: oi->oj
+
+Original Word: depojs -> Processed Word: depojʃ
+Pattern Applied: s$->ʃ
+
+Original Word: depressa -> Processed Word: depressɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: depressɐ -> Processed Word: depresɐ
+Pattern Applied: s{2}->s
+
+Original Word: depresɐ -> Processed Word: depɾesɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: embora -> Processed Word: ẽbora
+Pattern Applied: em(?=[bcçdghjlmnpqrstvxz])->ẽ
+
+Original Word: ẽbora -> Processed Word: ẽborɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ẽborɐ -> Processed Word: ẽboɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: então -> Processed Word: ẽtão
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽtão -> Processed Word: ẽtɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: entretanto -> Processed Word: ẽtretanto
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽtretanto -> Processed Word: ẽtretɐ̃to
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: ẽtretɐ̃to -> Processed Word: ẽtretɐ̃tu
+Pattern Applied: o$->u
+
+Original Word: ẽtretɐ̃tu -> Processed Word: ẽtɾetɐ̃tu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: finalmente -> Processed Word: finalmẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: finalmẽte -> Processed Word: finaɫmẽte
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: finaɫmẽte -> Processed Word: finaɫmẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: geralmente -> Processed Word: geralmẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: geralmẽte -> Processed Word: geraɫmẽte
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: geraɫmẽte -> Processed Word: geraɫmẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: geraɫmẽtɨ -> Processed Word: ʒeraɫmẽtɨ
+Pattern Applied: g(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->ʒ
+
+Original Word: ʒeraɫmẽtɨ -> Processed Word: ʒeɾaɫmẽtɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: hoje -> Processed Word: oje
+Pattern Applied: (?<![cln])h->
+
+Original Word: oje -> Processed Word: ojɨ
+Pattern Applied: e$->ɨ
+
+Original Word: imenso -> Processed Word: imẽso
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: imẽso -> Processed Word: imẽsu
+Pattern Applied: o$->u
+
+Original Word: já -> Processed Word: ʒá
+Pattern Applied: j(?=á)->ʒ
+
+Original Word: ʒá -> Processed Word: ʒa
+Pattern Applied: á$->a
+
+Original Word: lá -> Processed Word: la
+Pattern Applied: á$->a
+
+Original Word: logo -> Processed Word: logu
+Pattern Applied: o$->u
+
+Original Word: logu -> Processed Word: loɣu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: longe -> Processed Word: lõge
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: lõge -> Processed Word: lõgɨ
+Pattern Applied: e$->ɨ
+
+Original Word: lõgɨ -> Processed Word: lõʒɨ
+Pattern Applied: g(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->ʒ
+
+Original Word: mais -> Processed Word: majs
+Pattern Applied: ai(?=[bcçdghjlmnpqrstvxz])->aj
+
+Original Word: majs -> Processed Word: majʃ
+Pattern Applied: s$->ʃ
+
+Original Word: mal -> Processed Word: maɫ
+Pattern Applied: l$->ɫ
+
+Original Word: menos -> Processed Word: menoʃ
+Pattern Applied: s$->ʃ
+
+Original Word: mesmo -> Processed Word: mesmu
+Pattern Applied: o$->u
+
+Original Word: mesmu -> Processed Word: meʒmu
+Pattern Applied: s(?=(b|d|g|m|n|nh|^r|v|z|l|lh))->ʒ
+
+Original Word: muito -> Processed Word: mujto
+Pattern Applied: (?<![gq])ui->uj
+
+Original Word: mujto -> Processed Word: mujtu
+Pattern Applied: o$->u
+
+Original Word: nada -> Processed Word: nadɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: nadɐ -> Processed Word: naðɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: não -> Processed Word: nɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: nem -> Processed Word: nɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: normalmente -> Processed Word: normalmẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: normalmẽte -> Processed Word: normaɫmẽte
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: normaɫmẽte -> Processed Word: normaɫmẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: normaɫmẽtɨ -> Processed Word: noɾmaɫmẽtɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: nunca -> Processed Word: nũca
+Pattern Applied: un(?=[bcçdgjlmnpqrstvxz])->ũ
+
+Original Word: nũca -> Processed Word: nũcɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: nũcɐ -> Processed Word: nũkɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: ora -> Processed Word: orɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: orɐ -> Processed Word: oɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: pois -> Processed Word: pojs
+Pattern Applied: oi->oj
+
+Original Word: pojs -> Processed Word: pojʃ
+Pattern Applied: s$->ʃ
+
+Original Word: portanto -> Processed Word: portɐ̃to
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: portɐ̃to -> Processed Word: portɐ̃tu
+Pattern Applied: o$->u
+
+Original Word: portɐ̃tu -> Processed Word: poɾtɐ̃tu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: pouco -> Processed Word: poucu
+Pattern Applied: o$->u
+
+Original Word: poucu -> Processed Word: pocu
+Pattern Applied: ou->o
+
+Original Word: pocu -> Processed Word: poku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: primeiro -> Processed Word: primɐjro
+Pattern Applied: ei->ɐj
+
+Original Word: primɐjro -> Processed Word: primɐjru
+Pattern Applied: o$->u
+
+Original Word: primɐjru -> Processed Word: primɐjɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: primɐjɾu -> Processed Word: pɾimɐjɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: quase -> Processed Word: quasɨ
+Pattern Applied: e$->ɨ
+
+Original Word: quasɨ -> Processed Word: quazɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: quazɨ -> Processed Word: kuazɨ
+Pattern Applied: q->k
+
+Original Word: rapidamente -> Processed Word: rapidamẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: rapidamẽte -> Processed Word: rapidamẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: rapidamẽtɨ -> Processed Word: rapidɐmẽtɨ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: rapidɐmẽtɨ -> Processed Word: rapiðɐmẽtɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: rapiðɐmẽtɨ -> Processed Word: ʀapiðɐmẽtɨ
+Pattern Applied: ^r->ʀ
+
+Original Word: sempre -> Processed Word: sẽpre
+Pattern Applied: em(?=[bcçdghjlmnpqrstvxz])->ẽ
+
+Original Word: sẽpre -> Processed Word: sẽprɨ
+Pattern Applied: e$->ɨ
+
+Original Word: sẽprɨ -> Processed Word: sẽpɾɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: sim -> Processed Word: sĩ
+Pattern Applied: im$->ĩ
+
+Original Word: só -> Processed Word: sɔ
+Pattern Applied: ó->ɔ
+
+Original Word: sobretudo -> Processed Word: sobretudu
+Pattern Applied: o$->u
+
+Original Word: sobretudu -> Processed Word: sobretuðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: sobretuðu -> Processed Word: sobɾetuðu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: talvez -> Processed Word: taɫvez
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: taɫvez -> Processed Word: taɫveʃ
+Pattern Applied: z$->ʃ
+
+Original Word: também -> Processed Word: tɐ̃bém
+Pattern Applied: am(?=[bcçdghjlmnpqrstvxz])->ɐ̃
+
+Original Word: tɐ̃bém -> Processed Word: tɐ̃bɐ̃j̃
+Pattern Applied: ém$->ɐ̃j̃
+
+Original Word: tanto -> Processed Word: tɐ̃to
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: tɐ̃to -> Processed Word: tɐ̃tu
+Pattern Applied: o$->u
+
+Original Word: tão -> Processed Word: tɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: tarde -> Processed Word: tardɨ
+Pattern Applied: e$->ɨ
+
+Original Word: tardɨ -> Processed Word: taɾdɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: o -> Processed Word: u
+Pattern Applied: o$->u
+
+Original Word: um -> Processed Word: ũ
+Pattern Applied: um$->ũ
+
+Original Word: ao -> Processed Word: aw
+Pattern Applied: ao->aw
+
+Original Word: até -> Processed Word: atɛ
+Pattern Applied: é->ɛ
+
+Original Word: atɛ -> Processed Word: ɐtɛ
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: como -> Processed Word: comu
+Pattern Applied: o$->u
+
+Original Word: comu -> Processed Word: komu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: e -> Processed Word: ɨ
+Pattern Applied: e$->ɨ
+
+Original Word: enquanto -> Processed Word: ẽquanto
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽquanto -> Processed Word: ẽquɐ̃to
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: ẽquɐ̃to -> Processed Word: ẽquɐ̃tu
+Pattern Applied: o$->u
+
+Original Word: ẽquɐ̃tu -> Processed Word: ẽkuɐ̃tu
+Pattern Applied: q->k
+
+Original Word: mas -> Processed Word: maʃ
+Pattern Applied: s$->ʃ
+
+Original Word: ou -> Processed Word: o
+Pattern Applied: ou->o
+
+Original Word: para -> Processed Word: parɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: parɐ -> Processed Word: paɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: pois -> Processed Word: pojs
+Pattern Applied: oi->oj
+
+Original Word: pojs -> Processed Word: pojʃ
+Pattern Applied: s$->ʃ
+
+Original Word: por -> Processed Word: poɾ
+Pattern Applied: r$->ɾ
+
+Original Word: porque -> Processed Word: porquɨ
+Pattern Applied: e$->ɨ
+
+Original Word: porquɨ -> Processed Word: porkɨ
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: porkɨ -> Processed Word: poɾkɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: quando -> Processed Word: quɐ̃do
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: quɐ̃do -> Processed Word: quɐ̃du
+Pattern Applied: o$->u
+
+Original Word: quɐ̃du -> Processed Word: kuɐ̃du
+Pattern Applied: q->k
+
+Original Word: que -> Processed Word: quɨ
+Pattern Applied: e$->ɨ
+
+Original Word: quɨ -> Processed Word: kɨ
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: se -> Processed Word: sɨ
+Pattern Applied: e$->ɨ
+
+Original Word: sem -> Processed Word: sɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: ah -> Processed Word: a
+Pattern Applied: (?<![cln])h->
+
+Original Word: a -> Processed Word: ɐ
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ó -> Processed Word: ɔ
+Pattern Applied: ó->ɔ
+
+Original Word: oh -> Processed Word: o
+Pattern Applied: (?<![cln])h->
+
+Original Word: olá -> Processed Word: ola
+Pattern Applied: á$->a
+
+Original Word: abóbora -> Processed Word: abɔbora
+Pattern Applied: ó->ɔ
+
+Original Word: abɔbora -> Processed Word: ɐbɔbora
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐbɔbora -> Processed Word: ɐbɔborɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ɐbɔborɐ -> Processed Word: ɐβɔβorɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: ɐβɔβorɐ -> Processed Word: ɐβɔβoɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: abraço -> Processed Word: abraçu
+Pattern Applied: o$->u
+
+Original Word: abraçu -> Processed Word: ɐbraçu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐbraçu -> Processed Word: ɐbɾaçu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: ɐbɾaçu -> Processed Word: ɐbɾasu
+Pattern Applied: ç->s
+
+Original Word: abril -> Processed Word: abriɫ
+Pattern Applied: l$->ɫ
+
+Original Word: abriɫ -> Processed Word: ɐbriɫ
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐbriɫ -> Processed Word: ɐbɾiɫ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: ação -> Processed Word: açɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: açɐ̃w̃ -> Processed Word: ɐçɐ̃w̃
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐçɐ̃w̃ -> Processed Word: ɐsɐ̃w̃
+Pattern Applied: ç->s
+
+Original Word: acidente -> Processed Word: acidẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: acidẽte -> Processed Word: ɐcidẽte
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐcidẽte -> Processed Word: ɐcidẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: ɐcidẽtɨ -> Processed Word: ɐciðẽtɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ɐciðẽtɨ -> Processed Word: ɐsiðẽtɨ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: açúcar -> Processed Word: açucar
+Pattern Applied: ú->u
+
+Original Word: açucar -> Processed Word: ɐçucar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐçucar -> Processed Word: ɐçukar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: ɐçukar -> Processed Word: ɐçukaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ɐçukaɾ -> Processed Word: ɐsukaɾ
+Pattern Applied: ç->s
+
+Original Word: adulto -> Processed Word: adultu
+Pattern Applied: o$->u
+
+Original Word: adultu -> Processed Word: aduɫtu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: aduɫtu -> Processed Word: ɐduɫtu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐduɫtu -> Processed Word: ɐðuɫtu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: agosto -> Processed Word: agostu
+Pattern Applied: o$->u
+
+Original Word: agostu -> Processed Word: ɐgostu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐgostu -> Processed Word: ɐgoʃtu
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: ɐgoʃtu -> Processed Word: ɐɣoʃtu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: água -> Processed Word: agua
+Pattern Applied: á(?!$)->a
+
+Original Word: agua -> Processed Word: aguɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: aguɐ -> Processed Word: aɣuɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: ajuda -> Processed Word: aʒuda
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: aʒuda -> Processed Word: ɐʒuda
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐʒuda -> Processed Word: ɐʒudɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ɐʒudɐ -> Processed Word: ɐʒuðɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: aldeia -> Processed Word: aldɐja
+Pattern Applied: ei->ɐj
+
+Original Word: aldɐja -> Processed Word: aɫdɐja
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: aɫdɐja -> Processed Word: aɫdɐjɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: alegria -> Processed Word: ɐlegria
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐlegria -> Processed Word: ɐlegriɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ɐlegriɐ -> Processed Word: ɐlegɾiɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: alho -> Processed Word: alhu
+Pattern Applied: o$->u
+
+Original Word: alhu -> Processed Word: aɫhu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: almoço -> Processed Word: almoçu
+Pattern Applied: o$->u
+
+Original Word: almoçu -> Processed Word: aɫmoçu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: aɫmoçu -> Processed Word: aɫmosu
+Pattern Applied: ç->s
+
+Original Word: altura -> Processed Word: aɫtura
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: aɫtura -> Processed Word: aɫturɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: aɫturɐ -> Processed Word: aɫtuɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: aluno -> Processed Word: alunu
+Pattern Applied: o$->u
+
+Original Word: alunu -> Processed Word: ɐlunu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: amigo -> Processed Word: amigu
+Pattern Applied: o$->u
+
+Original Word: amigu -> Processed Word: ɐmigu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐmigu -> Processed Word: ɐmiɣu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: amizade -> Processed Word: ɐmizade
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐmizade -> Processed Word: ɐmizadɨ
+Pattern Applied: e$->ɨ
+
+Original Word: ɐmizadɨ -> Processed Word: ɐmizaðɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: amor -> Processed Word: ɐmor
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐmor -> Processed Word: ɐmoɾ
+Pattern Applied: r$->ɾ
+
+Original Word: animal -> Processed Word: animaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: animaɫ -> Processed Word: ɐnimaɫ
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ano -> Processed Word: anu
+Pattern Applied: o$->u
+
+Original Word: anu -> Processed Word: ɐnu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: apartamento -> Processed Word: apartamẽto
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: apartamẽto -> Processed Word: apartamẽtu
+Pattern Applied: o$->u
+
+Original Word: apartamẽtu -> Processed Word: ɐpartamẽtu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐpartamẽtu -> Processed Word: ɐpartɐmẽtu
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: ɐpartɐmẽtu -> Processed Word: ɐpaɾtɐmẽtu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: ar -> Processed Word: ɐr
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐr -> Processed Word: ɐɾ
+Pattern Applied: r$->ɾ
+
+Original Word: área -> Processed Word: area
+Pattern Applied: á(?!$)->a
+
+Original Word: area -> Processed Word: areɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: areɐ -> Processed Word: aɾeɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: armário -> Processed Word: armáriu
+Pattern Applied: o$->u
+
+Original Word: armáriu -> Processed Word: ɐrmáriu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐrmáriu -> Processed Word: ɐrmariu
+Pattern Applied: á(?!$)->a
+
+Original Word: ɐrmariu -> Processed Word: ɐɾmariu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: ɐɾmariu -> Processed Word: ɐɾmaɾiu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: arroz -> Processed Word: ɐrroz
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐrroz -> Processed Word: ɐʀoz
+Pattern Applied: (r{2})->ʀ
+
+Original Word: ɐʀoz -> Processed Word: ɐʀoʃ
+Pattern Applied: z$->ʃ
+
+Original Word: artigo -> Processed Word: artigu
+Pattern Applied: o$->u
+
+Original Word: artigu -> Processed Word: ɐrtigu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐrtigu -> Processed Word: ɐrtiɣu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: ɐrtiɣu -> Processed Word: ɐɾtiɣu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: árvore -> Processed Word: arvore
+Pattern Applied: á(?!$)->a
+
+Original Word: arvore -> Processed Word: arvorɨ
+Pattern Applied: e$->ɨ
+
+Original Word: arvorɨ -> Processed Word: aɾvorɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: aɾvorɨ -> Processed Word: aɾvoɾɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: asa -> Processed Word: ɐsa
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐsa -> Processed Word: ɐsɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ɐsɐ -> Processed Word: ɐzɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: atenção -> Processed Word: atẽção
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: atẽção -> Processed Word: atẽçɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: atẽçɐ̃w̃ -> Processed Word: ɐtẽçɐ̃w̃
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐtẽçɐ̃w̃ -> Processed Word: ɐtẽsɐ̃w̃
+Pattern Applied: ç->s
+
+Original Word: atividade -> Processed Word: ɐtividade
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐtividade -> Processed Word: ɐtividadɨ
+Pattern Applied: e$->ɨ
+
+Original Word: ɐtividadɨ -> Processed Word: ɐtiviðaðɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ator -> Processed Word: ɐtor
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐtor -> Processed Word: ɐtoɾ
+Pattern Applied: r$->ɾ
+
+Original Word: aula -> Processed Word: awla
+Pattern Applied: au->aw
+
+Original Word: awla -> Processed Word: awlɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: autor -> Processed Word: awtor
+Pattern Applied: au->aw
+
+Original Word: awtor -> Processed Word: awtoɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ave -> Processed Word: ɐve
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐve -> Processed Word: ɐvɨ
+Pattern Applied: e$->ɨ
+
+Original Word: avenida -> Processed Word: ɐvenida
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐvenida -> Processed Word: ɐvenidɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ɐvenidɐ -> Processed Word: ɐveniðɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: avião -> Processed Word: aviɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: aviɐ̃w̃ -> Processed Word: ɐviɐ̃w̃
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: avô -> Processed Word: avo
+Pattern Applied: ô->o
+
+Original Word: avo -> Processed Word: ɐvo
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: azeite -> Processed Word: azɐjte
+Pattern Applied: ei->ɐj
+
+Original Word: azɐjte -> Processed Word: ɐzɐjte
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐzɐjte -> Processed Word: ɐzɐjtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: bacalhau -> Processed Word: bacalhaw
+Pattern Applied: au->aw
+
+Original Word: bacalhaw -> Processed Word: bacaɫhaw
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: bacaɫhaw -> Processed Word: bakaɫhaw
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: bairro -> Processed Word: bajrro
+Pattern Applied: ai(?=[bcçdghjlmnpqrstvxz])->aj
+
+Original Word: bajrro -> Processed Word: bajrru
+Pattern Applied: o$->u
+
+Original Word: bajrru -> Processed Word: bajʀu
+Pattern Applied: (r{2})->ʀ
+
+Original Word: banho -> Processed Word: banhu
+Pattern Applied: o$->u
+
+Original Word: banhu -> Processed Word: bɐnhu
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: bɐnhu -> Processed Word: bɐɲu
+Pattern Applied: nh->ɲ
+
+Original Word: barba -> Processed Word: barbɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: barbɐ -> Processed Word: baɾbɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: barco -> Processed Word: barcu
+Pattern Applied: o$->u
+
+Original Word: barcu -> Processed Word: barku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: barku -> Processed Word: baɾku
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: barulho -> Processed Word: barulhu
+Pattern Applied: o$->u
+
+Original Word: barulhu -> Processed Word: baruɫhu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: baruɫhu -> Processed Word: baɾuɫhu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: batata -> Processed Word: batatɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: bebé -> Processed Word: bebɛ
+Pattern Applied: é->ɛ
+
+Original Word: bebɛ -> Processed Word: beβɛ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: bebida -> Processed Word: bebidɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: bebidɐ -> Processed Word: beβidɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: beβidɐ -> Processed Word: beβiðɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: beijinho -> Processed Word: bɐjjinho
+Pattern Applied: ei->ɐj
+
+Original Word: bɐjjinho -> Processed Word: bɐjjinhu
+Pattern Applied: o$->u
+
+Original Word: bɐjjinhu -> Processed Word: bɐjʒinhu
+Pattern Applied: (?<=(ɐ̃j̃|õj̃|oj|ɐj|ɔj|uj))j(?=[aɐ̃eẽiĩɛoõɔuũ])->ʒ
+
+Original Word: bɐjʒinhu -> Processed Word: bɐjʒiɲu
+Pattern Applied: nh->ɲ
+
+Original Word: bicicleta -> Processed Word: bicicletɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: bicicletɐ -> Processed Word: bicikletɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: bicikletɐ -> Processed Word: bisikletɐ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: bife -> Processed Word: bifɨ
+Pattern Applied: e$->ɨ
+
+Original Word: bilhete -> Processed Word: biɫhete
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: biɫhete -> Processed Word: biɫhetɨ
+Pattern Applied: e$->ɨ
+
+Original Word: boa-tarde -> Processed Word: boa-tardɨ
+Pattern Applied: e$->ɨ
+
+Original Word: boa-tardɨ -> Processed Word: boa-taɾdɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: boa-taɾdɨ -> Processed Word: boa taɾdɨ
+Pattern Applied: --> 
+
+Original Word: boca -> Processed Word: bocɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: bocɐ -> Processed Word: bokɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: boi -> Processed Word: boj
+Pattern Applied: oi->oj
+
+Original Word: bola -> Processed Word: bolɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: bolo -> Processed Word: bolu
+Pattern Applied: o$->u
+
+Original Word: bom -> Processed Word: bõ
+Pattern Applied: om$->õ
+
+Original Word: bom-dia -> Processed Word: bõ-dia
+Pattern Applied: om(?=[-])->õ
+
+Original Word: bõ-dia -> Processed Word: bõ-diɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: bõ-diɐ -> Processed Word: bõ diɐ
+Pattern Applied: --> 
+
+Original Word: boneca -> Processed Word: bonecɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: bonecɐ -> Processed Word: bonekɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: boneco -> Processed Word: bonecu
+Pattern Applied: o$->u
+
+Original Word: bonecu -> Processed Word: boneku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: braço -> Processed Word: braçu
+Pattern Applied: o$->u
+
+Original Word: braçu -> Processed Word: bɾaçu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: bɾaçu -> Processed Word: bɾasu
+Pattern Applied: ç->s
+
+Original Word: brinquedo -> Processed Word: brĩquedo
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: brĩquedo -> Processed Word: brĩquedu
+Pattern Applied: o$->u
+
+Original Word: brĩquedu -> Processed Word: brĩqueðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: brĩqueðu -> Processed Word: brĩkeðu
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: brĩkeðu -> Processed Word: bɾĩkeðu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: buraco -> Processed Word: buracu
+Pattern Applied: o$->u
+
+Original Word: buracu -> Processed Word: buraku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: buraku -> Processed Word: buɾaku
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: cabeça -> Processed Word: cabeçɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cabeçɐ -> Processed Word: caβeçɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: caβeçɐ -> Processed Word: kaβeçɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kaβeçɐ -> Processed Word: kaβesɐ
+Pattern Applied: ç->s
+
+Original Word: cabelo -> Processed Word: cabelu
+Pattern Applied: o$->u
+
+Original Word: cabelu -> Processed Word: caβelu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: caβelu -> Processed Word: kaβelu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: caderno -> Processed Word: cadernu
+Pattern Applied: o$->u
+
+Original Word: cadernu -> Processed Word: caðernu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: caðernu -> Processed Word: kaðernu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kaðernu -> Processed Word: kaðeɾnu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: café -> Processed Word: cafɛ
+Pattern Applied: é->ɛ
+
+Original Word: cafɛ -> Processed Word: kafɛ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: calor -> Processed Word: kalor
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kalor -> Processed Word: kaloɾ
+Pattern Applied: r$->ɾ
+
+Original Word: cama -> Processed Word: camɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: camɐ -> Processed Word: cɐmɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: cɐmɐ -> Processed Word: kɐmɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: caminho -> Processed Word: caminhu
+Pattern Applied: o$->u
+
+Original Word: caminhu -> Processed Word: cɐminhu
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: cɐminhu -> Processed Word: kɐminhu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kɐminhu -> Processed Word: kɐmiɲu
+Pattern Applied: nh->ɲ
+
+Original Word: camisa -> Processed Word: camisɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: camisɐ -> Processed Word: cɐmisɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: cɐmisɐ -> Processed Word: cɐmizɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: cɐmizɐ -> Processed Word: kɐmizɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: campo -> Processed Word: cɐ̃po
+Pattern Applied: am(?=[bcçdghjlmnpqrstvxz])->ɐ̃
+
+Original Word: cɐ̃po -> Processed Word: cɐ̃pu
+Pattern Applied: o$->u
+
+Original Word: cɐ̃pu -> Processed Word: kɐ̃pu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: canção -> Processed Word: cɐ̃ção
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: cɐ̃ção -> Processed Word: cɐ̃çɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: cɐ̃çɐ̃w̃ -> Processed Word: kɐ̃çɐ̃w̃
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kɐ̃çɐ̃w̃ -> Processed Word: kɐ̃sɐ̃w̃
+Pattern Applied: ç->s
+
+Original Word: canela -> Processed Word: canelɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: canelɐ -> Processed Word: cɐnelɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: cɐnelɐ -> Processed Word: kɐnelɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: canto -> Processed Word: cɐ̃to
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: cɐ̃to -> Processed Word: cɐ̃tu
+Pattern Applied: o$->u
+
+Original Word: cɐ̃tu -> Processed Word: kɐ̃tu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: cão -> Processed Word: cɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: cɐ̃w̃ -> Processed Word: kɐ̃w̃
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: cara -> Processed Word: carɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: carɐ -> Processed Word: karɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: karɐ -> Processed Word: kaɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: carnaval -> Processed Word: carnavaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: carnavaɫ -> Processed Word: karnavaɫ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: karnavaɫ -> Processed Word: kaɾnavaɫ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: carne -> Processed Word: carnɨ
+Pattern Applied: e$->ɨ
+
+Original Word: carnɨ -> Processed Word: karnɨ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: karnɨ -> Processed Word: kaɾnɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: carro -> Processed Word: carru
+Pattern Applied: o$->u
+
+Original Word: carru -> Processed Word: karru
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: karru -> Processed Word: kaʀu
+Pattern Applied: (r{2})->ʀ
+
+Original Word: carta -> Processed Word: cartɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cartɐ -> Processed Word: kartɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kartɐ -> Processed Word: kaɾtɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: casa -> Processed Word: casɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: casɐ -> Processed Word: cazɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: cazɐ -> Processed Word: kazɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: casca -> Processed Word: cascɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cascɐ -> Processed Word: kaskɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kaskɐ -> Processed Word: kaʃkɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: caso -> Processed Word: casu
+Pattern Applied: o$->u
+
+Original Word: casu -> Processed Word: cazu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: cazu -> Processed Word: kazu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: castanha -> Processed Word: castanhɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: castanhɐ -> Processed Word: castɐnhɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: castɐnhɐ -> Processed Word: kastɐnhɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kastɐnhɐ -> Processed Word: kaʃtɐnhɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: kaʃtɐnhɐ -> Processed Word: kaʃtɐɲɐ
+Pattern Applied: nh->ɲ
+
+Original Word: cavalo -> Processed Word: cavalu
+Pattern Applied: o$->u
+
+Original Word: cavalu -> Processed Word: kavalu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: cebola -> Processed Word: cebolɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cebolɐ -> Processed Word: ceβolɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: ceβolɐ -> Processed Word: seβolɐ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: cenoura -> Processed Word: cenora
+Pattern Applied: ou->o
+
+Original Word: cenora -> Processed Word: cenorɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cenorɐ -> Processed Word: senorɐ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: senorɐ -> Processed Word: senoɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: centro -> Processed Word: cẽtro
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: cẽtro -> Processed Word: cẽtru
+Pattern Applied: o$->u
+
+Original Word: cẽtru -> Processed Word: sẽtru
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: sẽtru -> Processed Word: sẽtɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: certeza -> Processed Word: certezɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: certezɐ -> Processed Word: sertezɐ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: sertezɐ -> Processed Word: seɾtezɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: céu -> Processed Word: cɛw
+Pattern Applied: éu->ɛw
+
+Original Word: cɛw -> Processed Word: sɛw
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: chão -> Processed Word: chɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: chɐ̃w̃ -> Processed Word: ʃɐ̃w̃
+Pattern Applied: ^ch->ʃ
+
+Original Word: chave -> Processed Word: chavɨ
+Pattern Applied: e$->ɨ
+
+Original Word: chavɨ -> Processed Word: ʃavɨ
+Pattern Applied: ^ch->ʃ
+
+Original Word: cheiro -> Processed Word: chɐjro
+Pattern Applied: ei->ɐj
+
+Original Word: chɐjro -> Processed Word: chɐjru
+Pattern Applied: o$->u
+
+Original Word: chɐjru -> Processed Word: ʃɐjru
+Pattern Applied: ^ch->ʃ
+
+Original Word: ʃɐjru -> Processed Word: ʃɐjɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: chocolate -> Processed Word: chocolatɨ
+Pattern Applied: e$->ɨ
+
+Original Word: chocolatɨ -> Processed Word: ʃocolatɨ
+Pattern Applied: ^ch->ʃ
+
+Original Word: ʃocolatɨ -> Processed Word: ʃokolatɨ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: chouriço -> Processed Word: chouriçu
+Pattern Applied: o$->u
+
+Original Word: chouriçu -> Processed Word: choriçu
+Pattern Applied: ou->o
+
+Original Word: choriçu -> Processed Word: ʃoriçu
+Pattern Applied: ^ch->ʃ
+
+Original Word: ʃoriçu -> Processed Word: ʃoɾiçu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: ʃoɾiçu -> Processed Word: ʃoɾisu
+Pattern Applied: ç->s
+
+Original Word: chuva -> Processed Word: chuvɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: chuvɐ -> Processed Word: ʃuvɐ
+Pattern Applied: ^ch->ʃ
+
+Original Word: cidade -> Processed Word: cidadɨ
+Pattern Applied: e$->ɨ
+
+Original Word: cidadɨ -> Processed Word: ciðaðɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ciðaðɨ -> Processed Word: siðaðɨ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: cigarra -> Processed Word: cigarrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cigarrɐ -> Processed Word: sigarrɐ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: sigarrɐ -> Processed Word: siɣarrɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: siɣarrɐ -> Processed Word: siɣaʀɐ
+Pattern Applied: (r{2})->ʀ
+
+Original Word: cinema -> Processed Word: cinemɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cinemɐ -> Processed Word: sinemɐ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: cliente -> Processed Word: cliẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: cliẽte -> Processed Word: cliẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: cliẽtɨ -> Processed Word: kliẽtɨ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: clube -> Processed Word: clubɨ
+Pattern Applied: e$->ɨ
+
+Original Word: clubɨ -> Processed Word: cluβɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: cluβɨ -> Processed Word: kluβɨ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: coelho -> Processed Word: coelhu
+Pattern Applied: o$->u
+
+Original Word: coelhu -> Processed Word: coeɫhu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: coeɫhu -> Processed Word: coɛɫhu
+Pattern Applied: e(?=ɫ)->ɛ
+
+Original Word: coɛɫhu -> Processed Word: koɛɫhu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: coisa -> Processed Word: cojsa
+Pattern Applied: oi->oj
+
+Original Word: cojsa -> Processed Word: cojsɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cojsɐ -> Processed Word: cojzɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: cojzɐ -> Processed Word: kojzɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: colega -> Processed Word: colegɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: colegɐ -> Processed Word: kolegɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kolegɐ -> Processed Word: koleɣɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: colher -> Processed Word: coɫher
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: coɫher -> Processed Word: koɫher
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: koɫher -> Processed Word: koɫheɾ
+Pattern Applied: r$->ɾ
+
+Original Word: comboio -> Processed Word: cõboio
+Pattern Applied: om(?=[bcçdghjlmnpqrstvxz])->õ
+
+Original Word: cõboio -> Processed Word: cõbojo
+Pattern Applied: oi->oj
+
+Original Word: cõbojo -> Processed Word: cõboju
+Pattern Applied: o$->u
+
+Original Word: cõboju -> Processed Word: kõboju
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: comida -> Processed Word: comidɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: comidɐ -> Processed Word: comiðɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: comiðɐ -> Processed Word: komiðɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: compra -> Processed Word: cõpra
+Pattern Applied: om(?=[bcçdghjlmnpqrstvxz])->õ
+
+Original Word: cõpra -> Processed Word: cõprɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cõprɐ -> Processed Word: kõprɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kõprɐ -> Processed Word: kõpɾɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: concurso -> Processed Word: cõcurso
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: cõcurso -> Processed Word: cõcursu
+Pattern Applied: o$->u
+
+Original Word: cõcursu -> Processed Word: kõkursu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kõkursu -> Processed Word: kõkuɾsu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: consulta -> Processed Word: cõsulta
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: cõsulta -> Processed Word: cõsuɫta
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: cõsuɫta -> Processed Word: cõsuɫtɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cõsuɫtɐ -> Processed Word: kõsuɫtɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: conta -> Processed Word: cõta
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: cõta -> Processed Word: cõtɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cõtɐ -> Processed Word: kõtɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: conversa -> Processed Word: cõversa
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: cõversa -> Processed Word: cõversɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cõversɐ -> Processed Word: kõversɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kõversɐ -> Processed Word: kõveɾsɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: copo -> Processed Word: copu
+Pattern Applied: o$->u
+
+Original Word: copu -> Processed Word: kopu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: cor -> Processed Word: kor
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kor -> Processed Word: koɾ
+Pattern Applied: r$->ɾ
+
+Original Word: coração -> Processed Word: coraçɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: coraçɐ̃w̃ -> Processed Word: koraçɐ̃w̃
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: koraçɐ̃w̃ -> Processed Word: koɾaçɐ̃w̃
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: koɾaçɐ̃w̃ -> Processed Word: koɾasɐ̃w̃
+Pattern Applied: ç->s
+
+Original Word: corda -> Processed Word: cordɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cordɐ -> Processed Word: kordɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kordɐ -> Processed Word: koɾdɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: corpo -> Processed Word: corpu
+Pattern Applied: o$->u
+
+Original Word: corpu -> Processed Word: korpu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: korpu -> Processed Word: koɾpu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: costa -> Processed Word: costɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: costɐ -> Processed Word: kostɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kostɐ -> Processed Word: koʃtɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: cozinha -> Processed Word: cozinhɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cozinhɐ -> Processed Word: kozinhɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kozinhɐ -> Processed Word: koziɲɐ
+Pattern Applied: nh->ɲ
+
+Original Word: creme -> Processed Word: cremɨ
+Pattern Applied: e$->ɨ
+
+Original Word: cremɨ -> Processed Word: kremɨ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: criança -> Processed Word: criɐ̃ça
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: criɐ̃ça -> Processed Word: criɐ̃çɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: criɐ̃çɐ -> Processed Word: kriɐ̃çɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kriɐ̃çɐ -> Processed Word: kriɐ̃sɐ
+Pattern Applied: ç->s
+
+Original Word: cuidado -> Processed Word: cujdado
+Pattern Applied: (?<![gq])ui->uj
+
+Original Word: cujdado -> Processed Word: cujdadu
+Pattern Applied: o$->u
+
+Original Word: cujdadu -> Processed Word: cujðaðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: cujðaðu -> Processed Word: kujðaðu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: curso -> Processed Word: cursu
+Pattern Applied: o$->u
+
+Original Word: cursu -> Processed Word: kursu
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kursu -> Processed Word: kuɾsu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: data -> Processed Word: datɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: dedo -> Processed Word: dedu
+Pattern Applied: o$->u
+
+Original Word: dedu -> Processed Word: deðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: dente -> Processed Word: dẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: dẽte -> Processed Word: dẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: desculpa -> Processed Word: descuɫpa
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: descuɫpa -> Processed Word: descuɫpɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: descuɫpɐ -> Processed Word: deskuɫpɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: deskuɫpɐ -> Processed Word: deʃkuɫpɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: desporto -> Processed Word: desportu
+Pattern Applied: o$->u
+
+Original Word: desportu -> Processed Word: deʃportu
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: deʃportu -> Processed Word: deʃpoɾtu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: dezembro -> Processed Word: dezẽbro
+Pattern Applied: em(?=[bcçdghjlmnpqrstvxz])->ẽ
+
+Original Word: dezẽbro -> Processed Word: dezẽbru
+Pattern Applied: o$->u
+
+Original Word: dezẽbru -> Processed Word: dezẽbɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: dia -> Processed Word: diɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: dinheiro -> Processed Word: dinhɐjro
+Pattern Applied: ei->ɐj
+
+Original Word: dinhɐjro -> Processed Word: dinhɐjru
+Pattern Applied: o$->u
+
+Original Word: dinhɐjru -> Processed Word: dinhɐjɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: dinhɐjɾu -> Processed Word: diɲɐjɾu
+Pattern Applied: nh->ɲ
+
+Original Word: direito -> Processed Word: dirɐjto
+Pattern Applied: ei->ɐj
+
+Original Word: dirɐjto -> Processed Word: dirɐjtu
+Pattern Applied: o$->u
+
+Original Word: dirɐjtu -> Processed Word: diɾɐjtu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: doce -> Processed Word: docɨ
+Pattern Applied: e$->ɨ
+
+Original Word: docɨ -> Processed Word: dosɨ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: doença -> Processed Word: doẽça
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: doẽça -> Processed Word: doẽçɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: doẽçɐ -> Processed Word: doẽsɐ
+Pattern Applied: ç->s
+
+Original Word: domingo -> Processed Word: domĩgo
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: domĩgo -> Processed Word: domĩgu
+Pattern Applied: o$->u
+
+Original Word: dono -> Processed Word: donu
+Pattern Applied: o$->u
+
+Original Word: doutor -> Processed Word: dotor
+Pattern Applied: ou->o
+
+Original Word: dotor -> Processed Word: dotoɾ
+Pattern Applied: r$->ɾ
+
+Original Word: empresa -> Processed Word: ẽpresa
+Pattern Applied: em(?=[bcçdghjlmnpqrstvxz])->ẽ
+
+Original Word: ẽpresa -> Processed Word: ẽpresɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ẽpresɐ -> Processed Word: ẽprezɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: ẽprezɐ -> Processed Word: ẽpɾezɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: entrada -> Processed Word: ẽtrada
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽtrada -> Processed Word: ẽtradɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ẽtradɐ -> Processed Word: ẽtraðɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ẽtraðɐ -> Processed Word: ẽtɾaðɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: equipa -> Processed Word: equipɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: equipɐ -> Processed Word: ekipɐ
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: escola -> Processed Word: escolɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: escolɐ -> Processed Word: eskolɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: eskolɐ -> Processed Word: eʃkolɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: espaço -> Processed Word: espaçu
+Pattern Applied: o$->u
+
+Original Word: espaçu -> Processed Word: eʃpaçu
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: eʃpaçu -> Processed Word: eʃpasu
+Pattern Applied: ç->s
+
+Original Word: espera -> Processed Word: esperɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: esperɐ -> Processed Word: eʃperɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: eʃperɐ -> Processed Word: eʃpeɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: estudante -> Processed Word: estudɐ̃te
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: estudɐ̃te -> Processed Word: estudɐ̃tɨ
+Pattern Applied: e$->ɨ
+
+Original Word: estudɐ̃tɨ -> Processed Word: estuðɐ̃tɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: estuðɐ̃tɨ -> Processed Word: eʃtuðɐ̃tɨ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: estudo -> Processed Word: estudu
+Pattern Applied: o$->u
+
+Original Word: estudu -> Processed Word: estuðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: estuðu -> Processed Word: eʃtuðu
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: euro -> Processed Word: ewro
+Pattern Applied: eu->ew
+
+Original Word: ewro -> Processed Word: ewru
+Pattern Applied: o$->u
+
+Original Word: ewru -> Processed Word: ewɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: exemplo -> Processed Word: exẽplo
+Pattern Applied: em(?=[bcçdghjlmnpqrstvxz])->ẽ
+
+Original Word: exẽplo -> Processed Word: exẽplu
+Pattern Applied: o$->u
+
+Original Word: exẽplu -> Processed Word: eʃẽplu
+Pattern Applied: x->ʃ
+
+Original Word: fada -> Processed Word: fadɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: fadɐ -> Processed Word: faðɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: família -> Processed Word: familia
+Pattern Applied: í->i
+
+Original Word: familia -> Processed Word: familiɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: familiɐ -> Processed Word: fɐmiliɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: farinha -> Processed Word: farinhɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: farinhɐ -> Processed Word: faɾinhɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: faɾinhɐ -> Processed Word: faɾiɲɐ
+Pattern Applied: nh->ɲ
+
+Original Word: feijão -> Processed Word: feijɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: feijɐ̃w̃ -> Processed Word: fɐjjɐ̃w̃
+Pattern Applied: ei->ɐj
+
+Original Word: fɐjjɐ̃w̃ -> Processed Word: fɐjʒɐ̃w̃
+Pattern Applied: (?<=(ɐ̃j̃|õj̃|oj|ɐj|ɔj|uj))j(?=[aɐ̃eẽiĩɛoõɔuũ])->ʒ
+
+Original Word: feira -> Processed Word: fɐjra
+Pattern Applied: ei->ɐj
+
+Original Word: fɐjra -> Processed Word: fɐjrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: fɐjrɐ -> Processed Word: fɐjɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: férias -> Processed Word: fɛrias
+Pattern Applied: é->ɛ
+
+Original Word: fɛrias -> Processed Word: fɛɾias
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: fɛɾias -> Processed Word: fɛɾiaʃ
+Pattern Applied: s$->ʃ
+
+Original Word: festa -> Processed Word: festɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: festɐ -> Processed Word: feʃtɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: filho -> Processed Word: filhu
+Pattern Applied: o$->u
+
+Original Word: filhu -> Processed Word: fiɫhu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: filme -> Processed Word: fiɫme
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: fiɫme -> Processed Word: fiɫmɨ
+Pattern Applied: e$->ɨ
+
+Original Word: fim -> Processed Word: fĩ
+Pattern Applied: im$->ĩ
+
+Original Word: fim-de-semana -> Processed Word: fĩ-de-semana
+Pattern Applied: im(?=[-])->ĩ
+
+Original Word: fĩ-de-semana -> Processed Word: fĩ-de-semanɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: fĩ-de-semanɐ -> Processed Word: fĩ-dɨ-semanɐ
+Pattern Applied: e(?=[-])->ɨ
+
+Original Word: fĩ-dɨ-semanɐ -> Processed Word: fĩ-dɨ-semɐnɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: fĩ-dɨ-semɐnɐ -> Processed Word: fĩ dɨ semɐnɐ
+Pattern Applied: --> 
+
+Original Word: final -> Processed Word: finaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: flor -> Processed Word: floɾ
+Pattern Applied: r$->ɾ
+
+Original Word: folha -> Processed Word: foɫha
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: foɫha -> Processed Word: foɫhɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: força -> Processed Word: forçɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: forçɐ -> Processed Word: foɾçɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: foɾçɐ -> Processed Word: foɾsɐ
+Pattern Applied: ç->s
+
+Original Word: forma -> Processed Word: formɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: formɐ -> Processed Word: foɾmɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: formiga -> Processed Word: formigɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: formigɐ -> Processed Word: formiɣɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: formiɣɐ -> Processed Word: foɾmiɣɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: forno -> Processed Word: fornu
+Pattern Applied: o$->u
+
+Original Word: fornu -> Processed Word: foɾnu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: frase -> Processed Word: frasɨ
+Pattern Applied: e$->ɨ
+
+Original Word: frasɨ -> Processed Word: frazɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: frazɨ -> Processed Word: fɾazɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: frente -> Processed Word: frẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: frẽte -> Processed Word: frẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: frẽtɨ -> Processed Word: fɾẽtɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: frio -> Processed Word: friu
+Pattern Applied: o$->u
+
+Original Word: friu -> Processed Word: fɾiu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: fruta -> Processed Word: frutɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: frutɐ -> Processed Word: fɾutɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: fruto -> Processed Word: frutu
+Pattern Applied: o$->u
+
+Original Word: frutu -> Processed Word: fɾutu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: fundo -> Processed Word: fũdo
+Pattern Applied: un(?=[bcçdgjlmnpqrstvxz])->ũ
+
+Original Word: fũdo -> Processed Word: fũdu
+Pattern Applied: o$->u
+
+Original Word: futebol -> Processed Word: futeboɫ
+Pattern Applied: l$->ɫ
+
+Original Word: futeboɫ -> Processed Word: futeβoɫ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: futuro -> Processed Word: futuru
+Pattern Applied: o$->u
+
+Original Word: futuru -> Processed Word: futuɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: galo -> Processed Word: galu
+Pattern Applied: o$->u
+
+Original Word: gato -> Processed Word: gatu
+Pattern Applied: o$->u
+
+Original Word: gema -> Processed Word: gemɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: gemɐ -> Processed Word: ʒemɐ
+Pattern Applied: g(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->ʒ
+
+Original Word: gente -> Processed Word: gẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: gẽte -> Processed Word: gẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: gẽtɨ -> Processed Word: ʒẽtɨ
+Pattern Applied: g(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->ʒ
+
+Original Word: golo -> Processed Word: golu
+Pattern Applied: o$->u
+
+Original Word: gosto -> Processed Word: gostu
+Pattern Applied: o$->u
+
+Original Word: gostu -> Processed Word: goʃtu
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: gota -> Processed Word: gotɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: grupo -> Processed Word: grupu
+Pattern Applied: o$->u
+
+Original Word: grupu -> Processed Word: gɾupu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: guerra -> Processed Word: guerrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: guerrɐ -> Processed Word: gerrɐ
+Pattern Applied: gu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->g
+
+Original Word: gerrɐ -> Processed Word: geʀɐ
+Pattern Applied: (r{2})->ʀ
+
+Original Word: história -> Processed Word: histɔria
+Pattern Applied: ó->ɔ
+
+Original Word: histɔria -> Processed Word: istɔria
+Pattern Applied: (?<![cln])h->
+
+Original Word: istɔria -> Processed Word: istɔriɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: istɔriɐ -> Processed Word: iʃtɔriɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: iʃtɔriɐ -> Processed Word: iʃtɔɾiɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: homem -> Processed Word: homɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: homɐ̃j̃ -> Processed Word: omɐ̃j̃
+Pattern Applied: (?<![cln])h->
+
+Original Word: hora -> Processed Word: ora
+Pattern Applied: (?<![cln])h->
+
+Original Word: ora -> Processed Word: orɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: orɐ -> Processed Word: oɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: horário -> Processed Word: horáriu
+Pattern Applied: o$->u
+
+Original Word: horáriu -> Processed Word: oráriu
+Pattern Applied: (?<![cln])h->
+
+Original Word: oráriu -> Processed Word: orariu
+Pattern Applied: á(?!$)->a
+
+Original Word: orariu -> Processed Word: oɾaɾiu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: horta -> Processed Word: orta
+Pattern Applied: (?<![cln])h->
+
+Original Word: orta -> Processed Word: ortɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ortɐ -> Processed Word: oɾtɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: hospital -> Processed Word: ospital
+Pattern Applied: (?<![cln])h->
+
+Original Word: ospital -> Processed Word: ospitaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: ospitaɫ -> Processed Word: oʃpitaɫ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: hotel -> Processed Word: otel
+Pattern Applied: (?<![cln])h->
+
+Original Word: otel -> Processed Word: oteɫ
+Pattern Applied: l$->ɫ
+
+Original Word: oteɫ -> Processed Word: otɛɫ
+Pattern Applied: e(?=ɫ)->ɛ
+
+Original Word: idade -> Processed Word: idadɨ
+Pattern Applied: e$->ɨ
+
+Original Word: idadɨ -> Processed Word: iðaðɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ideia -> Processed Word: idɐja
+Pattern Applied: ei->ɐj
+
+Original Word: idɐja -> Processed Word: idɐjɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: idɐjɐ -> Processed Word: iðɐjɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ilha -> Processed Word: iɫha
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: iɫha -> Processed Word: iɫhɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: imagem -> Processed Word: imagɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: imagɐ̃j̃ -> Processed Word: imaʒɐ̃j̃
+Pattern Applied: g(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->ʒ
+
+Original Word: início -> Processed Word: inicio
+Pattern Applied: í->i
+
+Original Word: inicio -> Processed Word: iniciu
+Pattern Applied: o$->u
+
+Original Word: iniciu -> Processed Word: inisiu
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: inverno -> Processed Word: ĩverno
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: ĩverno -> Processed Word: ĩvernu
+Pattern Applied: o$->u
+
+Original Word: ĩvernu -> Processed Word: ĩveɾnu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: irmão -> Processed Word: irmɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: irmɐ̃w̃ -> Processed Word: iɾmɐ̃w̃
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: janeiro -> Processed Word: janɐjro
+Pattern Applied: ei->ɐj
+
+Original Word: janɐjro -> Processed Word: janɐjru
+Pattern Applied: o$->u
+
+Original Word: janɐjru -> Processed Word: ʒanɐjru
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: ʒanɐjru -> Processed Word: ʒɐnɐjru
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: ʒɐnɐjru -> Processed Word: ʒɐnɐjɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: janela -> Processed Word: ʒanela
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: ʒanela -> Processed Word: ʒanelɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ʒanelɐ -> Processed Word: ʒɐnelɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: jardim -> Processed Word: jardĩ
+Pattern Applied: im$->ĩ
+
+Original Word: jardĩ -> Processed Word: ʒardĩ
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: ʒardĩ -> Processed Word: ʒaɾdĩ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: jogador -> Processed Word: ʒogador
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: ʒogador -> Processed Word: ʒogaðor
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ʒogaðor -> Processed Word: ʒoɣaðor
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: ʒoɣaðor -> Processed Word: ʒoɣaðoɾ
+Pattern Applied: r$->ɾ
+
+Original Word: jogo -> Processed Word: jogu
+Pattern Applied: o$->u
+
+Original Word: jogu -> Processed Word: ʒogu
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: ʒogu -> Processed Word: ʒoɣu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: jovem -> Processed Word: jovɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: jovɐ̃j̃ -> Processed Word: ʒovɐ̃j̃
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: julho -> Processed Word: julhu
+Pattern Applied: o$->u
+
+Original Word: julhu -> Processed Word: ʒulhu
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: ʒulhu -> Processed Word: ʒuɫhu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: junho -> Processed Word: junhu
+Pattern Applied: o$->u
+
+Original Word: junhu -> Processed Word: ʒunhu
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: ʒunhu -> Processed Word: ʒuɲu
+Pattern Applied: nh->ɲ
+
+Original Word: lado -> Processed Word: ladu
+Pattern Applied: o$->u
+
+Original Word: ladu -> Processed Word: laðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: leão -> Processed Word: leɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: legume -> Processed Word: legumɨ
+Pattern Applied: e$->ɨ
+
+Original Word: legumɨ -> Processed Word: leɣumɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: leite -> Processed Word: lɐjte
+Pattern Applied: ei->ɐj
+
+Original Word: lɐjte -> Processed Word: lɐjtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: lenda -> Processed Word: lẽda
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: lẽda -> Processed Word: lẽdɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: letra -> Processed Word: letrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: letrɐ -> Processed Word: letɾɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: língua -> Processed Word: lĩgua
+Pattern Applied: ín->ĩ
+
+Original Word: lĩgua -> Processed Word: lĩguɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: linha -> Processed Word: linhɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: linhɐ -> Processed Word: liɲɐ
+Pattern Applied: nh->ɲ
+
+Original Word: lista -> Processed Word: listɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: listɐ -> Processed Word: liʃtɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: livro -> Processed Word: livru
+Pattern Applied: o$->u
+
+Original Word: livru -> Processed Word: livɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: local -> Processed Word: locaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: locaɫ -> Processed Word: lokaɫ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: loja -> Processed Word: lojɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: lua -> Processed Word: luɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: lugar -> Processed Word: luɣar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: luɣar -> Processed Word: luɣaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: lume -> Processed Word: lumɨ
+Pattern Applied: e$->ɨ
+
+Original Word: luz -> Processed Word: luʃ
+Pattern Applied: z$->ʃ
+
+Original Word: macaco -> Processed Word: macacu
+Pattern Applied: o$->u
+
+Original Word: macacu -> Processed Word: makaku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: madeira -> Processed Word: madɐjra
+Pattern Applied: ei->ɐj
+
+Original Word: madɐjra -> Processed Word: madɐjrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: madɐjrɐ -> Processed Word: maðɐjrɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: maðɐjrɐ -> Processed Word: maðɐjɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: maio -> Processed Word: majo
+Pattern Applied: ai(?=[aáâãeéêiíoóôõuúû])->aj
+
+Original Word: majo -> Processed Word: maju
+Pattern Applied: o$->u
+
+Original Word: mala -> Processed Word: malɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: mamã -> Processed Word: mamɐ̃
+Pattern Applied: ã(?!o)->ɐ̃
+
+Original Word: mamɐ̃ -> Processed Word: mɐmɐ̃
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: maneira -> Processed Word: manɐjra
+Pattern Applied: ei->ɐj
+
+Original Word: manɐjra -> Processed Word: manɐjrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: manɐjrɐ -> Processed Word: mɐnɐjrɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: mɐnɐjrɐ -> Processed Word: mɐnɐjɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: manhã -> Processed Word: manhɐ̃
+Pattern Applied: ã(?!o)->ɐ̃
+
+Original Word: manhɐ̃ -> Processed Word: mɐnhɐ̃
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: mɐnhɐ̃ -> Processed Word: mɐɲɐ̃
+Pattern Applied: nh->ɲ
+
+Original Word: manteiga -> Processed Word: mɐ̃teiga
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: mɐ̃teiga -> Processed Word: mɐ̃tɐjga
+Pattern Applied: ei->ɐj
+
+Original Word: mɐ̃tɐjga -> Processed Word: mɐ̃tɐjgɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: mɐ̃tɐjgɐ -> Processed Word: mɐ̃tɐjɣɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: mão -> Processed Word: mɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: máquina -> Processed Word: maquina
+Pattern Applied: á(?!$)->a
+
+Original Word: maquina -> Processed Word: maquinɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: maquinɐ -> Processed Word: makinɐ
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: mar -> Processed Word: maɾ
+Pattern Applied: r$->ɾ
+
+Original Word: marca -> Processed Word: marcɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: marcɐ -> Processed Word: markɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: markɐ -> Processed Word: maɾkɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: março -> Processed Word: marçu
+Pattern Applied: o$->u
+
+Original Word: marçu -> Processed Word: maɾçu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: maɾçu -> Processed Word: maɾsu
+Pattern Applied: ç->s
+
+Original Word: margarina -> Processed Word: margarinɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: margarinɐ -> Processed Word: maɾgarinɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: maɾgarinɐ -> Processed Word: maɾgaɾinɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: marido -> Processed Word: maridu
+Pattern Applied: o$->u
+
+Original Word: maridu -> Processed Word: mariðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: mariðu -> Processed Word: maɾiðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: mata -> Processed Word: matɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: material -> Processed Word: materiaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: materiaɫ -> Processed Word: mateɾiaɫ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: médico -> Processed Word: mɛdico
+Pattern Applied: é->ɛ
+
+Original Word: mɛdico -> Processed Word: mɛdicu
+Pattern Applied: o$->u
+
+Original Word: mɛdicu -> Processed Word: mɛðicu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: mɛðicu -> Processed Word: mɛðiku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: medo -> Processed Word: medu
+Pattern Applied: o$->u
+
+Original Word: medu -> Processed Word: meðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: meia -> Processed Word: mɐja
+Pattern Applied: ei->ɐj
+
+Original Word: mɐja -> Processed Word: mɐjɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: meio -> Processed Word: mɐjo
+Pattern Applied: ei->ɐj
+
+Original Word: mɐjo -> Processed Word: mɐju
+Pattern Applied: o$->u
+
+Original Word: mel -> Processed Word: meɫ
+Pattern Applied: l$->ɫ
+
+Original Word: meɫ -> Processed Word: mɛɫ
+Pattern Applied: e(?=ɫ)->ɛ
+
+Original Word: menino -> Processed Word: meninu
+Pattern Applied: o$->u
+
+Original Word: mês -> Processed Word: mes
+Pattern Applied: ê->e
+
+Original Word: mes -> Processed Word: meʃ
+Pattern Applied: s$->ʃ
+
+Original Word: mesa -> Processed Word: mesɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: mesɐ -> Processed Word: mezɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: metro -> Processed Word: metru
+Pattern Applied: o$->u
+
+Original Word: metru -> Processed Word: metɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: minuto -> Processed Word: minutu
+Pattern Applied: o$->u
+
+Original Word: modo -> Processed Word: modu
+Pattern Applied: o$->u
+
+Original Word: modu -> Processed Word: moðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: momento -> Processed Word: momẽto
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: momẽto -> Processed Word: momẽtu
+Pattern Applied: o$->u
+
+Original Word: montanha -> Processed Word: mõtanha
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: mõtanha -> Processed Word: mõtanhɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: mõtanhɐ -> Processed Word: mõtɐnhɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: mõtɐnhɐ -> Processed Word: mõtɐɲɐ
+Pattern Applied: nh->ɲ
+
+Original Word: morte -> Processed Word: mortɨ
+Pattern Applied: e$->ɨ
+
+Original Word: mortɨ -> Processed Word: moɾtɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: mosca -> Processed Word: moscɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: moscɐ -> Processed Word: moskɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: moskɐ -> Processed Word: moʃkɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: mulher -> Processed Word: muɫher
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: muɫher -> Processed Word: muɫheɾ
+Pattern Applied: r$->ɾ
+
+Original Word: mundo -> Processed Word: mũdo
+Pattern Applied: un(?=[bcçdgjlmnpqrstvxz])->ũ
+
+Original Word: mũdo -> Processed Word: mũdu
+Pattern Applied: o$->u
+
+Original Word: museu -> Processed Word: musew
+Pattern Applied: eu->ew
+
+Original Word: musew -> Processed Word: muzew
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: música -> Processed Word: musica
+Pattern Applied: ú->u
+
+Original Word: musica -> Processed Word: musicɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: musicɐ -> Processed Word: muzicɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: muzicɐ -> Processed Word: muzikɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: natureza -> Processed Word: naturezɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: naturezɐ -> Processed Word: natuɾezɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: neve -> Processed Word: nevɨ
+Pattern Applied: e$->ɨ
+
+Original Word: noite -> Processed Word: nojte
+Pattern Applied: oi->oj
+
+Original Word: nojte -> Processed Word: nojtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: nome -> Processed Word: nomɨ
+Pattern Applied: e$->ɨ
+
+Original Word: notícia -> Processed Word: noticia
+Pattern Applied: í->i
+
+Original Word: noticia -> Processed Word: noticiɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: noticiɐ -> Processed Word: notisiɐ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: novembro -> Processed Word: novẽbro
+Pattern Applied: em(?=[bcçdghjlmnpqrstvxz])->ẽ
+
+Original Word: novẽbro -> Processed Word: novẽbru
+Pattern Applied: o$->u
+
+Original Word: novẽbru -> Processed Word: novẽbɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: noz -> Processed Word: noʃ
+Pattern Applied: z$->ʃ
+
+Original Word: número -> Processed Word: numero
+Pattern Applied: ú->u
+
+Original Word: numero -> Processed Word: numeru
+Pattern Applied: o$->u
+
+Original Word: numeru -> Processed Word: numeɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: nuvem -> Processed Word: nuvɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: obra -> Processed Word: obrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: obrɐ -> Processed Word: obɾɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: olho -> Processed Word: olhu
+Pattern Applied: o$->u
+
+Original Word: olhu -> Processed Word: oɫhu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: origem -> Processed Word: origɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: origɐ̃j̃ -> Processed Word: oriʒɐ̃j̃
+Pattern Applied: g(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->ʒ
+
+Original Word: oriʒɐ̃j̃ -> Processed Word: oɾiʒɐ̃j̃
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: osso -> Processed Word: ossu
+Pattern Applied: o$->u
+
+Original Word: ossu -> Processed Word: osu
+Pattern Applied: s{2}->s
+
+Original Word: outono -> Processed Word: outonu
+Pattern Applied: o$->u
+
+Original Word: outonu -> Processed Word: otonu
+Pattern Applied: ou->o
+
+Original Word: outubro -> Processed Word: outubru
+Pattern Applied: o$->u
+
+Original Word: outubru -> Processed Word: otubru
+Pattern Applied: ou->o
+
+Original Word: otubru -> Processed Word: otubɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: ovo -> Processed Word: ovu
+Pattern Applied: o$->u
+
+Original Word: padre -> Processed Word: padrɨ
+Pattern Applied: e$->ɨ
+
+Original Word: padrɨ -> Processed Word: padɾɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: pai -> Processed Word: paj
+Pattern Applied: ai$->aj
+
+Original Word: país -> Processed Word: pɐis
+Pattern Applied: aí->ɐi
+
+Original Word: pɐis -> Processed Word: pɐiʃ
+Pattern Applied: s$->ʃ
+
+Original Word: palavra -> Processed Word: palavrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: palavrɐ -> Processed Word: palavɾɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: panela -> Processed Word: panelɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: panelɐ -> Processed Word: pɐnelɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: pão -> Processed Word: pɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: papel -> Processed Word: papeɫ
+Pattern Applied: l$->ɫ
+
+Original Word: papeɫ -> Processed Word: papɛɫ
+Pattern Applied: e(?=ɫ)->ɛ
+
+Original Word: parede -> Processed Word: paredɨ
+Pattern Applied: e$->ɨ
+
+Original Word: paredɨ -> Processed Word: pareðɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: pareðɨ -> Processed Word: paɾeðɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: parte -> Processed Word: partɨ
+Pattern Applied: e$->ɨ
+
+Original Word: partɨ -> Processed Word: paɾtɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: pássaro -> Processed Word: pássaru
+Pattern Applied: o$->u
+
+Original Word: pássaru -> Processed Word: passaru
+Pattern Applied: á(?!$)->a
+
+Original Word: passaru -> Processed Word: pasaru
+Pattern Applied: s{2}->s
+
+Original Word: pasaru -> Processed Word: pasaɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: passo -> Processed Word: passu
+Pattern Applied: o$->u
+
+Original Word: passu -> Processed Word: pasu
+Pattern Applied: s{2}->s
+
+Original Word: pata -> Processed Word: patɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: pau -> Processed Word: paw
+Pattern Applied: au->aw
+
+Original Word: paz -> Processed Word: paʃ
+Pattern Applied: z$->ʃ
+
+Original Word: pé -> Processed Word: pɛ
+Pattern Applied: é->ɛ
+
+Original Word: pedra -> Processed Word: pedrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: pedrɐ -> Processed Word: pedɾɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: peixe -> Processed Word: pɐjxe
+Pattern Applied: ei->ɐj
+
+Original Word: pɐjxe -> Processed Word: pɐjxɨ
+Pattern Applied: e$->ɨ
+
+Original Word: pɐjxɨ -> Processed Word: pɐjʃɨ
+Pattern Applied: x->ʃ
+
+Original Word: pele -> Processed Word: pelɨ
+Pattern Applied: e$->ɨ
+
+Original Word: pena -> Processed Word: penɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: pergunta -> Processed Word: pergũta
+Pattern Applied: un(?=[bcçdgjlmnpqrstvxz])->ũ
+
+Original Word: pergũta -> Processed Word: pergũtɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: pergũtɐ -> Processed Word: peɾgũtɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: perna -> Processed Word: pernɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: pernɐ -> Processed Word: peɾnɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: pessoa -> Processed Word: pessoɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: pessoɐ -> Processed Word: pesoɐ
+Pattern Applied: s{2}->s
+
+Original Word: planeta -> Processed Word: planetɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: planetɐ -> Processed Word: plɐnetɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: planta -> Processed Word: plɐ̃ta
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: plɐ̃ta -> Processed Word: plɐ̃tɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: pó -> Processed Word: pɔ
+Pattern Applied: ó->ɔ
+
+Original Word: polícia -> Processed Word: policia
+Pattern Applied: í->i
+
+Original Word: policia -> Processed Word: policiɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: policiɐ -> Processed Word: polisiɐ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: ponto -> Processed Word: põto
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: põto -> Processed Word: põtu
+Pattern Applied: o$->u
+
+Original Word: porta -> Processed Word: portɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: portɐ -> Processed Word: poɾtɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: povo -> Processed Word: povu
+Pattern Applied: o$->u
+
+Original Word: praia -> Processed Word: praja
+Pattern Applied: ai(?=[aáâãeéêiíoóôõuúû])->aj
+
+Original Word: praja -> Processed Word: prajɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: prajɐ -> Processed Word: pɾajɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: prato -> Processed Word: pratu
+Pattern Applied: o$->u
+
+Original Word: pratu -> Processed Word: pɾatu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: preço -> Processed Word: preçu
+Pattern Applied: o$->u
+
+Original Word: preçu -> Processed Word: pɾeçu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: pɾeçu -> Processed Word: pɾesu
+Pattern Applied: ç->s
+
+Original Word: presente -> Processed Word: presẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: presẽte -> Processed Word: presẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: presẽtɨ -> Processed Word: prezẽtɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: prezẽtɨ -> Processed Word: pɾezẽtɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: primavera -> Processed Word: primaverɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: primaverɐ -> Processed Word: primaveɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: primaveɾɐ -> Processed Word: pɾimaveɾɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: primo -> Processed Word: primu
+Pattern Applied: o$->u
+
+Original Word: primu -> Processed Word: pɾimu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: problema -> Processed Word: problemɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: problemɐ -> Processed Word: pɾoblemɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: produto -> Processed Word: produtu
+Pattern Applied: o$->u
+
+Original Word: produtu -> Processed Word: proðutu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: proðutu -> Processed Word: pɾoðutu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: professor -> Processed Word: profesor
+Pattern Applied: s{2}->s
+
+Original Word: profesor -> Processed Word: profesoɾ
+Pattern Applied: r$->ɾ
+
+Original Word: profesoɾ -> Processed Word: pɾofesoɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: programa -> Processed Word: programɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: programɐ -> Processed Word: progrɐmɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: progrɐmɐ -> Processed Word: pɾogɾɐmɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: quarto -> Processed Word: quartu
+Pattern Applied: o$->u
+
+Original Word: quartu -> Processed Word: kuartu
+Pattern Applied: q->k
+
+Original Word: kuartu -> Processed Word: kuaɾtu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: queijo -> Processed Word: quɐjjo
+Pattern Applied: ei->ɐj
+
+Original Word: quɐjjo -> Processed Word: quɐjju
+Pattern Applied: o$->u
+
+Original Word: quɐjju -> Processed Word: quɐjʒu
+Pattern Applied: (?<=(ɐ̃j̃|õj̃|oj|ɐj|ɔj|uj))j(?=[aɐ̃eẽiĩɛoõɔuũ])->ʒ
+
+Original Word: quɐjʒu -> Processed Word: kɐjʒu
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: quinta -> Processed Word: quĩta
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: quĩta -> Processed Word: quĩtɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: quĩtɐ -> Processed Word: kĩtɐ
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: rádio -> Processed Word: rádiu
+Pattern Applied: o$->u
+
+Original Word: rádiu -> Processed Word: radiu
+Pattern Applied: á(?!$)->a
+
+Original Word: radiu -> Processed Word: raðiu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: raðiu -> Processed Word: ʀaðiu
+Pattern Applied: ^r->ʀ
+
+Original Word: ramo -> Processed Word: ramu
+Pattern Applied: o$->u
+
+Original Word: ramu -> Processed Word: rɐmu
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: rɐmu -> Processed Word: ʀɐmu
+Pattern Applied: ^r->ʀ
+
+Original Word: rapariga -> Processed Word: raparigɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: raparigɐ -> Processed Word: rapariɣɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: rapariɣɐ -> Processed Word: ʀapariɣɐ
+Pattern Applied: ^r->ʀ
+
+Original Word: ʀapariɣɐ -> Processed Word: ʀapaɾiɣɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: rapaz -> Processed Word: ʀapaz
+Pattern Applied: ^r->ʀ
+
+Original Word: ʀapaz -> Processed Word: ʀapaʃ
+Pattern Applied: z$->ʃ
+
+Original Word: raposa -> Processed Word: raposɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: raposɐ -> Processed Word: rapozɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: rapozɐ -> Processed Word: ʀapozɐ
+Pattern Applied: ^r->ʀ
+
+Original Word: razão -> Processed Word: razɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: razɐ̃w̃ -> Processed Word: ʀazɐ̃w̃
+Pattern Applied: ^r->ʀ
+
+Original Word: receita -> Processed Word: recɐjta
+Pattern Applied: ei->ɐj
+
+Original Word: recɐjta -> Processed Word: recɐjtɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: recɐjtɐ -> Processed Word: resɐjtɐ
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: resɐjtɐ -> Processed Word: ʀesɐjtɐ
+Pattern Applied: ^r->ʀ
+
+Original Word: região -> Processed Word: regiɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: regiɐ̃w̃ -> Processed Word: reʒiɐ̃w̃
+Pattern Applied: g(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->ʒ
+
+Original Word: reʒiɐ̃w̃ -> Processed Word: ʀeʒiɐ̃w̃
+Pattern Applied: ^r->ʀ
+
+Original Word: rei -> Processed Word: rɐj
+Pattern Applied: ei->ɐj
+
+Original Word: rɐj -> Processed Word: ʀɐj
+Pattern Applied: ^r->ʀ
+
+Original Word: respeito -> Processed Word: respɐjto
+Pattern Applied: ei->ɐj
+
+Original Word: respɐjto -> Processed Word: respɐjtu
+Pattern Applied: o$->u
+
+Original Word: respɐjtu -> Processed Word: reʃpɐjtu
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: reʃpɐjtu -> Processed Word: ʀeʃpɐjtu
+Pattern Applied: ^r->ʀ
+
+Original Word: resposta -> Processed Word: respostɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: respostɐ -> Processed Word: reʃpoʃtɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: reʃpoʃtɐ -> Processed Word: ʀeʃpoʃtɐ
+Pattern Applied: ^r->ʀ
+
+Original Word: restaurante -> Processed Word: restaurɐ̃te
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: restaurɐ̃te -> Processed Word: restawrɐ̃te
+Pattern Applied: au->aw
+
+Original Word: restawrɐ̃te -> Processed Word: restawrɐ̃tɨ
+Pattern Applied: e$->ɨ
+
+Original Word: restawrɐ̃tɨ -> Processed Word: reʃtawrɐ̃tɨ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: reʃtawrɐ̃tɨ -> Processed Word: ʀeʃtawrɐ̃tɨ
+Pattern Applied: ^r->ʀ
+
+Original Word: ʀeʃtawrɐ̃tɨ -> Processed Word: ʀeʃtawɾɐ̃tɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: revista -> Processed Word: revistɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: revistɐ -> Processed Word: reviʃtɐ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: reviʃtɐ -> Processed Word: ʀeviʃtɐ
+Pattern Applied: ^r->ʀ
+
+Original Word: rio -> Processed Word: riu
+Pattern Applied: o$->u
+
+Original Word: riu -> Processed Word: ʀiu
+Pattern Applied: ^r->ʀ
+
+Original Word: roupa -> Processed Word: ropa
+Pattern Applied: ou->o
+
+Original Word: ropa -> Processed Word: ropɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ropɐ -> Processed Word: ʀopɐ
+Pattern Applied: ^r->ʀ
+
+Original Word: rua -> Processed Word: ruɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: ruɐ -> Processed Word: ʀuɐ
+Pattern Applied: ^r->ʀ
+
+Original Word: sábado -> Processed Word: sábadu
+Pattern Applied: o$->u
+
+Original Word: sábadu -> Processed Word: sabadu
+Pattern Applied: á(?!$)->a
+
+Original Word: sabadu -> Processed Word: saβadu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: saβadu -> Processed Word: saβaðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: sabor -> Processed Word: saβor
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: saβor -> Processed Word: saβoɾ
+Pattern Applied: r$->ɾ
+
+Original Word: saco -> Processed Word: sacu
+Pattern Applied: o$->u
+
+Original Word: sacu -> Processed Word: saku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: sal -> Processed Word: saɫ
+Pattern Applied: l$->ɫ
+
+Original Word: sala -> Processed Word: salɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: santo -> Processed Word: sɐ̃to
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: sɐ̃to -> Processed Word: sɐ̃tu
+Pattern Applied: o$->u
+
+Original Word: sapato -> Processed Word: sapatu
+Pattern Applied: o$->u
+
+Original Word: sardinha -> Processed Word: sardinhɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: sardinhɐ -> Processed Word: saɾdinhɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: saɾdinhɐ -> Processed Word: saɾdiɲɐ
+Pattern Applied: nh->ɲ
+
+Original Word: saúde -> Processed Word: sɐude
+Pattern Applied: aú->ɐu
+
+Original Word: sɐude -> Processed Word: sɐudɨ
+Pattern Applied: e$->ɨ
+
+Original Word: sɐudɨ -> Processed Word: sɐuðɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: semana -> Processed Word: semanɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: semanɐ -> Processed Word: semɐnɐ
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: semente -> Processed Word: semẽte
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: semẽte -> Processed Word: semẽtɨ
+Pattern Applied: e$->ɨ
+
+Original Word: senhor -> Processed Word: sẽhor
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: sẽhor -> Processed Word: sẽor
+Pattern Applied: (?<![cln])h->
+
+Original Word: sẽor -> Processed Word: sẽoɾ
+Pattern Applied: r$->ɾ
+
+Original Word: serviço -> Processed Word: serviçu
+Pattern Applied: o$->u
+
+Original Word: serviçu -> Processed Word: seɾviçu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: seɾviçu -> Processed Word: seɾvisu
+Pattern Applied: ç->s
+
+Original Word: setembro -> Processed Word: setẽbro
+Pattern Applied: em(?=[bcçdghjlmnpqrstvxz])->ẽ
+
+Original Word: setẽbro -> Processed Word: setẽbru
+Pattern Applied: o$->u
+
+Original Word: setẽbru -> Processed Word: setẽbɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: sítio -> Processed Word: sitio
+Pattern Applied: í->i
+
+Original Word: sitio -> Processed Word: sitiu
+Pattern Applied: o$->u
+
+Original Word: sol -> Processed Word: soɫ
+Pattern Applied: l$->ɫ
+
+Original Word: soldado -> Processed Word: soldadu
+Pattern Applied: o$->u
+
+Original Word: soldadu -> Processed Word: soɫdadu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: soɫdadu -> Processed Word: soɫdaðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: som -> Processed Word: sõ
+Pattern Applied: om$->õ
+
+Original Word: sonho -> Processed Word: sonhu
+Pattern Applied: o$->u
+
+Original Word: sonhu -> Processed Word: soɲu
+Pattern Applied: nh->ɲ
+
+Original Word: sopa -> Processed Word: sopɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: sorte -> Processed Word: sortɨ
+Pattern Applied: e$->ɨ
+
+Original Word: sortɨ -> Processed Word: soɾtɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: sul -> Processed Word: suɫ
+Pattern Applied: l$->ɫ
+
+Original Word: sumo -> Processed Word: sumu
+Pattern Applied: o$->u
+
+Original Word: tapete -> Processed Word: tapetɨ
+Pattern Applied: e$->ɨ
+
+Original Word: tarde -> Processed Word: tardɨ
+Pattern Applied: e$->ɨ
+
+Original Word: tardɨ -> Processed Word: taɾdɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: televisão -> Processed Word: televisɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: televisɐ̃w̃ -> Processed Word: televizɐ̃w̃
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: temperatura -> Processed Word: tẽperatura
+Pattern Applied: em(?=[bcçdghjlmnpqrstvxz])->ẽ
+
+Original Word: tẽperatura -> Processed Word: tẽperaturɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: tẽperaturɐ -> Processed Word: tẽpeɾatuɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: tempo -> Processed Word: tẽpo
+Pattern Applied: em(?=[bcçdghjlmnpqrstvxz])->ẽ
+
+Original Word: tẽpo -> Processed Word: tẽpu
+Pattern Applied: o$->u
+
+Original Word: terra -> Processed Word: terrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: terrɐ -> Processed Word: teʀɐ
+Pattern Applied: (r{2})->ʀ
+
+Original Word: texto -> Processed Word: textu
+Pattern Applied: o$->u
+
+Original Word: textu -> Processed Word: teʃtu
+Pattern Applied: x->ʃ
+
+Original Word: tio -> Processed Word: tiu
+Pattern Applied: o$->u
+
+Original Word: tipo -> Processed Word: tipu
+Pattern Applied: o$->u
+
+Original Word: trabalho -> Processed Word: trabalhu
+Pattern Applied: o$->u
+
+Original Word: trabalhu -> Processed Word: trabaɫhu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: trabaɫhu -> Processed Word: traβaɫhu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: traβaɫhu -> Processed Word: tɾaβaɫhu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: tronco -> Processed Word: trõco
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: trõco -> Processed Word: trõcu
+Pattern Applied: o$->u
+
+Original Word: trõcu -> Processed Word: trõku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: trõku -> Processed Word: tɾõku
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: turma -> Processed Word: turmɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: turmɐ -> Processed Word: tuɾmɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: urso -> Processed Word: ursu
+Pattern Applied: o$->u
+
+Original Word: ursu -> Processed Word: uɾsu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: uva -> Processed Word: uvɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: valor -> Processed Word: valoɾ
+Pattern Applied: r$->ɾ
+
+Original Word: venda -> Processed Word: vẽda
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: vẽda -> Processed Word: vẽdɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: vendedor -> Processed Word: vẽdedor
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: vẽdedor -> Processed Word: vẽdeðor
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: vẽdeðor -> Processed Word: vẽdeðoɾ
+Pattern Applied: r$->ɾ
+
+Original Word: vento -> Processed Word: vẽto
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: vẽto -> Processed Word: vẽtu
+Pattern Applied: o$->u
+
+Original Word: verão -> Processed Word: verɐ̃w̃
+Pattern Applied: ão->ɐ̃w̃
+
+Original Word: verɐ̃w̃ -> Processed Word: veɾɐ̃w̃
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: verdade -> Processed Word: verdadɨ
+Pattern Applied: e$->ɨ
+
+Original Word: verdadɨ -> Processed Word: verdaðɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: verdaðɨ -> Processed Word: veɾdaðɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: vez -> Processed Word: veʃ
+Pattern Applied: z$->ʃ
+
+Original Word: viagem -> Processed Word: viagɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: viagɐ̃j̃ -> Processed Word: viaʒɐ̃j̃
+Pattern Applied: g(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->ʒ
+
+Original Word: vida -> Processed Word: vidɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: vidɐ -> Processed Word: viðɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: vídeo -> Processed Word: video
+Pattern Applied: í->i
+
+Original Word: video -> Processed Word: videu
+Pattern Applied: o$->u
+
+Original Word: videu -> Processed Word: viðeu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: vinho -> Processed Word: vinhu
+Pattern Applied: o$->u
+
+Original Word: vinhu -> Processed Word: viɲu
+Pattern Applied: nh->ɲ
+
+Original Word: vizinho -> Processed Word: vizinhu
+Pattern Applied: o$->u
+
+Original Word: vizinhu -> Processed Word: viziɲu
+Pattern Applied: nh->ɲ
+
+Original Word: volta -> Processed Word: voɫta
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: voɫta -> Processed Word: voɫtɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: vontade -> Processed Word: võtade
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: võtade -> Processed Word: võtadɨ
+Pattern Applied: e$->ɨ
+
+Original Word: võtadɨ -> Processed Word: võtaðɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: voz -> Processed Word: voʃ
+Pattern Applied: z$->ʃ
+
+Original Word: zona -> Processed Word: zonɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cinco -> Processed Word: cĩco
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: cĩco -> Processed Word: cĩcu
+Pattern Applied: o$->u
+
+Original Word: cĩcu -> Processed Word: cĩku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: cĩku -> Processed Word: sĩku
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: dez -> Processed Word: deʃ
+Pattern Applied: z$->ʃ
+
+Original Word: dois -> Processed Word: dojs
+Pattern Applied: oi->oj
+
+Original Word: dojs -> Processed Word: dojʃ
+Pattern Applied: s$->ʃ
+
+Original Word: doze -> Processed Word: dozɨ
+Pattern Applied: e$->ɨ
+
+Original Word: oito -> Processed Word: ojto
+Pattern Applied: oi->oj
+
+Original Word: ojto -> Processed Word: ojtu
+Pattern Applied: o$->u
+
+Original Word: primeiro -> Processed Word: primɐjro
+Pattern Applied: ei->ɐj
+
+Original Word: primɐjro -> Processed Word: primɐjru
+Pattern Applied: o$->u
+
+Original Word: primɐjru -> Processed Word: primɐjɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: primɐjɾu -> Processed Word: pɾimɐjɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: quatro -> Processed Word: quatru
+Pattern Applied: o$->u
+
+Original Word: quatru -> Processed Word: kuatru
+Pattern Applied: q->k
+
+Original Word: kuatru -> Processed Word: kuatɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: segundo -> Processed Word: segũdo
+Pattern Applied: un(?=[bcçdgjlmnpqrstvxz])->ũ
+
+Original Word: segũdo -> Processed Word: segũdu
+Pattern Applied: o$->u
+
+Original Word: segũdu -> Processed Word: seɣũdu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: seis -> Processed Word: sɐjs
+Pattern Applied: ei->ɐj
+
+Original Word: sɐjs -> Processed Word: sɐjʃ
+Pattern Applied: s$->ʃ
+
+Original Word: sete -> Processed Word: setɨ
+Pattern Applied: e$->ɨ
+
+Original Word: terceiro -> Processed Word: tercɐjro
+Pattern Applied: ei->ɐj
+
+Original Word: tercɐjro -> Processed Word: tercɐjru
+Pattern Applied: o$->u
+
+Original Word: tercɐjru -> Processed Word: tersɐjru
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: tersɐjru -> Processed Word: teɾsɐjru
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: teɾsɐjru -> Processed Word: teɾsɐjɾu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: três -> Processed Word: tres
+Pattern Applied: ê->e
+
+Original Word: tres -> Processed Word: tɾes
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: tɾes -> Processed Word: tɾeʃ
+Pattern Applied: s$->ʃ
+
+Original Word: a -> Processed Word: ɐ
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: até -> Processed Word: atɛ
+Pattern Applied: é->ɛ
+
+Original Word: atɛ -> Processed Word: ɐtɛ
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: com -> Processed Word: cõ
+Pattern Applied: om$->õ
+
+Original Word: cõ -> Processed Word: kõ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: contra -> Processed Word: cõtra
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: cõtra -> Processed Word: cõtrɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cõtrɐ -> Processed Word: kõtrɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kõtrɐ -> Processed Word: kõtɾɐ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: de -> Processed Word: dɨ
+Pattern Applied: e$->ɨ
+
+Original Word: desde -> Processed Word: desdɨ
+Pattern Applied: e$->ɨ
+
+Original Word: desdɨ -> Processed Word: deʒdɨ
+Pattern Applied: s(?=(b|d|g|m|n|nh|^r|v|z|l|lh))->ʒ
+
+Original Word: durante -> Processed Word: durɐ̃te
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: durɐ̃te -> Processed Word: durɐ̃tɨ
+Pattern Applied: e$->ɨ
+
+Original Word: durɐ̃tɨ -> Processed Word: duɾɐ̃tɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: em -> Processed Word: ɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: entre -> Processed Word: ẽtre
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽtre -> Processed Word: ẽtrɨ
+Pattern Applied: e$->ɨ
+
+Original Word: ẽtrɨ -> Processed Word: ẽtɾɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: para -> Processed Word: parɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: parɐ -> Processed Word: paɾɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: sem -> Processed Word: sɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: sobre -> Processed Word: sobrɨ
+Pattern Applied: e$->ɨ
+
+Original Word: sobrɨ -> Processed Word: sobɾɨ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: algo -> Processed Word: algu
+Pattern Applied: o$->u
+
+Original Word: algu -> Processed Word: aɫgu
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: alguém -> Processed Word: alguɐ̃j̃
+Pattern Applied: ém$->ɐ̃j̃
+
+Original Word: alguɐ̃j̃ -> Processed Word: aɫguɐ̃j̃
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: aɫguɐ̃j̃ -> Processed Word: aɫgɐ̃j̃
+Pattern Applied: gu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->g
+
+Original Word: algum -> Processed Word: algũ
+Pattern Applied: um$->ũ
+
+Original Word: algũ -> Processed Word: aɫgũ
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: aquele -> Processed Word: ɐquele
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐquele -> Processed Word: ɐquelɨ
+Pattern Applied: e$->ɨ
+
+Original Word: ɐquelɨ -> Processed Word: ɐkelɨ
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: aquilo -> Processed Word: aquilu
+Pattern Applied: o$->u
+
+Original Word: aquilu -> Processed Word: ɐquilu
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐquilu -> Processed Word: ɐkilu
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: cada -> Processed Word: cadɐ
+Pattern Applied: a(?<!á)$->ɐ
+
+Original Word: cadɐ -> Processed Word: caðɐ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: caðɐ -> Processed Word: kaðɐ
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: certo -> Processed Word: certu
+Pattern Applied: o$->u
+
+Original Word: certu -> Processed Word: sertu
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: sertu -> Processed Word: seɾtu
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: esse -> Processed Word: essɨ
+Pattern Applied: e$->ɨ
+
+Original Word: essɨ -> Processed Word: esɨ
+Pattern Applied: s{2}->s
+
+Original Word: este -> Processed Word: estɨ
+Pattern Applied: e$->ɨ
+
+Original Word: estɨ -> Processed Word: eʃtɨ
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: eu -> Processed Word: ew
+Pattern Applied: eu->ew
+
+Original Word: imenso -> Processed Word: imẽso
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: imẽso -> Processed Word: imẽsu
+Pattern Applied: o$->u
+
+Original Word: isso -> Processed Word: issu
+Pattern Applied: o$->u
+
+Original Word: issu -> Processed Word: isu
+Pattern Applied: s{2}->s
+
+Original Word: isto -> Processed Word: istu
+Pattern Applied: o$->u
+
+Original Word: istu -> Processed Word: iʃtu
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: nenhum -> Processed Word: nẽhum
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: nẽhum -> Processed Word: nẽhũ
+Pattern Applied: um$->ũ
+
+Original Word: nẽhũ -> Processed Word: nẽũ
+Pattern Applied: (?<![cln])h->
+
+Original Word: ninguém -> Processed Word: nĩguém
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: nĩguém -> Processed Word: nĩguɐ̃j̃
+Pattern Applied: ém$->ɐ̃j̃
+
+Original Word: nĩguɐ̃j̃ -> Processed Word: nĩgɐ̃j̃
+Pattern Applied: gu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->g
+
+Original Word: onde -> Processed Word: õde
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: õde -> Processed Word: õdɨ
+Pattern Applied: e$->ɨ
+
+Original Word: outro -> Processed Word: outru
+Pattern Applied: o$->u
+
+Original Word: outru -> Processed Word: otru
+Pattern Applied: ou->o
+
+Original Word: otru -> Processed Word: otɾu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: porquê -> Processed Word: porque
+Pattern Applied: ê->e
+
+Original Word: porque -> Processed Word: porquɨ
+Pattern Applied: e$->ɨ
+
+Original Word: porquɨ -> Processed Word: porkɨ
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: porkɨ -> Processed Word: poɾkɨ
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: próprio -> Processed Word: própriu
+Pattern Applied: o$->u
+
+Original Word: própriu -> Processed Word: prɔpriu
+Pattern Applied: ó->ɔ
+
+Original Word: prɔpriu -> Processed Word: pɾɔpɾiu
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: qual -> Processed Word: quaɫ
+Pattern Applied: l$->ɫ
+
+Original Word: quaɫ -> Processed Word: kuaɫ
+Pattern Applied: q->k
+
+Original Word: qualquer -> Processed Word: quaɫquer
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: quaɫquer -> Processed Word: quaɫker
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: quaɫker -> Processed Word: kuaɫker
+Pattern Applied: q->k
+
+Original Word: kuaɫker -> Processed Word: kuaɫkeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: quando -> Processed Word: quɐ̃do
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: quɐ̃do -> Processed Word: quɐ̃du
+Pattern Applied: o$->u
+
+Original Word: quɐ̃du -> Processed Word: kuɐ̃du
+Pattern Applied: q->k
+
+Original Word: quanto -> Processed Word: quɐ̃to
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: quɐ̃to -> Processed Word: quɐ̃tu
+Pattern Applied: o$->u
+
+Original Word: quɐ̃tu -> Processed Word: kuɐ̃tu
+Pattern Applied: q->k
+
+Original Word: que -> Processed Word: quɨ
+Pattern Applied: e$->ɨ
+
+Original Word: quɨ -> Processed Word: kɨ
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: quem -> Processed Word: quɐ̃j̃
+Pattern Applied: em$->ɐ̃j̃
+
+Original Word: quɐ̃j̃ -> Processed Word: kɐ̃j̃
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: tal -> Processed Word: taɫ
+Pattern Applied: l$->ɫ
+
+Original Word: tanto -> Processed Word: tɐ̃to
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: tɐ̃to -> Processed Word: tɐ̃tu
+Pattern Applied: o$->u
+
+Original Word: todo -> Processed Word: todu
+Pattern Applied: o$->u
+
+Original Word: todu -> Processed Word: toðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: tudo -> Processed Word: tudu
+Pattern Applied: o$->u
+
+Original Word: tudu -> Processed Word: tuðu
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: único -> Processed Word: unico
+Pattern Applied: ú->u
+
+Original Word: unico -> Processed Word: unicu
+Pattern Applied: o$->u
+
+Original Word: unicu -> Processed Word: uniku
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: abrir -> Processed Word: ɐbrir
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐbrir -> Processed Word: ɐbriɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ɐbriɾ -> Processed Word: ɐbɾiɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: acabar -> Processed Word: ɐcabar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐcabar -> Processed Word: ɐcaβar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: ɐcaβar -> Processed Word: ɐkaβar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: ɐkaβar -> Processed Word: ɐkaβaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: achar -> Processed Word: ɐchar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐchar -> Processed Word: ɐʃar
+Pattern Applied: ch->ʃ
+
+Original Word: ɐʃar -> Processed Word: ɐʃaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: acontecer -> Processed Word: acõtecer
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: acõtecer -> Processed Word: ɐcõtecer
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐcõtecer -> Processed Word: ɐkõtecer
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: ɐkõtecer -> Processed Word: ɐkõteser
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: ɐkõteser -> Processed Word: ɐkõteseɾ
+Pattern Applied: r$->ɾ
+
+Original Word: acordar -> Processed Word: ɐcordar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐcordar -> Processed Word: ɐkordar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: ɐkordar -> Processed Word: ɐkoɾdar
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: ɐkoɾdar -> Processed Word: ɐkoɾdaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: acreditar -> Processed Word: ɐcreditar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐcreditar -> Processed Word: ɐcreðitar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ɐcreðitar -> Processed Word: ɐkreðitar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: ɐkreðitar -> Processed Word: ɐkreðitaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: adorar -> Processed Word: ɐdorar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐdorar -> Processed Word: ɐðorar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ɐðorar -> Processed Word: ɐðoraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ɐðoraɾ -> Processed Word: ɐðoɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: agradecer -> Processed Word: ɐgradecer
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐgradecer -> Processed Word: ɐgraðecer
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ɐgraðecer -> Processed Word: ɐgraðeser
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: ɐgraðeser -> Processed Word: ɐgraðeseɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ɐgraðeseɾ -> Processed Word: ɐgɾaðeseɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: ajudar -> Processed Word: aʒudar
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: aʒudar -> Processed Word: ɐʒudar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐʒudar -> Processed Word: ɐʒuðar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: ɐʒuðar -> Processed Word: ɐʒuðaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: almoçar -> Processed Word: aɫmoçar
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: aɫmoçar -> Processed Word: aɫmoçaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: aɫmoçaɾ -> Processed Word: aɫmosaɾ
+Pattern Applied: ç->s
+
+Original Word: amar -> Processed Word: ɐmar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐmar -> Processed Word: ɐmaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: andar -> Processed Word: ɐ̃dar
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: ɐ̃dar -> Processed Word: ɐ̃daɾ
+Pattern Applied: r$->ɾ
+
+Original Word: apanhar -> Processed Word: ɐpanhar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐpanhar -> Processed Word: ɐpɐnhar
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: ɐpɐnhar -> Processed Word: ɐpɐnhaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ɐpɐnhaɾ -> Processed Word: ɐpɐɲaɾ
+Pattern Applied: nh->ɲ
+
+Original Word: aparecer -> Processed Word: ɐparecer
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐparecer -> Processed Word: ɐpareser
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: ɐpareser -> Processed Word: ɐpareseɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ɐpareseɾ -> Processed Word: ɐpaɾeseɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: aprender -> Processed Word: aprẽder
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: aprẽder -> Processed Word: ɐprẽder
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐprẽder -> Processed Word: ɐprẽdeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ɐprẽdeɾ -> Processed Word: ɐpɾẽdeɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: arranjar -> Processed Word: arrɐ̃jar
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: arrɐ̃jar -> Processed Word: arrɐ̃ʒar
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: arrɐ̃ʒar -> Processed Word: ɐrrɐ̃ʒar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐrrɐ̃ʒar -> Processed Word: ɐʀɐ̃ʒar
+Pattern Applied: (r{2})->ʀ
+
+Original Word: ɐʀɐ̃ʒar -> Processed Word: ɐʀɐ̃ʒaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: arrumar -> Processed Word: ɐrrumar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐrrumar -> Processed Word: ɐʀumar
+Pattern Applied: (r{2})->ʀ
+
+Original Word: ɐʀumar -> Processed Word: ɐʀumaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: atirar -> Processed Word: ɐtirar
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐtirar -> Processed Word: ɐtiraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ɐtiraɾ -> Processed Word: ɐtiɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: bater -> Processed Word: bateɾ
+Pattern Applied: r$->ɾ
+
+Original Word: beber -> Processed Word: beβer
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: beβer -> Processed Word: beβeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: brincar -> Processed Word: brĩcar
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: brĩcar -> Processed Word: brĩkar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: brĩkar -> Processed Word: brĩkaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: brĩkaɾ -> Processed Word: bɾĩkaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: cair -> Processed Word: cajr
+Pattern Applied: ai(?=[bcçdghjlmnpqrstvxz])->aj
+
+Original Word: cajr -> Processed Word: kajr
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kajr -> Processed Word: kajɾ
+Pattern Applied: r$->ɾ
+
+Original Word: cantar -> Processed Word: cɐ̃tar
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: cɐ̃tar -> Processed Word: kɐ̃tar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kɐ̃tar -> Processed Word: kɐ̃taɾ
+Pattern Applied: r$->ɾ
+
+Original Word: casar -> Processed Word: cazar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: cazar -> Processed Word: kazar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kazar -> Processed Word: kazaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: chamar -> Processed Word: chɐmar
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: chɐmar -> Processed Word: ʃɐmar
+Pattern Applied: ^ch->ʃ
+
+Original Word: ʃɐmar -> Processed Word: ʃɐmaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: chegar -> Processed Word: ʃegar
+Pattern Applied: ^ch->ʃ
+
+Original Word: ʃegar -> Processed Word: ʃeɣar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: ʃeɣar -> Processed Word: ʃeɣaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: chorar -> Processed Word: ʃorar
+Pattern Applied: ^ch->ʃ
+
+Original Word: ʃorar -> Processed Word: ʃoraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ʃoraɾ -> Processed Word: ʃoɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: chover -> Processed Word: ʃover
+Pattern Applied: ^ch->ʃ
+
+Original Word: ʃover -> Processed Word: ʃoveɾ
+Pattern Applied: r$->ɾ
+
+Original Word: colocar -> Processed Word: kolokar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kolokar -> Processed Word: kolokaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: começar -> Processed Word: komeçar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: komeçar -> Processed Word: komeçaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: komeçaɾ -> Processed Word: komesaɾ
+Pattern Applied: ç->s
+
+Original Word: comer -> Processed Word: komer
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: komer -> Processed Word: komeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: comprar -> Processed Word: cõprar
+Pattern Applied: om(?=[bcçdghjlmnpqrstvxz])->õ
+
+Original Word: cõprar -> Processed Word: kõprar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kõprar -> Processed Word: kõpraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: kõpraɾ -> Processed Word: kõpɾaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: conhecer -> Processed Word: konhecer
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: konhecer -> Processed Word: konheser
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: konheser -> Processed Word: konheseɾ
+Pattern Applied: r$->ɾ
+
+Original Word: konheseɾ -> Processed Word: koɲeseɾ
+Pattern Applied: nh->ɲ
+
+Original Word: contar -> Processed Word: cõtar
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: cõtar -> Processed Word: kõtar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kõtar -> Processed Word: kõtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: continuar -> Processed Word: cõtinuar
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: cõtinuar -> Processed Word: kõtinuar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kõtinuar -> Processed Word: kõtinuaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: conversar -> Processed Word: cõversar
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: cõversar -> Processed Word: kõversar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kõversar -> Processed Word: kõveɾsar
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: kõveɾsar -> Processed Word: kõveɾsaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: correr -> Processed Word: korrer
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: korrer -> Processed Word: koʀer
+Pattern Applied: (r{2})->ʀ
+
+Original Word: koʀer -> Processed Word: koʀeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: cortar -> Processed Word: kortar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kortar -> Processed Word: koɾtar
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: koɾtar -> Processed Word: koɾtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: costumar -> Processed Word: kostumar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kostumar -> Processed Word: koʃtumar
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: koʃtumar -> Processed Word: koʃtumaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: cozinhar -> Processed Word: kozinhar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kozinhar -> Processed Word: kozinhaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: kozinhaɾ -> Processed Word: koziɲaɾ
+Pattern Applied: nh->ɲ
+
+Original Word: crescer -> Processed Word: krescer
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: krescer -> Processed Word: kreʃcer
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: kreʃcer -> Processed Word: kreʃser
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: kreʃser -> Processed Word: kreʃseɾ
+Pattern Applied: r$->ɾ
+
+Original Word: cuidar -> Processed Word: cujdar
+Pattern Applied: (?<![gq])ui->uj
+
+Original Word: cujdar -> Processed Word: cujðar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: cujðar -> Processed Word: kujðar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kujðar -> Processed Word: kujðaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: custar -> Processed Word: kustar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: kustar -> Processed Word: kuʃtar
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: kuʃtar -> Processed Word: kuʃtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: dançar -> Processed Word: dɐ̃çar
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: dɐ̃çar -> Processed Word: dɐ̃çaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: dɐ̃çaɾ -> Processed Word: dɐ̃saɾ
+Pattern Applied: ç->s
+
+Original Word: dar -> Processed Word: daɾ
+Pattern Applied: r$->ɾ
+
+Original Word: decidir -> Processed Word: deciðir
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: deciðir -> Processed Word: desiðir
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: desiðir -> Processed Word: desiðiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: deitar -> Processed Word: dɐjtar
+Pattern Applied: ei->ɐj
+
+Original Word: dɐjtar -> Processed Word: dɐjtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: deixar -> Processed Word: dɐjxar
+Pattern Applied: ei->ɐj
+
+Original Word: dɐjxar -> Processed Word: dɐjxaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: dɐjxaɾ -> Processed Word: dɐjʃaɾ
+Pattern Applied: x->ʃ
+
+Original Word: demorar -> Processed Word: demoraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: demoraɾ -> Processed Word: demoɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: descer -> Processed Word: deʃcer
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: deʃcer -> Processed Word: deʃser
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: deʃser -> Processed Word: deʃseɾ
+Pattern Applied: r$->ɾ
+
+Original Word: desculpar -> Processed Word: descuɫpar
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: descuɫpar -> Processed Word: deskuɫpar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: deskuɫpar -> Processed Word: deʃkuɫpar
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: deʃkuɫpar -> Processed Word: deʃkuɫpaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: dever -> Processed Word: deveɾ
+Pattern Applied: r$->ɾ
+
+Original Word: dizer -> Processed Word: dizeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: dormir -> Processed Word: doɾmir
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: doɾmir -> Processed Word: doɾmiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: encher -> Processed Word: ẽcher
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽcher -> Processed Word: ẽʃer
+Pattern Applied: ch->ʃ
+
+Original Word: ẽʃer -> Processed Word: ẽʃeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: encontrar -> Processed Word: ẽcontrar
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽcontrar -> Processed Word: ẽcõtrar
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: ẽcõtrar -> Processed Word: ẽkõtrar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: ẽkõtrar -> Processed Word: ẽkõtraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ẽkõtraɾ -> Processed Word: ẽkõtɾaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: enganar -> Processed Word: ẽganar
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽganar -> Processed Word: ẽgɐnar
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: ẽgɐnar -> Processed Word: ẽgɐnaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: entrar -> Processed Word: ẽtrar
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽtrar -> Processed Word: ẽtraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ẽtraɾ -> Processed Word: ẽtɾaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: entregar -> Processed Word: ẽtregar
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽtregar -> Processed Word: ẽtreɣar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: ẽtreɣar -> Processed Word: ẽtreɣaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ẽtreɣaɾ -> Processed Word: ẽtɾeɣaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: enviar -> Processed Word: ẽviar
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ẽviar -> Processed Word: ẽviaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: escolher -> Processed Word: escoɫher
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: escoɫher -> Processed Word: eskoɫher
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: eskoɫher -> Processed Word: eʃkoɫher
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: eʃkoɫher -> Processed Word: eʃkoɫheɾ
+Pattern Applied: r$->ɾ
+
+Original Word: esconder -> Processed Word: escõder
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: escõder -> Processed Word: eskõder
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: eskõder -> Processed Word: eʃkõder
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: eʃkõder -> Processed Word: eʃkõdeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: esperar -> Processed Word: eʃperar
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: eʃperar -> Processed Word: eʃperaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: eʃperaɾ -> Processed Word: eʃpeɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: esquecer -> Processed Word: esqueser
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: esqueser -> Processed Word: eskeser
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: eskeser -> Processed Word: eskeseɾ
+Pattern Applied: r$->ɾ
+
+Original Word: estar -> Processed Word: eʃtar
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: eʃtar -> Processed Word: eʃtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: estudar -> Processed Word: estuðar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: estuðar -> Processed Word: eʃtuðar
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: eʃtuðar -> Processed Word: eʃtuðaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: falar -> Processed Word: falaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: faltar -> Processed Word: faɫtar
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: faɫtar -> Processed Word: faɫtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: fazer -> Processed Word: fazeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: fechar -> Processed Word: feʃar
+Pattern Applied: ch->ʃ
+
+Original Word: feʃar -> Processed Word: feʃaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ferver -> Processed Word: feɾver
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: feɾver -> Processed Word: feɾveɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ficar -> Processed Word: fikar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: fikar -> Processed Word: fikaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: fugir -> Processed Word: fuʒir
+Pattern Applied: g(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->ʒ
+
+Original Word: fuʒir -> Processed Word: fuʒiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ganhar -> Processed Word: gɐnhar
+Pattern Applied: a(?=[m|n|nh])->ɐ
+
+Original Word: gɐnhar -> Processed Word: gɐnhaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: gɐnhaɾ -> Processed Word: gɐɲaɾ
+Pattern Applied: nh->ɲ
+
+Original Word: gastar -> Processed Word: gaʃtar
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: gaʃtar -> Processed Word: gaʃtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: gostar -> Processed Word: goʃtar
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: goʃtar -> Processed Word: goʃtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: gritar -> Processed Word: gritaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: gritaɾ -> Processed Word: gɾitaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: guardar -> Processed Word: guaɾdar
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: guaɾdar -> Processed Word: guaɾdaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: haver -> Processed Word: aver
+Pattern Applied: (?<![cln])h->
+
+Original Word: aver -> Processed Word: ɐver
+Pattern Applied: ^a(?![jwɫ])(?<!á)->ɐ
+
+Original Word: ɐver -> Processed Word: ɐveɾ
+Pattern Applied: r$->ɾ
+
+Original Word: inventar -> Processed Word: ĩventar
+Pattern Applied: in(?=[bcçdgjlmnpqrstvxz])->ĩ
+
+Original Word: ĩventar -> Processed Word: ĩvẽtar
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: ĩvẽtar -> Processed Word: ĩvẽtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ir -> Processed Word: iɾ
+Pattern Applied: r$->ɾ
+
+Original Word: jantar -> Processed Word: jɐ̃tar
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: jɐ̃tar -> Processed Word: ʒɐ̃tar
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: ʒɐ̃tar -> Processed Word: ʒɐ̃taɾ
+Pattern Applied: r$->ɾ
+
+Original Word: jogar -> Processed Word: ʒogar
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: ʒogar -> Processed Word: ʒoɣar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: ʒoɣar -> Processed Word: ʒoɣaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: juntar -> Processed Word: jũtar
+Pattern Applied: un(?=[bcçdgjlmnpqrstvxz])->ũ
+
+Original Word: jũtar -> Processed Word: ʒũtar
+Pattern Applied: j(?=[aáâɐɐ̃eẽiĩɨɛoõɔuũ][jwj̃w̃bcçdgjlmnpqrstvxz])->ʒ
+
+Original Word: ʒũtar -> Processed Word: ʒũtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: lavar -> Processed Word: lavaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: lembrar -> Processed Word: lẽbrar
+Pattern Applied: em(?=[bcçdghjlmnpqrstvxz])->ẽ
+
+Original Word: lẽbrar -> Processed Word: lẽbraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: lẽbraɾ -> Processed Word: lẽbɾaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: ler -> Processed Word: leɾ
+Pattern Applied: r$->ɾ
+
+Original Word: levantar -> Processed Word: levɐ̃tar
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: levɐ̃tar -> Processed Word: levɐ̃taɾ
+Pattern Applied: r$->ɾ
+
+Original Word: levar -> Processed Word: levaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ligar -> Processed Word: liɣar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: liɣar -> Processed Word: liɣaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: limpar -> Processed Word: lĩpar
+Pattern Applied: im(?=[bcçdghjlmnpqrstvxz])->ĩ
+
+Original Word: lĩpar -> Processed Word: lĩpaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: lutar -> Processed Word: lutaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: mandar -> Processed Word: mɐ̃dar
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: mɐ̃dar -> Processed Word: mɐ̃daɾ
+Pattern Applied: r$->ɾ
+
+Original Word: manter -> Processed Word: mɐ̃ter
+Pattern Applied: an(?=[bcçdgjlmnpqrstvxz])->ɐ̃
+
+Original Word: mɐ̃ter -> Processed Word: mɐ̃teɾ
+Pattern Applied: r$->ɾ
+
+Original Word: meter -> Processed Word: meteɾ
+Pattern Applied: r$->ɾ
+
+Original Word: mexer -> Processed Word: mexeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: mexeɾ -> Processed Word: meʃeɾ
+Pattern Applied: x->ʃ
+
+Original Word: morar -> Processed Word: moraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: moraɾ -> Processed Word: moɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: morrer -> Processed Word: moʀer
+Pattern Applied: (r{2})->ʀ
+
+Original Word: moʀer -> Processed Word: moʀeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: mostrar -> Processed Word: moʃtrar
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: moʃtrar -> Processed Word: moʃtraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: moʃtraɾ -> Processed Word: moʃtɾaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: mudar -> Processed Word: muðar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: muðar -> Processed Word: muðaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: nadar -> Processed Word: naðar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: naðar -> Processed Word: naðaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: nascer -> Processed Word: naʃcer
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: naʃcer -> Processed Word: naʃser
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: naʃser -> Processed Word: naʃseɾ
+Pattern Applied: r$->ɾ
+
+Original Word: oferecer -> Processed Word: ofereser
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: ofereser -> Processed Word: ofereseɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ofereseɾ -> Processed Word: ofeɾeseɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: olhar -> Processed Word: oɫhar
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: oɫhar -> Processed Word: oɫhaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ouvir -> Processed Word: ovir
+Pattern Applied: ou->o
+
+Original Word: ovir -> Processed Word: oviɾ
+Pattern Applied: r$->ɾ
+
+Original Word: pagar -> Processed Word: paɣar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: paɣar -> Processed Word: paɣaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: parar -> Processed Word: paraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: paraɾ -> Processed Word: paɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: parecer -> Processed Word: pareser
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: pareser -> Processed Word: pareseɾ
+Pattern Applied: r$->ɾ
+
+Original Word: pareseɾ -> Processed Word: paɾeseɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: partir -> Processed Word: paɾtir
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: paɾtir -> Processed Word: paɾtiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: passar -> Processed Word: pasar
+Pattern Applied: s{2}->s
+
+Original Word: pasar -> Processed Word: pasaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: passear -> Processed Word: pasear
+Pattern Applied: s{2}->s
+
+Original Word: pasear -> Processed Word: paseaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: pedir -> Processed Word: peðir
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: peðir -> Processed Word: peðiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: pegar -> Processed Word: peɣar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: peɣar -> Processed Word: peɣaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: pensar -> Processed Word: pẽsar
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: pẽsar -> Processed Word: pẽsaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: perceber -> Processed Word: perceβer
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: perceβer -> Processed Word: perseβer
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: perseβer -> Processed Word: peɾseβer
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: peɾseβer -> Processed Word: peɾseβeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: perder -> Processed Word: peɾder
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: peɾder -> Processed Word: peɾdeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: perguntar -> Processed Word: pergũtar
+Pattern Applied: un(?=[bcçdgjlmnpqrstvxz])->ũ
+
+Original Word: pergũtar -> Processed Word: peɾgũtar
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: peɾgũtar -> Processed Word: peɾgũtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: poder -> Processed Word: poðer
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ð
+
+Original Word: poðer -> Processed Word: poðeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: pôr -> Processed Word: por
+Pattern Applied: ô->o
+
+Original Word: por -> Processed Word: poɾ
+Pattern Applied: r$->ɾ
+
+Original Word: precisar -> Processed Word: precizar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: precizar -> Processed Word: presizar
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: presizar -> Processed Word: presizaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: presizaɾ -> Processed Word: pɾesizaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: preparar -> Processed Word: preparaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: preparaɾ -> Processed Word: prepaɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: prepaɾaɾ -> Processed Word: pɾepaɾaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: procurar -> Processed Word: prokurar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: prokurar -> Processed Word: prokuraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: prokuraɾ -> Processed Word: prokuɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: prokuɾaɾ -> Processed Word: pɾokuɾaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: puxar -> Processed Word: puxaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: puxaɾ -> Processed Word: puʃaɾ
+Pattern Applied: x->ʃ
+
+Original Word: querer -> Processed Word: kerer
+Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->k
+
+Original Word: kerer -> Processed Word: kereɾ
+Pattern Applied: r$->ɾ
+
+Original Word: kereɾ -> Processed Word: keɾeɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: receber -> Processed Word: receβer
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: receβer -> Processed Word: reseβer
+Pattern Applied: c(?=(ɐj|e|ɛ|i|ɨ))->s
+
+Original Word: reseβer -> Processed Word: ʀeseβer
+Pattern Applied: ^r->ʀ
+
+Original Word: ʀeseβer -> Processed Word: ʀeseβeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: repetir -> Processed Word: ʀepetir
+Pattern Applied: ^r->ʀ
+
+Original Word: ʀepetir -> Processed Word: ʀepetiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: respirar -> Processed Word: reʃpirar
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: reʃpirar -> Processed Word: ʀeʃpirar
+Pattern Applied: ^r->ʀ
+
+Original Word: ʀeʃpirar -> Processed Word: ʀeʃpiraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ʀeʃpiraɾ -> Processed Word: ʀeʃpiɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: responder -> Processed Word: respõder
+Pattern Applied: on(?=[bcçdgjlmnpqrstvxz])->õ
+
+Original Word: respõder -> Processed Word: reʃpõder
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: reʃpõder -> Processed Word: ʀeʃpõder
+Pattern Applied: ^r->ʀ
+
+Original Word: ʀeʃpõder -> Processed Word: ʀeʃpõdeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: rir -> Processed Word: ʀir
+Pattern Applied: ^r->ʀ
+
+Original Word: ʀir -> Processed Word: ʀiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: saber -> Processed Word: saβer
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: saβer -> Processed Word: saβeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: sair -> Processed Word: sajr
+Pattern Applied: ai(?=[bcçdghjlmnpqrstvxz])->aj
+
+Original Word: sajr -> Processed Word: sajɾ
+Pattern Applied: r$->ɾ
+
+Original Word: saltar -> Processed Word: saɫtar
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: saɫtar -> Processed Word: saɫtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: secar -> Processed Word: sekar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: sekar -> Processed Word: sekaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: seguir -> Processed Word: segir
+Pattern Applied: gu(?=(ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ))->g
+
+Original Word: segir -> Processed Word: seɣir
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])g(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->ɣ
+
+Original Word: seɣir -> Processed Word: seɣiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: sentar -> Processed Word: sẽtar
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: sẽtar -> Processed Word: sẽtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: sentir -> Processed Word: sẽtir
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: sẽtir -> Processed Word: sẽtiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ser -> Processed Word: seɾ
+Pattern Applied: r$->ɾ
+
+Original Word: servir -> Processed Word: seɾvir
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: seɾvir -> Processed Word: seɾviɾ
+Pattern Applied: r$->ɾ
+
+Original Word: sobrar -> Processed Word: sobraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: sobraɾ -> Processed Word: sobɾaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: sofrer -> Processed Word: sofreɾ
+Pattern Applied: r$->ɾ
+
+Original Word: sofreɾ -> Processed Word: sofɾeɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: sonhar -> Processed Word: sonhaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: sonhaɾ -> Processed Word: soɲaɾ
+Pattern Applied: nh->ɲ
+
+Original Word: sorrir -> Processed Word: soʀir
+Pattern Applied: (r{2})->ʀ
+
+Original Word: soʀir -> Processed Word: soʀiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: subir -> Processed Word: suβir
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: suβir -> Processed Word: suβiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: tentar -> Processed Word: tẽtar
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: tẽtar -> Processed Word: tẽtaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ter -> Processed Word: teɾ
+Pattern Applied: r$->ɾ
+
+Original Word: tirar -> Processed Word: tiraɾ
+Pattern Applied: r$->ɾ
+
+Original Word: tiraɾ -> Processed Word: tiɾaɾ
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])->ɾ
+
+Original Word: tocar -> Processed Word: tokar
+Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ)->k
+
+Original Word: tokar -> Processed Word: tokaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: tomar -> Processed Word: tomaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: tornar -> Processed Word: toɾnar
+Pattern Applied: (?<=[aɐeɛɨijoɔuwɐ̃ẽĩj̃w̃])r(?=[bcçdfghjklmnpqrstvxz])->ɾ
+
+Original Word: toɾnar -> Processed Word: toɾnaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: trabalhar -> Processed Word: trabaɫhar
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: trabaɫhar -> Processed Word: traβaɫhar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])b(?=[aɐeɛɨijoɔuwɐ̃ẽĩ])->β
+
+Original Word: traβaɫhar -> Processed Word: traβaɫhaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: traβaɫhaɾ -> Processed Word: tɾaβaɫhaɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: tratar -> Processed Word: trataɾ
+Pattern Applied: r$->ɾ
+
+Original Word: trataɾ -> Processed Word: tɾataɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: trazer -> Processed Word: trazeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: trazeɾ -> Processed Word: tɾazeɾ
+Pattern Applied: (?<=[pbtdcgfv])r->ɾ
+
+Original Word: usar -> Processed Word: uzar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: uzar -> Processed Word: uzaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: vender -> Processed Word: vẽder
+Pattern Applied: en(?=[bcçdghjklmnpqrstvxz])->ẽ
+
+Original Word: vẽder -> Processed Word: vẽdeɾ
+Pattern Applied: r$->ɾ
+
+Original Word: ver -> Processed Word: veɾ
+Pattern Applied: r$->ɾ
+
+Original Word: vestir -> Processed Word: veʃtir
+Pattern Applied: s(?=(p|t|k|f|cɐj|cɐ̃j̃|ce|cẽ|cɛ|ci|cĩ|cɨ))->ʃ
+
+Original Word: veʃtir -> Processed Word: veʃtiɾ
+Pattern Applied: r$->ɾ
+
+Original Word: vir -> Processed Word: viɾ
+Pattern Applied: r$->ɾ
+
+Original Word: visitar -> Processed Word: vizitar
+Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
+
+Original Word: vizitar -> Processed Word: vizitaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: viver -> Processed Word: viveɾ
+Pattern Applied: r$->ɾ
+
+Original Word: voar -> Processed Word: voaɾ
+Pattern Applied: r$->ɾ
+
+Original Word: voltar -> Processed Word: voɫtar
+Pattern Applied: (?<=[aáàâɐeɛɨijoɔuw])l(?=[bcçdfghjklmnpqrstvxz])->ɫ
+
+Original Word: voɫtar -> Processed Word: voɫtaɾ
+Pattern Applied: r$->ɾ
+

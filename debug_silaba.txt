@@ -1,0 +1,2592 @@
+Original Word: alto -> Processed Word: al.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: amarelo -> Processed Word: a.ma.re.lo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: amigo -> Processed Word: ami.go
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ami.go -> Processed Word: a.mi.go
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: antigo -> Processed Word: an.tigo
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: an.tigo -> Processed Word: an.ti.go
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: assado -> Processed Word: as.sado
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: as.sado -> Processed Word: as.sa.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: azul -> Processed Word: a.zul
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: baixo -> Processed Word: bai.xo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: belo -> Processed Word: be.lo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: bonito -> Processed Word: boni.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: boni.to -> Processed Word: bo.ni.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: branco -> Processed Word: bran.co
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: capaz -> Processed Word: ca.paz
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: caro -> Processed Word: ca.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: castanho -> Processed Word: cas.tanho
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cas.tanho -> Processed Word: cas.ta.nho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: cheio -> Processed Word: chei.o
+Pattern Applied: (?<=(ai|ei|oi|ui|au|eu|iu|ou))(?=[aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: chinês -> Processed Word: chi.nês
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: claro -> Processed Word: cla.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: comprido -> Processed Word: com.prido
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: com.prido -> Processed Word: com.pri.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: contente -> Processed Word: con.ten.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: diferente -> Processed Word: diferen.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: diferen.te -> Processed Word: di.feren.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: di.feren.te -> Processed Word: di.fe.ren.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: difícil -> Processed Word: di.fí.cil
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: doce -> Processed Word: do.ce
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: enorme -> Processed Word: enor.me
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: enor.me -> Processed Word: e.nor.me
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: escuro -> Processed Word: es.curo
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.curo -> Processed Word: es.cu.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: estranho -> Processed Word: es.tranho
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.tranho -> Processed Word: es.tra.nho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: fácil -> Processed Word: fá.cil
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: famoso -> Processed Word: fa.mo.so
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: feliz -> Processed Word: fe.liz
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: fino -> Processed Word: fi.no
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: forte -> Processed Word: for.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: fresco -> Processed Word: fres.co
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: frio -> Processed Word: fri.o
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: grande -> Processed Word: gran.de
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: igual -> Processed Word: i.gual
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: importante -> Processed Word: im.por.tan.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: junto -> Processed Word: jun.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: leve -> Processed Word: le.ve
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: limpo -> Processed Word: lim.po
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: lindo -> Processed Word: lin.do
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: livre -> Processed Word: li.vre
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: longo -> Processed Word: lon.go
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: natural -> Processed Word: na.tural
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: na.tural -> Processed Word: na.tu.ral
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: negro -> Processed Word: ne.gro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: normal -> Processed Word: nor.mal
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: novo -> Processed Word: no.vo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: obrigado -> Processed Word: o.bri.ga.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ótimo -> Processed Word: ó.timo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ó.timo -> Processed Word: ó.ti.mo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: passado -> Processed Word: pas.sado
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: pas.sado -> Processed Word: pas.sa.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pequeno -> Processed Word: pe.queno
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pe.queno -> Processed Word: pe.que.no
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: pobre -> Processed Word: po.bre
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: português -> Processed Word: por.tuguês
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: por.tuguês -> Processed Word: por.tu.guês
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: possível -> Processed Word: pos.sível
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: pos.sível -> Processed Word: pos.sí.vel
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: preciso -> Processed Word: pre.ciso
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pre.ciso -> Processed Word: pre.ci.so
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: preto -> Processed Word: pre.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: principal -> Processed Word: prin.cipal
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: prin.cipal -> Processed Word: prin.ci.pal
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pronto -> Processed Word: pron.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: quente -> Processed Word: quen.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: rico -> Processed Word: ri.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: seco -> Processed Word: se.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: simpático -> Processed Word: sim.pático
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: sim.pático -> Processed Word: sim.pá.ti.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: simples -> Processed Word: sim.ples
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: sozinho -> Processed Word: so.zinho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: so.zinho -> Processed Word: so.zi.nho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: triste -> Processed Word: tris.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: último -> Processed Word: úl.timo
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: úl.timo -> Processed Word: úl.ti.mo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: velho -> Processed Word: ve.lho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: vermelho -> Processed Word: ver.melho
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ver.melho -> Processed Word: ver.me.lho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: vivo -> Processed Word: vi.vo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: agora -> Processed Word: a.gora
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.gora -> Processed Word: a.go.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: aí -> Processed Word: a.í
+Pattern Applied: (?<=a)(?=[íú])->.
+
+Original Word: ainda -> Processed Word: ain.da
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ain.da -> Processed Word: a.in.da
+Pattern Applied: (?<=a)(?=in)->.
+
+Original Word: ali -> Processed Word: a.li
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: amanhã -> Processed Word: a.manhã
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: a.manhã -> Processed Word: a.ma.nhã
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: apenas -> Processed Word: a.penas
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.penas -> Processed Word: a.pe.nas
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: aqui -> Processed Word: a.qui
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: assim -> Processed Word: as.sim
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: até -> Processed Word: a.té
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bastante -> Processed Word: bas.tan.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cedo -> Processed Word: ce.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: demasiado -> Processed Word: demasia.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: demasia.do -> Processed Word: de.ma.sia.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: de.ma.sia.do -> Processed Word: de.ma.si.a.do
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: depois -> Processed Word: de.pois
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: depressa -> Processed Word: depres.sa
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: depres.sa -> Processed Word: de.pres.sa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: embora -> Processed Word: em.bora
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: em.bora -> Processed Word: em.bo.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: então -> Processed Word: en.tão
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: entretanto -> Processed Word: en.tretan.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: en.tretan.to -> Processed Word: en.tre.tan.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: finalmente -> Processed Word: final.men.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: final.men.te -> Processed Word: fi.nal.men.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: geralmente -> Processed Word: geral.men.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: geral.men.te -> Processed Word: ge.ral.men.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: hoje -> Processed Word: ho.je
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: imenso -> Processed Word: imen.so
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: imen.so -> Processed Word: i.men.so
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: logo -> Processed Word: lo.go
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: longe -> Processed Word: lon.ge
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: menos -> Processed Word: me.nos
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: mesmo -> Processed Word: mes.mo
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: muito -> Processed Word: mui.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: nada -> Processed Word: na.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: normalmente -> Processed Word: nor.mal.men.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: nunca -> Processed Word: nun.ca
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ora -> Processed Word: o.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: portanto -> Processed Word: por.tan.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: pouco -> Processed Word: pou.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: primeiro -> Processed Word: pri.mei.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: quase -> Processed Word: qua.se
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: rapidamente -> Processed Word: rapidamen.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: rapidamen.te -> Processed Word: ra.pi.damen.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ra.pi.damen.te -> Processed Word: ra.pi.da.men.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: sempre -> Processed Word: sem.pre
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: sobretudo -> Processed Word: so.bre.tu.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: talvez -> Processed Word: tal.vez
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: também -> Processed Word: tam.bém
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: tanto -> Processed Word: tan.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: tarde -> Processed Word: tar.de
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: como -> Processed Word: co.mo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: enquanto -> Processed Word: en.quan.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: para -> Processed Word: pa.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: porque -> Processed Word: por.que
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: quando -> Processed Word: quan.do
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: olá -> Processed Word: o.lá
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: abóbora -> Processed Word: a.bó.bora
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.bó.bora -> Processed Word: a.bó.bo.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: abraço -> Processed Word: a.bra.ço
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: abril -> Processed Word: a.bril
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ação -> Processed Word: a.ção
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: acidente -> Processed Word: aciden.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: aciden.te -> Processed Word: a.ci.den.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: açúcar -> Processed Word: a.çú.car
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: adulto -> Processed Word: adul.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: adul.to -> Processed Word: a.dul.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: agosto -> Processed Word: agos.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: agos.to -> Processed Word: a.gos.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: água -> Processed Word: á.gua
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ajuda -> Processed Word: a.ju.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: aldeia -> Processed Word: al.deia
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: al.deia -> Processed Word: al.dei.a
+Pattern Applied: (?<=(ai|ei|oi|ui|au|eu|iu|ou))(?=[aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: alegria -> Processed Word: ale.gria
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ale.gria -> Processed Word: a.le.gria
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: a.le.gria -> Processed Word: a.le.gri.a
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: alho -> Processed Word: a.lho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: almoço -> Processed Word: al.moço
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: al.moço -> Processed Word: al.mo.ço
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: altura -> Processed Word: al.tura
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: al.tura -> Processed Word: al.tu.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: aluno -> Processed Word: a.lu.no
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: amizade -> Processed Word: amiza.de
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: amiza.de -> Processed Word: a.mi.za.de
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: amor -> Processed Word: a.mor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: animal -> Processed Word: a.ni.mal
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: ano -> Processed Word: a.no
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: apartamento -> Processed Word: apar.tamen.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: apar.tamen.to -> Processed Word: a.par.tamen.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.par.tamen.to -> Processed Word: a.par.ta.men.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: área -> Processed Word: á.rea
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: á.rea -> Processed Word: á.re.a
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: armário -> Processed Word: ar.mário
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ar.mário -> Processed Word: ar.má.rio
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: ar.má.rio -> Processed Word: ar.má.ri.o
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: arroz -> Processed Word: ar.roz
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: artigo -> Processed Word: ar.tigo
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ar.tigo -> Processed Word: ar.ti.go
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: árvore -> Processed Word: ár.vore
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ár.vore -> Processed Word: ár.vo.re
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: asa -> Processed Word: a.sa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: atenção -> Processed Word: aten.ção
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: aten.ção -> Processed Word: a.ten.ção
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: atividade -> Processed Word: a.ti.vi.da.de
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ator -> Processed Word: a.tor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: aula -> Processed Word: au.la
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: autor -> Processed Word: au.tor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ave -> Processed Word: a.ve
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: avenida -> Processed Word: a.veni.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.veni.da -> Processed Word: a.ve.ni.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: avião -> Processed Word: a.vião
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.vião -> Processed Word: a.vi.ão
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(ão))->.
+
+Original Word: avô -> Processed Word: a.vô
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: azeite -> Processed Word: azei.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: azei.te -> Processed Word: a.zei.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: bacalhau -> Processed Word: ba.calhau
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ba.calhau -> Processed Word: ba.ca.lhau
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: bairro -> Processed Word: bair.ro
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: banho -> Processed Word: ba.nho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: barba -> Processed Word: bar.ba
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: barco -> Processed Word: bar.co
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: barulho -> Processed Word: ba.rulho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: ba.rulho -> Processed Word: ba.ru.lho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: batata -> Processed Word: ba.ta.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bebé -> Processed Word: be.bé
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bebida -> Processed Word: be.bi.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: beijinho -> Processed Word: bei.jinho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bei.jinho -> Processed Word: bei.ji.nho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: bicicleta -> Processed Word: bi.ci.cle.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bife -> Processed Word: bi.fe
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bilhete -> Processed Word: bilhe.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bilhe.te -> Processed Word: bi.lhe.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: boa-tarde -> Processed Word: boa-tar.de
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: boa-tar.de -> Processed Word: bo.a-tar.de
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: bo.a-tar.de -> Processed Word: bo.a tar.de
+Pattern Applied: --> 
+
+Original Word: boca -> Processed Word: bo.ca
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bola -> Processed Word: bo.la
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: bolo -> Processed Word: bo.lo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: bom-dia -> Processed Word: bom-di.a
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: bom-di.a -> Processed Word: bom di.a
+Pattern Applied: --> 
+
+Original Word: boneca -> Processed Word: bone.ca
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bone.ca -> Processed Word: bo.ne.ca
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: boneco -> Processed Word: bone.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bone.co -> Processed Word: bo.ne.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: braço -> Processed Word: bra.ço
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: brinquedo -> Processed Word: brin.quedo
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: brin.quedo -> Processed Word: brin.que.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: buraco -> Processed Word: bura.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: bura.co -> Processed Word: bu.ra.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: cabeça -> Processed Word: ca.be.ça
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: cabelo -> Processed Word: ca.belo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ca.belo -> Processed Word: ca.be.lo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: caderno -> Processed Word: cader.no
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cader.no -> Processed Word: ca.der.no
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: café -> Processed Word: ca.fé
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: calor -> Processed Word: ca.lor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: cama -> Processed Word: ca.ma
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: caminho -> Processed Word: ca.minho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: ca.minho -> Processed Word: ca.mi.nho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: camisa -> Processed Word: ca.mi.sa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: campo -> Processed Word: cam.po
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: canção -> Processed Word: can.ção
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: canela -> Processed Word: ca.ne.la
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: canto -> Processed Word: can.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cara -> Processed Word: ca.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: carnaval -> Processed Word: car.naval
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: car.naval -> Processed Word: car.na.val
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: carne -> Processed Word: car.ne
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: carro -> Processed Word: car.ro
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: carta -> Processed Word: car.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: casa -> Processed Word: ca.sa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: casca -> Processed Word: cas.ca
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: caso -> Processed Word: ca.so
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: castanha -> Processed Word: cas.tanha
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cas.tanha -> Processed Word: cas.ta.nha
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: cavalo -> Processed Word: ca.valo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ca.valo -> Processed Word: ca.va.lo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: cebola -> Processed Word: ce.bola
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ce.bola -> Processed Word: ce.bo.la
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: cenoura -> Processed Word: ce.nou.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: centro -> Processed Word: cen.tro
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: certeza -> Processed Word: cer.teza
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cer.teza -> Processed Word: cer.te.za
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: chave -> Processed Word: cha.ve
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: cheiro -> Processed Word: chei.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: chocolate -> Processed Word: cho.cola.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: cho.cola.te -> Processed Word: cho.co.la.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: chouriço -> Processed Word: chouri.ço
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: chouri.ço -> Processed Word: chou.ri.ço
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: chuva -> Processed Word: chu.va
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: cidade -> Processed Word: ci.da.de
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: cigarra -> Processed Word: cigar.ra
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cigar.ra -> Processed Word: ci.gar.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: cinema -> Processed Word: ci.ne.ma
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: cliente -> Processed Word: clien.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: clien.te -> Processed Word: cli.en.te
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: clube -> Processed Word: clu.be
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: coelho -> Processed Word: coe.lho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: coe.lho -> Processed Word: co.e.lho
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: coisa -> Processed Word: coi.sa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: colega -> Processed Word: cole.ga
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: cole.ga -> Processed Word: co.le.ga
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: colher -> Processed Word: co.lher
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: comboio -> Processed Word: com.boio
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: com.boio -> Processed Word: com.boi.o
+Pattern Applied: (?<=(ai|ei|oi|ui|au|eu|iu|ou))(?=[aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: comida -> Processed Word: comi.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: comi.da -> Processed Word: co.mi.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: compra -> Processed Word: com.pra
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: concurso -> Processed Word: con.cur.so
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: consulta -> Processed Word: con.sul.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: conta -> Processed Word: con.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: conversa -> Processed Word: con.ver.sa
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: copo -> Processed Word: co.po
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: coração -> Processed Word: cora.ção
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: cora.ção -> Processed Word: co.ra.ção
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: corda -> Processed Word: cor.da
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: corpo -> Processed Word: cor.po
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: costa -> Processed Word: cos.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cozinha -> Processed Word: co.zinha
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: co.zinha -> Processed Word: co.zi.nha
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: creme -> Processed Word: cre.me
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: criança -> Processed Word: crian.ça
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: crian.ça -> Processed Word: cri.an.ça
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: cuidado -> Processed Word: cui.da.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: curso -> Processed Word: cur.so
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: data -> Processed Word: da.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: dedo -> Processed Word: de.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: dente -> Processed Word: den.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: desculpa -> Processed Word: des.cul.pa
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: desporto -> Processed Word: des.por.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: dezembro -> Processed Word: dezem.bro
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: dezem.bro -> Processed Word: de.zem.bro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: dia -> Processed Word: di.a
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: dinheiro -> Processed Word: dinhei.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: dinhei.ro -> Processed Word: di.nhei.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: direito -> Processed Word: direi.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: direi.to -> Processed Word: di.rei.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: doença -> Processed Word: doen.ça
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: doen.ça -> Processed Word: do.en.ça
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: domingo -> Processed Word: domin.go
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: domin.go -> Processed Word: do.min.go
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: dono -> Processed Word: do.no
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: doutor -> Processed Word: dou.tor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: empresa -> Processed Word: em.presa
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: em.presa -> Processed Word: em.pre.sa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: entrada -> Processed Word: en.trada
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: en.trada -> Processed Word: en.tra.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: equipa -> Processed Word: e.qui.pa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: escola -> Processed Word: es.cola
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.cola -> Processed Word: es.co.la
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: espaço -> Processed Word: es.paço
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.paço -> Processed Word: es.pa.ço
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: espera -> Processed Word: es.pera
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.pera -> Processed Word: es.pe.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: estudante -> Processed Word: es.tudan.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.tudan.te -> Processed Word: es.tu.dan.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: estudo -> Processed Word: es.tudo
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.tudo -> Processed Word: es.tu.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: euro -> Processed Word: eu.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: exemplo -> Processed Word: exem.plo
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: exem.plo -> Processed Word: e.xem.plo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: fada -> Processed Word: fa.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: família -> Processed Word: fa.mí.lia
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: fa.mí.lia -> Processed Word: fa.mí.li.a
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: farinha -> Processed Word: fa.rinha
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: fa.rinha -> Processed Word: fa.ri.nha
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: feijão -> Processed Word: fei.jão
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: feira -> Processed Word: fei.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: férias -> Processed Word: fé.rias
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: fé.rias -> Processed Word: fé.ri.as
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: festa -> Processed Word: fes.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: filho -> Processed Word: fi.lho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: filme -> Processed Word: fil.me
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: fim-de-semana -> Processed Word: fim-de-se.ma.na
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: fim-de-se.ma.na -> Processed Word: fim de se.ma.na
+Pattern Applied: --> 
+
+Original Word: final -> Processed Word: fi.nal
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: folha -> Processed Word: fo.lha
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: força -> Processed Word: for.ça
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: forma -> Processed Word: for.ma
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: formiga -> Processed Word: for.miga
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: for.miga -> Processed Word: for.mi.ga
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: forno -> Processed Word: for.no
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: frase -> Processed Word: fra.se
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: frente -> Processed Word: fren.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: fruta -> Processed Word: fru.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: fruto -> Processed Word: fru.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: fundo -> Processed Word: fun.do
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: futebol -> Processed Word: fu.te.bol
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: futuro -> Processed Word: fu.turo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: fu.turo -> Processed Word: fu.tu.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: galo -> Processed Word: ga.lo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: gato -> Processed Word: ga.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: gema -> Processed Word: ge.ma
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: gente -> Processed Word: gen.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: golo -> Processed Word: go.lo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: gosto -> Processed Word: gos.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: gota -> Processed Word: go.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: grupo -> Processed Word: gru.po
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: guerra -> Processed Word: guer.ra
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: história -> Processed Word: his.tória
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: his.tória -> Processed Word: his.tó.ria
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: his.tó.ria -> Processed Word: his.tó.ri.a
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: homem -> Processed Word: ho.mem
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: hora -> Processed Word: ho.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: horário -> Processed Word: ho.rá.rio
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: ho.rá.rio -> Processed Word: ho.rá.ri.o
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: horta -> Processed Word: hor.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: hospital -> Processed Word: hos.pital
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: hos.pital -> Processed Word: hos.pi.tal
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: hotel -> Processed Word: ho.tel
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: idade -> Processed Word: i.da.de
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ideia -> Processed Word: i.deia
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: i.deia -> Processed Word: i.dei.a
+Pattern Applied: (?<=(ai|ei|oi|ui|au|eu|iu|ou))(?=[aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: ilha -> Processed Word: i.lha
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: imagem -> Processed Word: ima.gem
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ima.gem -> Processed Word: i.ma.gem
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: início -> Processed Word: iní.cio
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: iní.cio -> Processed Word: i.ní.cio
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: i.ní.cio -> Processed Word: i.ní.ci.o
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: inverno -> Processed Word: in.ver.no
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: irmão -> Processed Word: ir.mão
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: janeiro -> Processed Word: ja.nei.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: janela -> Processed Word: ja.ne.la
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: jardim -> Processed Word: jar.dim
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: jogador -> Processed Word: jo.ga.dor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: jogo -> Processed Word: jo.go
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: jovem -> Processed Word: jo.vem
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: julho -> Processed Word: ju.lho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: junho -> Processed Word: ju.nho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: lado -> Processed Word: la.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: leão -> Processed Word: le.ão
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(ão))->.
+
+Original Word: legume -> Processed Word: le.gume
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: le.gume -> Processed Word: le.gu.me
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: leite -> Processed Word: lei.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: lenda -> Processed Word: len.da
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: letra -> Processed Word: le.tra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: língua -> Processed Word: lín.gua
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: linha -> Processed Word: li.nha
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: lista -> Processed Word: lis.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: livro -> Processed Word: li.vro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: local -> Processed Word: lo.cal
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: loja -> Processed Word: lo.ja
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: lua -> Processed Word: lu.a
+Pattern Applied: (?<=[bcçdfhjlmnpsrtvxz]u)(?=a)->.
+
+Original Word: lugar -> Processed Word: lu.gar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: lume -> Processed Word: lu.me
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: macaco -> Processed Word: ma.ca.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: madeira -> Processed Word: ma.deira
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ma.deira -> Processed Word: ma.dei.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: maio -> Processed Word: mai.o
+Pattern Applied: (?<=(ai|ei|oi|ui|au|eu|iu|ou))(?=[aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: mala -> Processed Word: ma.la
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: mamã -> Processed Word: ma.mã
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: maneira -> Processed Word: ma.nei.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: manhã -> Processed Word: ma.nhã
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: manteiga -> Processed Word: man.teiga
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: man.teiga -> Processed Word: man.tei.ga
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: máquina -> Processed Word: má.quina
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: má.quina -> Processed Word: má.qui.na
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: marca -> Processed Word: mar.ca
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: março -> Processed Word: mar.ço
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: margarina -> Processed Word: mar.garina
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: mar.garina -> Processed Word: mar.ga.ri.na
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: marido -> Processed Word: mari.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: mari.do -> Processed Word: ma.ri.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: mata -> Processed Word: ma.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: material -> Processed Word: ma.terial
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ma.terial -> Processed Word: ma.te.rial
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: ma.te.rial -> Processed Word: ma.te.ri.al
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: médico -> Processed Word: mé.di.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: medo -> Processed Word: me.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: meia -> Processed Word: mei.a
+Pattern Applied: (?<=(ai|ei|oi|ui|au|eu|iu|ou))(?=[aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: meio -> Processed Word: mei.o
+Pattern Applied: (?<=(ai|ei|oi|ui|au|eu|iu|ou))(?=[aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: menino -> Processed Word: me.ni.no
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: mesa -> Processed Word: me.sa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: metro -> Processed Word: me.tro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: minuto -> Processed Word: minu.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: minu.to -> Processed Word: mi.nu.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: modo -> Processed Word: mo.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: momento -> Processed Word: momen.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: momen.to -> Processed Word: mo.men.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: montanha -> Processed Word: mon.tanha
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: mon.tanha -> Processed Word: mon.ta.nha
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: morte -> Processed Word: mor.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: mosca -> Processed Word: mos.ca
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: mulher -> Processed Word: mu.lher
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: mundo -> Processed Word: mun.do
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: museu -> Processed Word: mu.seu
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: música -> Processed Word: músi.ca
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: músi.ca -> Processed Word: mú.si.ca
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: natal -> Processed Word: na.tal
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: natureza -> Processed Word: na.tureza
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: na.tureza -> Processed Word: na.tu.re.za
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: neve -> Processed Word: ne.ve
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: noite -> Processed Word: noi.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: nome -> Processed Word: no.me
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: notícia -> Processed Word: no.tí.cia
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: no.tí.cia -> Processed Word: no.tí.ci.a
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: novembro -> Processed Word: novem.bro
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: novem.bro -> Processed Word: no.vem.bro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: número -> Processed Word: nú.me.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: nuvem -> Processed Word: nu.vem
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: obra -> Processed Word: o.bra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: olho -> Processed Word: o.lho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: origem -> Processed Word: ori.gem
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ori.gem -> Processed Word: o.ri.gem
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: osso -> Processed Word: os.so
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: outono -> Processed Word: ou.tono
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ou.tono -> Processed Word: ou.to.no
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: outubro -> Processed Word: ou.tu.bro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ovo -> Processed Word: o.vo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: padre -> Processed Word: pa.dre
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: país -> Processed Word: pa.ís
+Pattern Applied: (?<=a)(?=[íú])->.
+
+Original Word: palavra -> Processed Word: pala.vra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pala.vra -> Processed Word: pa.la.vra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: panela -> Processed Word: pa.ne.la
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: papel -> Processed Word: pa.pel
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: parede -> Processed Word: pare.de
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pare.de -> Processed Word: pa.re.de
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: parte -> Processed Word: par.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: pássaro -> Processed Word: pás.saro
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: pás.saro -> Processed Word: pás.sa.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: passo -> Processed Word: pas.so
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: pata -> Processed Word: pa.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pedra -> Processed Word: pe.dra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: peixe -> Processed Word: pei.xe
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: pele -> Processed Word: pe.le
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: pena -> Processed Word: pe.na
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: pergunta -> Processed Word: per.gun.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: perna -> Processed Word: per.na
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: pessoa -> Processed Word: pes.soa
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: pes.soa -> Processed Word: pes.so.a
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: planeta -> Processed Word: plane.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: plane.ta -> Processed Word: pla.ne.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: planta -> Processed Word: plan.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: polícia -> Processed Word: polí.cia
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: polí.cia -> Processed Word: po.lí.cia
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: po.lí.cia -> Processed Word: po.lí.ci.a
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: ponto -> Processed Word: pon.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: porta -> Processed Word: por.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: povo -> Processed Word: po.vo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: praia -> Processed Word: prai.a
+Pattern Applied: (?<=(ai|ei|oi|ui|au|eu|iu|ou))(?=[aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: prato -> Processed Word: pra.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: preço -> Processed Word: pre.ço
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: presente -> Processed Word: presen.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: presen.te -> Processed Word: pre.sen.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: primavera -> Processed Word: prima.vera
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: prima.vera -> Processed Word: pri.ma.ve.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: primo -> Processed Word: pri.mo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: problema -> Processed Word: pro.blema
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pro.blema -> Processed Word: pro.ble.ma
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: produto -> Processed Word: pro.du.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: professor -> Processed Word: profes.sor
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: profes.sor -> Processed Word: pro.fes.sor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: programa -> Processed Word: pro.grama
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pro.grama -> Processed Word: pro.gra.ma
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: quarto -> Processed Word: quar.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: queijo -> Processed Word: quei.jo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: quinta -> Processed Word: quin.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: rádio -> Processed Word: rá.dio
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: rá.dio -> Processed Word: rá.di.o
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: ramo -> Processed Word: ra.mo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: rapariga -> Processed Word: ra.pari.ga
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ra.pari.ga -> Processed Word: ra.pa.ri.ga
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: rapaz -> Processed Word: ra.paz
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: raposa -> Processed Word: ra.posa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ra.posa -> Processed Word: ra.po.sa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: razão -> Processed Word: ra.zão
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: receita -> Processed Word: re.cei.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: região -> Processed Word: re.gião
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: re.gião -> Processed Word: re.gi.ão
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(ão))->.
+
+Original Word: respeito -> Processed Word: res.peito
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: res.peito -> Processed Word: res.pei.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: resposta -> Processed Word: res.pos.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: restaurante -> Processed Word: res.tauran.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: res.tauran.te -> Processed Word: res.tau.ran.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: revista -> Processed Word: revis.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: revis.ta -> Processed Word: re.vis.ta
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: rio -> Processed Word: ri.o
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: roupa -> Processed Word: rou.pa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: rua -> Processed Word: ru.a
+Pattern Applied: (?<=[bcçdfhjlmnpsrtvxz]u)(?=a)->.
+
+Original Word: sábado -> Processed Word: sá.ba.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sabor -> Processed Word: sa.bor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: saco -> Processed Word: sa.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sala -> Processed Word: sa.la
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: santo -> Processed Word: san.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: sapato -> Processed Word: sa.pa.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sardinha -> Processed Word: sar.dinha
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: sar.dinha -> Processed Word: sar.di.nha
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: saúde -> Processed Word: saú.de
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: saú.de -> Processed Word: sa.ú.de
+Pattern Applied: (?<=a)(?=[íú])->.
+
+Original Word: semana -> Processed Word: se.ma.na
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: semente -> Processed Word: semen.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: semen.te -> Processed Word: se.men.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: senhor -> Processed Word: se.nhor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: serviço -> Processed Word: ser.viço
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ser.viço -> Processed Word: ser.vi.ço
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: setembro -> Processed Word: setem.bro
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: setem.bro -> Processed Word: se.tem.bro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sítio -> Processed Word: sí.tio
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sí.tio -> Processed Word: sí.ti.o
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: soldado -> Processed Word: sol.dado
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: sol.dado -> Processed Word: sol.da.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sonho -> Processed Word: so.nho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: sopa -> Processed Word: so.pa
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sorte -> Processed Word: sor.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: sumo -> Processed Word: su.mo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: tapete -> Processed Word: ta.pe.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: tarde -> Processed Word: tar.de
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: televisão -> Processed Word: tele.visão
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: tele.visão -> Processed Word: te.le.vi.são
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: temperatura -> Processed Word: tem.peratura
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: tem.peratura -> Processed Word: tem.pera.tura
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: tem.pera.tura -> Processed Word: tem.pe.ra.tu.ra
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: tempo -> Processed Word: tem.po
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: terra -> Processed Word: ter.ra
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: texto -> Processed Word: tex.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: tio -> Processed Word: ti.o
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: tipo -> Processed Word: ti.po
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: trabalho -> Processed Word: tra.balho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: tra.balho -> Processed Word: tra.ba.lho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: tronco -> Processed Word: tron.co
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: turma -> Processed Word: tur.ma
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: urso -> Processed Word: ur.so
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: uva -> Processed Word: u.va
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: valor -> Processed Word: va.lor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: venda -> Processed Word: ven.da
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: vendedor -> Processed Word: ven.dedor
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ven.dedor -> Processed Word: ven.de.dor
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: vento -> Processed Word: ven.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: verão -> Processed Word: ve.rão
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: verdade -> Processed Word: ver.dade
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ver.dade -> Processed Word: ver.da.de
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: viagem -> Processed Word: via.gem
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: via.gem -> Processed Word: vi.a.gem
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: vida -> Processed Word: vi.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: vídeo -> Processed Word: ví.deo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ví.deo -> Processed Word: ví.de.o
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: vinho -> Processed Word: vi.nho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: vizinho -> Processed Word: vi.zinho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: vi.zinho -> Processed Word: vi.zi.nho
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: volta -> Processed Word: vol.ta
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: vontade -> Processed Word: von.tade
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: von.tade -> Processed Word: von.ta.de
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: zona -> Processed Word: zo.na
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: cinco -> Processed Word: cin.co
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: doze -> Processed Word: do.ze
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: oito -> Processed Word: oi.to
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: quatro -> Processed Word: qua.tro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: segundo -> Processed Word: segun.do
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: segun.do -> Processed Word: se.gun.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sete -> Processed Word: se.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: terceiro -> Processed Word: ter.ceiro
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ter.ceiro -> Processed Word: ter.cei.ro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: contra -> Processed Word: con.tra
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: desde -> Processed Word: des.de
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: durante -> Processed Word: duran.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: duran.te -> Processed Word: du.ran.te
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: entre -> Processed Word: en.tre
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: sobre -> Processed Word: so.bre
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: algo -> Processed Word: al.go
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: alguém -> Processed Word: al.guém
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: algum -> Processed Word: al.gum
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: aquele -> Processed Word: a.quele
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.quele -> Processed Word: a.que.le
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: aquilo -> Processed Word: a.quilo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.quilo -> Processed Word: a.qui.lo
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: cada -> Processed Word: ca.da
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: certo -> Processed Word: cer.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: esse -> Processed Word: es.se
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: este -> Processed Word: es.te
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: isso -> Processed Word: is.so
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: isto -> Processed Word: is.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: nenhum -> Processed Word: ne.nhum
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: ninguém -> Processed Word: nin.guém
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: onde -> Processed Word: on.de
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: outro -> Processed Word: ou.tro
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: porquê -> Processed Word: por.quê
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: próprio -> Processed Word: pró.prio
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pró.prio -> Processed Word: pró.pri.o
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: qualquer -> Processed Word: qual.quer
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: quanto -> Processed Word: quan.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: tanto -> Processed Word: tan.to
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: todo -> Processed Word: to.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: tudo -> Processed Word: tu.do
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: único -> Processed Word: úni.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: úni.co -> Processed Word: ú.ni.co
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: abrir -> Processed Word: a.brir
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: acabar -> Processed Word: a.ca.bar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: achar -> Processed Word: a.char
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: acontecer -> Processed Word: acon.tecer
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: acon.tecer -> Processed Word: a.con.te.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: acordar -> Processed Word: acor.dar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: acor.dar -> Processed Word: a.cor.dar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: acreditar -> Processed Word: a.cre.di.tar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: adorar -> Processed Word: a.dorar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.dorar -> Processed Word: a.do.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: agradecer -> Processed Word: a.gra.de.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ajudar -> Processed Word: a.ju.dar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: almoçar -> Processed Word: al.moçar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: al.moçar -> Processed Word: al.mo.çar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: amar -> Processed Word: a.mar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: andar -> Processed Word: an.dar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: apanhar -> Processed Word: a.panhar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.panhar -> Processed Word: a.pa.nhar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: aparecer -> Processed Word: a.pare.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.pare.cer -> Processed Word: a.pa.re.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: aprender -> Processed Word: apren.der
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: apren.der -> Processed Word: a.pren.der
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: arranjar -> Processed Word: ar.ran.jar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: arrumar -> Processed Word: ar.rumar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ar.rumar -> Processed Word: ar.ru.mar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: atirar -> Processed Word: a.tirar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: a.tirar -> Processed Word: a.ti.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: bater -> Processed Word: ba.ter
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: beber -> Processed Word: be.ber
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: brincar -> Processed Word: brin.car
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cair -> Processed Word: ca.ir
+Pattern Applied: (?<=a)(?=i[r]$)->.
+
+Original Word: cantar -> Processed Word: can.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: casar -> Processed Word: ca.sar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: chamar -> Processed Word: cha.mar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: chegar -> Processed Word: che.gar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: chorar -> Processed Word: cho.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: chover -> Processed Word: cho.ver
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: colocar -> Processed Word: colo.car
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: colo.car -> Processed Word: co.lo.car
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: começar -> Processed Word: come.çar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: come.çar -> Processed Word: co.me.çar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: comer -> Processed Word: co.mer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: comprar -> Processed Word: com.prar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: conhecer -> Processed Word: conhe.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: conhe.cer -> Processed Word: co.nhe.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: contar -> Processed Word: con.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: continuar -> Processed Word: con.tinuar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: con.tinuar -> Processed Word: con.ti.nuar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: con.ti.nuar -> Processed Word: con.ti.nu.ar
+Pattern Applied: (?<=[bcçdfhjlmnpsrtvxz]u)(?=a)->.
+
+Original Word: conversar -> Processed Word: con.ver.sar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: correr -> Processed Word: cor.rer
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cortar -> Processed Word: cor.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: costumar -> Processed Word: cos.tumar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cos.tumar -> Processed Word: cos.tu.mar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: cozinhar -> Processed Word: co.zinhar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: co.zinhar -> Processed Word: co.zi.nhar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: crescer -> Processed Word: cres.cer
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: cuidar -> Processed Word: cui.dar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: custar -> Processed Word: cus.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: dançar -> Processed Word: dan.çar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: decidir -> Processed Word: de.ci.dir
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: deitar -> Processed Word: dei.tar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: deixar -> Processed Word: dei.xar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: demorar -> Processed Word: de.mo.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: descer -> Processed Word: des.cer
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: desculpar -> Processed Word: des.cul.par
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: dever -> Processed Word: de.ver
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: dizer -> Processed Word: di.zer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: dormir -> Processed Word: dor.mir
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: encher -> Processed Word: en.cher
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: encontrar -> Processed Word: en.con.trar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: enganar -> Processed Word: en.ganar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: en.ganar -> Processed Word: en.ga.nar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: entrar -> Processed Word: en.trar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: entregar -> Processed Word: en.tregar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: en.tregar -> Processed Word: en.tre.gar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: enviar -> Processed Word: en.viar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: en.viar -> Processed Word: en.vi.ar
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: escolher -> Processed Word: es.colher
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.colher -> Processed Word: es.co.lher
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: esconder -> Processed Word: es.con.der
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: esperar -> Processed Word: es.perar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.perar -> Processed Word: es.pe.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: esquecer -> Processed Word: es.quecer
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.quecer -> Processed Word: es.que.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: estar -> Processed Word: es.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: estudar -> Processed Word: es.tudar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: es.tudar -> Processed Word: es.tu.dar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: falar -> Processed Word: fa.lar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: faltar -> Processed Word: fal.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: fazer -> Processed Word: fa.zer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: fechar -> Processed Word: fe.char
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ferver -> Processed Word: fer.ver
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: ficar -> Processed Word: fi.car
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: fugir -> Processed Word: fu.gir
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ganhar -> Processed Word: ga.nhar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: gastar -> Processed Word: gas.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: gostar -> Processed Word: gos.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: gritar -> Processed Word: gri.tar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: guardar -> Processed Word: guar.dar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: haver -> Processed Word: ha.ver
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: inventar -> Processed Word: in.ven.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: jantar -> Processed Word: jan.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: jogar -> Processed Word: jo.gar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: juntar -> Processed Word: jun.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: lavar -> Processed Word: la.var
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: lembrar -> Processed Word: lem.brar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: levantar -> Processed Word: levan.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: levan.tar -> Processed Word: le.van.tar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: levar -> Processed Word: le.var
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: ligar -> Processed Word: li.gar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: limpar -> Processed Word: lim.par
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: lutar -> Processed Word: lu.tar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: mandar -> Processed Word: man.dar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: manter -> Processed Word: man.ter
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: meter -> Processed Word: me.ter
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: mexer -> Processed Word: me.xer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: morar -> Processed Word: mo.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: morrer -> Processed Word: mor.rer
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: mostrar -> Processed Word: mos.trar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: mudar -> Processed Word: mu.dar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: nadar -> Processed Word: na.dar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: nascer -> Processed Word: nas.cer
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: oferecer -> Processed Word: o.fere.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: o.fere.cer -> Processed Word: o.fe.re.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: olhar -> Processed Word: o.lhar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: ouvir -> Processed Word: ou.vir
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pagar -> Processed Word: pa.gar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: parar -> Processed Word: pa.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: parecer -> Processed Word: pare.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pare.cer -> Processed Word: pa.re.cer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: partir -> Processed Word: par.tir
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: passar -> Processed Word: pas.sar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: passear -> Processed Word: pas.sear
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: pas.sear -> Processed Word: pas.se.ar
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: pedir -> Processed Word: pe.dir
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pegar -> Processed Word: pe.gar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pensar -> Processed Word: pen.sar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: perceber -> Processed Word: per.ceber
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: per.ceber -> Processed Word: per.ce.ber
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: perder -> Processed Word: per.der
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: perguntar -> Processed Word: per.gun.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: poder -> Processed Word: po.der
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: precisar -> Processed Word: pre.cisar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pre.cisar -> Processed Word: pre.ci.sar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: preparar -> Processed Word: pre.parar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pre.parar -> Processed Word: pre.pa.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: procurar -> Processed Word: pro.curar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: pro.curar -> Processed Word: pro.cu.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: puxar -> Processed Word: pu.xar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: querer -> Processed Word: que.rer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: receber -> Processed Word: re.ce.ber
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: repetir -> Processed Word: re.pe.tir
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: respirar -> Processed Word: res.pirar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: res.pirar -> Processed Word: res.pi.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: responder -> Processed Word: res.pon.der
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: saber -> Processed Word: sa.ber
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sair -> Processed Word: sa.ir
+Pattern Applied: (?<=a)(?=i[r]$)->.
+
+Original Word: saltar -> Processed Word: sal.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: secar -> Processed Word: se.car
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: seguir -> Processed Word: se.guir
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sentar -> Processed Word: sen.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: sentir -> Processed Word: sen.tir
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: servir -> Processed Word: ser.vir
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: sobrar -> Processed Word: so.brar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sofrer -> Processed Word: so.frer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: sonhar -> Processed Word: so.nhar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: sorrir -> Processed Word: sor.rir
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: subir -> Processed Word: su.bir
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: tentar -> Processed Word: ten.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: tirar -> Processed Word: ti.rar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: tocar -> Processed Word: to.car
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: tomar -> Processed Word: to.mar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: tornar -> Processed Word: tor.nar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: trabalhar -> Processed Word: tra.balhar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: tra.balhar -> Processed Word: tra.ba.lhar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))->.
+
+Original Word: tratar -> Processed Word: tra.tar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: trazer -> Processed Word: tra.zer
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: usar -> Processed Word: u.sar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: vender -> Processed Word: ven.der
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: vestir -> Processed Word: ves.tir
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
+Original Word: visitar -> Processed Word: visi.tar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: visi.tar -> Processed Word: vi.si.tar
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])->.
+
+Original Word: viver -> Processed Word: vi.ver
+Pattern Applied: (?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])->.
+
+Original Word: voar -> Processed Word: vo.ar
+Pattern Applied: (?<=[ieo])(?=[aeo])->.
+
+Original Word: voltar -> Processed Word: vol.tar
+Pattern Applied: (?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])->.
+
