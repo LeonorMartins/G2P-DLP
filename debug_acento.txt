@@ -230,7 +230,7 @@ Original Word: bastante -> Processed Word: basˈtante
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: bem -> Processed Word: ˈbem
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$)->ˈ
+Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(b|c|ç|d|f|gu|g|ch|j|m|n|p|qu|r|s|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$)->ˈ
 
 Original Word: cá -> Processed Word: ˈcá
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
@@ -302,7 +302,7 @@ Original Word: não -> Processed Word: ˈnão
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
 
 Original Word: nem -> Processed Word: ˈnem
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$)->ˈ
+Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(b|c|ç|d|f|gu|g|ch|j|m|n|p|qu|r|s|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$)->ˈ
 
 Original Word: normalmente -> Processed Word: normalˈmente
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -335,7 +335,7 @@ Original Word: sempre -> Processed Word: ˈsempre
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: sim -> Processed Word: ˈsim
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^[hlrs][aeiou][m]$)->ˈ
+Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^[hlrs][aiou][m]$)->ˈ
 
 Original Word: só -> Processed Word: ˈsó
 Pattern Applied: (?<!s)(?=s[áàâãéèêíìîóòôúùû])->ˈ
@@ -368,7 +368,7 @@ Original Word: quando -> Processed Word: ˈquando
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: sem -> Processed Word: ˈsem
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^[hlrs][aeiou][m]$)->ˈ
+Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(b|c|ç|d|f|gu|g|ch|j|m|n|p|qu|r|s|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$)->ˈ
 
 Original Word: ah -> Processed Word: ˈah
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(ah|oh)$)->ˈ
@@ -1424,7 +1424,7 @@ Original Word: soldado -> Processed Word: solˈdado
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: som -> Processed Word: ˈsom
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^[hlrs][aeiou][m]$)->ˈ
+Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^[hlrs][aiou][m]$)->ˈ
 
 Original Word: sonho -> Processed Word: ˈsonho
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -1576,9 +1576,6 @@ Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r
 Original Word: entre -> Processed Word: ˈentre
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
-Original Word: sem -> Processed Word: ˈsem
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^[hlrs][aeiou][m]$)->ˈ
-
 Original Word: sobre -> Processed Word: ˈsobre
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
@@ -1646,7 +1643,7 @@ Original Word: quanto -> Processed Word: ˈquanto
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: quem -> Processed Word: ˈquem
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$)->ˈ
+Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(b|c|ç|d|f|gu|g|ch|j|m|n|p|qu|r|s|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$)->ˈ
 
 Original Word: tal -> Processed Word: ˈtal
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
