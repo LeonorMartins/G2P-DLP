@@ -1,0 +1,13 @@
+ID,Fronteira,Contexto,Find,Replace,Exemplo
+S1,C.C,"Seleciona a fronteira silábica entre C em coda (<l>, <r>, <s>, e <x>) e <m> e C em ataque","(?<=[lmnrsx])(?=[bcçdfgjlmnpqrstvxz])",.,"Origin Word: importante -> Processed Word: im.por.tan.te"
+S2,"V.C / G.C","Seleciona a fronteira silábica entre V e C ou G e C","(?<=[aáàâãeéèêiìíîoóòôõuúùû])(?![lmnrsxz])(?=[bcçdfgjpqrtv])",.,"Origin Word: tratar -> Processed Word: tra.tar"
+S3,"V.CV / G.CV","Seleciona a fronteira silábica entre V ou G e a sequência CV, com <l>, <m>, <n>, <r>, <s>, <x> e <z> em ataque intervocálico","(?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=[lmnrsxz][aáàâãeéèêiìíîoóòôõuúùû])",.,"Origin Word: galo -> Processed Word: ga.lo"
+S4,V.CC,"Seleciona a fronteira silábica entre V e CC","(?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(lh|nh))",.,"Origin Word: sonhar -> Processed Word: so.nhar"
+S5,VG.V,"Seleciona a fronteira silábica entre ditongo (V+G) e V","(?<=(ai|ei|oi|ui|au|eu|iu|ou))(?=[aáàâãeéèêiìíîoóòôõuúùû])",.,"Origin Word: meia -> Processed Word: mei.a"
+S6,V.ṼG,"Seleciona a fronteira silábica entre V e ditongo nasal (Ṽ+G)","(?<=[aáàâãeéèêiìíîoóòôõuúùû])(?=(ão))",.,"Origin Word: leão -> Processed Word: le.ão"
+S7,V.V,"Seleciona a fronteira silábica entre V e V (sequência heterossilábica: <ia>, <ie>, <io>, <ea>, <eo>, <oa>, <oe>)","(?<=[ieo])(?=[aeo])",.,"Origin Word: voar -> Processed Word: vo.ar"
+S8,CV.V,"Seleciona a fronteira silábica entre a sequência CV e sílaba iniciada por vogal V (sequências heterossilábicas [uɐ] e [ua] <ua>)","(?<=[bcçdfhjlmnpsrtvxz]u)(?=a)",.,"Origin Word: rua -> Processed Word: ru.a"
+S9,"V.VC / V.Ṽ","Seleciona a fronteira silábica entre V e sílaba iniciada por vogal V seguida de <r> final ou <n> (sequência <a.ir> e <a.in>, a não confundir com o ditongo [aj])","(?<=a)(?=i[r]$)",.,"Origin Word: sair -> Processed Word: sa.ir"
+S10,,,"(?<=a)(?=in)",.,"Origin Word: ain.da -> Processed Word: a.in.da"
+S11,V.V,"Seleciona a fronteira silábica entre sequência vocálica <a.í> e <a.ú>","(?<=a)(?=[íú])",.,"Origin Word: país -> Processed Word: pa.ís"
+S12,,"Seleciona e substitui os hífens dos compostos por um espaço em branco","-", ,"Origin Word: fim-de-se.ma.na -> Processed Word: fim de se.ma.na"
