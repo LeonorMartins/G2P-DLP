@@ -1546,13 +1546,13 @@ Pattern Applied: (?<=$)->]
 Origin Word: ˈmuito -> Processed Word: ˈmuitu
 Pattern Applied: (?<!ã)o(?!óõô)$->u
 
-Origin Word: ˈmuitu -> Processed Word: ˈmujtu
-Pattern Applied: (?<![gq])ui->uj
+Origin Word: ˈmuitu -> Processed Word: ˈmũj̃tu
+Pattern Applied: muitu->mũj̃tu
 
-Origin Word: ˈmujtu -> Processed Word: [ˈmujtu
+Origin Word: ˈmũj̃tu -> Processed Word: [ˈmũj̃tu
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ˈmujtu -> Processed Word: [ˈmujtu]
+Origin Word: [ˈmũj̃tu -> Processed Word: [ˈmũj̃tu]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈnada -> Processed Word: ˈnadɐ
