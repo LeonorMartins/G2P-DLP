@@ -10,4 +10,3 @@ S8,CV.V,"Seleciona a fronteira silábica entre a sequência CV e sílaba iniciad
 S9,"V.VC / V.Ṽ","Seleciona a fronteira silábica entre V e sílaba iniciada por vogal V seguida de <r> final (sequência <a.ir>, a não confundir com o ditongo [aj])","(?<=a)(?=i[r]$)",.,"Origin Word: sair -> Processed Word: sa.ir"
 S10,V.VC / V.Ṽ,"Seleciona a fronteira silábica entre V e sílaba iniciada por vogal Ṽ (sequência <a.in>, a não confundir com o ditongo [aj])","(?<=a)(?=in)",.,"Origin Word: ain.da -> Processed Word: a.in.da"
 S11,V.V,"Seleciona a fronteira silábica entre sequência vocálica [ɐi] (<aí>) e [ɐu] (<aú>)","(?<=a)(?=[íú])",.,"Origin Word: país -> Processed Word: pa.ís"
-S12,,"Seleciona e substitui os hífens dos compostos por um espaço em branco","-", ,"Origin Word: fim-de-se.ma.na -> Processed Word: fim de se.ma.na"
