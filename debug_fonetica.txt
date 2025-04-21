@@ -922,13 +922,10 @@ Pattern Applied: (?<!ã)o(?!óõô)$->u
 Origin Word: ˈricu -> Processed Word: ˈriku
 Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ɛ|i|ĩ|ɨ|j)->k
 
-Origin Word: ˈriku -> Processed Word: ʀiku
-Pattern Applied: ^ˈr->ʀ
-
-Origin Word: ʀiku -> Processed Word: [ʀiku
+Origin Word: ˈriku -> Processed Word: [ˈriku
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ʀiku -> Processed Word: [ʀiku]
+Origin Word: [ˈriku -> Processed Word: [ˈriku]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈseco -> Processed Word: ˈsecu
@@ -6973,13 +6970,10 @@ Pattern Applied: á->a
 Origin Word: ˈradiu -> Processed Word: ˈraðiu
 Pattern Applied: (?<=[aɐeɛɨioɔujw])d(?=[aɐeɛɨijoɔuwɐ̃ẽĩõũj̃w̃])->ð
 
-Origin Word: ˈraðiu -> Processed Word: ʀaðiu
-Pattern Applied: ^ˈr->ʀ
-
-Origin Word: ʀaðiu -> Processed Word: [ʀaðiu
+Origin Word: ˈraðiu -> Processed Word: [ˈraðiu
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ʀaðiu -> Processed Word: [ʀaðiu]
+Origin Word: [ˈraðiu -> Processed Word: [ˈraðiu]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈramo -> Processed Word: ˈramu
@@ -6988,13 +6982,10 @@ Pattern Applied: (?<!ã)o(?!óõô)$->u
 Origin Word: ˈramu -> Processed Word: ˈrɐmu
 Pattern Applied: a(?=(m|n|nh))->ɐ
 
-Origin Word: ˈrɐmu -> Processed Word: ʀɐmu
-Pattern Applied: ^ˈr->ʀ
-
-Origin Word: ʀɐmu -> Processed Word: [ʀɐmu
+Origin Word: ˈrɐmu -> Processed Word: [ˈrɐmu
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ʀɐmu -> Processed Word: [ʀɐmu]
+Origin Word: [ˈrɐmu -> Processed Word: [ˈrɐmu]
 Pattern Applied: (?<=$)->]
 
 Origin Word: rapaˈriga -> Processed Word: rɐpɐˈriga
@@ -7111,13 +7102,10 @@ Pattern Applied: (?<=$)->]
 Origin Word: ˈrei -> Processed Word: ˈrɐj
 Pattern Applied: ei->ɐj
 
-Origin Word: ˈrɐj -> Processed Word: ʀɐj
-Pattern Applied: ^ˈr->ʀ
-
-Origin Word: ʀɐj -> Processed Word: [ʀɐj
+Origin Word: ˈrɐj -> Processed Word: [ˈrɐj
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ʀɐj -> Processed Word: [ʀɐj]
+Origin Word: [ˈrɐj -> Processed Word: [ˈrɐj]
 Pattern Applied: (?<=$)->]
 
 Origin Word: resˈpeito -> Processed Word: rɨsˈpeito
@@ -7213,13 +7201,10 @@ Pattern Applied: (?<=$)->]
 Origin Word: ˈrio -> Processed Word: ˈriu
 Pattern Applied: (?<!ã)o(?!óõô)$->u
 
-Origin Word: ˈriu -> Processed Word: ʀiu
-Pattern Applied: ^ˈr->ʀ
-
-Origin Word: ʀiu -> Processed Word: [ʀiu
+Origin Word: ˈriu -> Processed Word: [ˈriu
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ʀiu -> Processed Word: [ʀiu]
+Origin Word: [ˈriu -> Processed Word: [ˈriu]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈroupa -> Processed Word: ˈroupɐ
@@ -7228,25 +7213,19 @@ Pattern Applied: a(?!áãâ)$->ɐ
 Origin Word: ˈroupɐ -> Processed Word: ˈropɐ
 Pattern Applied: ou->o
 
-Origin Word: ˈropɐ -> Processed Word: ʀopɐ
-Pattern Applied: ^ˈr->ʀ
-
-Origin Word: ʀopɐ -> Processed Word: [ʀopɐ
+Origin Word: ˈropɐ -> Processed Word: [ˈropɐ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ʀopɐ -> Processed Word: [ʀopɐ]
+Origin Word: [ˈropɐ -> Processed Word: [ˈropɐ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈrua -> Processed Word: ˈruɐ
 Pattern Applied: a(?!áãâ)$->ɐ
 
-Origin Word: ˈruɐ -> Processed Word: ʀuɐ
-Pattern Applied: ^ˈr->ʀ
-
-Origin Word: ʀuɐ -> Processed Word: [ʀuɐ
+Origin Word: ˈruɐ -> Processed Word: [ˈruɐ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ʀuɐ -> Processed Word: [ʀuɐ]
+Origin Word: [ˈruɐ -> Processed Word: [ˈruɐ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈsábado -> Processed Word: ˈsábadu
@@ -10858,16 +10837,13 @@ Pattern Applied: (?<=^)->[
 Origin Word: [ʀɨʃpõˈd/E/ɾ -> Processed Word: [ʀɨʃpõˈd/E/ɾ]
 Pattern Applied: (?<=$)->]
 
-Origin Word: ˈrir -> Processed Word: ʀir
-Pattern Applied: ^ˈr->ʀ
-
-Origin Word: ʀir -> Processed Word: ʀiɾ
+Origin Word: ˈrir -> Processed Word: ˈriɾ
 Pattern Applied: r$->ɾ
 
-Origin Word: ʀiɾ -> Processed Word: [ʀiɾ
+Origin Word: ˈriɾ -> Processed Word: [ˈriɾ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ʀiɾ -> Processed Word: [ʀiɾ]
+Origin Word: [ˈriɾ -> Processed Word: [ˈriɾ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: saˈber -> Processed Word: sɐˈber
