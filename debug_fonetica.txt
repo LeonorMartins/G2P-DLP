@@ -1942,21 +1942,6 @@ Pattern Applied: (?<=^)->[
 Origin Word: [paɾɐ -> Processed Word: [paɾɐ]
 Pattern Applied: (?<=$)->]
 
-Origin Word: ˈpois -> Processed Word: ˈpojs
-Pattern Applied: oi->oj
-
-Origin Word: ˈpojs -> Processed Word: ˈpojʃ
-Pattern Applied: s$->ʃ
-
-Origin Word: ˈpojʃ -> Processed Word: ˈp/O/jʃ
-Pattern Applied: (?<=ˈ(b|β|k|d|ð|f|g|ɣ|ʃ||ɲ|ʎ|ʒ|l|m|n|p|ɾ|ʀ|s|t|v|z|pɾ|bɾ|tɾ|dɾ|kɾ|gɾ|fɾ|vɾ|pl|bl|kl|gl|fl))(?!õ)o->/O/
-
-Origin Word: ˈp/O/jʃ -> Processed Word: [ˈp/O/jʃ
-Pattern Applied: (?<=^)->[
-
-Origin Word: [ˈp/O/jʃ -> Processed Word: [ˈp/O/jʃ]
-Pattern Applied: (?<=$)->]
-
 Origin Word: por -> Processed Word: poɾ
 Pattern Applied: r$->ɾ
 
