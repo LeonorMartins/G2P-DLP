@@ -1984,13 +1984,13 @@ Pattern Applied: (?<=^)->[
 Origin Word: [sɨ -> Processed Word: [sɨ]
 Pattern Applied: (?<=$)->]
 
-Origin Word: ˈsem -> Processed Word: ˈsɐ̃j̃
+Origin Word: sem -> Processed Word: sɐ̃j̃
 Pattern Applied: (ém|em)$->ɐ̃j̃
 
-Origin Word: ˈsɐ̃j̃ -> Processed Word: [ˈsɐ̃j̃
+Origin Word: sɐ̃j̃ -> Processed Word: [sɐ̃j̃
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ˈsɐ̃j̃ -> Processed Word: [ˈsɐ̃j̃]
+Origin Word: [sɐ̃j̃ -> Processed Word: [sɐ̃j̃]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈah -> Processed Word: ˈa
@@ -2851,25 +2851,25 @@ Pattern Applied: (?<=^)->[
 Origin Word: [biˈʎ/E/tɨ -> Processed Word: [biˈʎ/E/tɨ]
 Pattern Applied: (?<=$)->]
 
-Origin Word: boa-ˈtarde -> Processed Word: boaˈtarde
-Pattern Applied: -->
+Origin Word: boa-ˈtarde -> Processed Word: boa ˈtarde
+Pattern Applied: --> 
 
-Origin Word: boaˈtarde -> Processed Word: buaˈtarde
+Origin Word: boa ˈtarde -> Processed Word: bua ˈtarde
 Pattern Applied: (?<!^)o(?![mnliu][ˈ bcçdfhgjlmnpqrstvxz])(?=.*ˈ)->u
 
-Origin Word: buaˈtarde -> Processed Word: buɐˈtarde
+Origin Word: bua ˈtarde -> Processed Word: buɐ ˈtarde
 Pattern Applied: (?<!^)a(?![mnliou][ˈ bcçdfhgjlmnpqrstvxz])(?=.*ˈ)->ɐ
 
-Origin Word: buɐˈtarde -> Processed Word: buɐˈtardɨ
+Origin Word: buɐ ˈtarde -> Processed Word: buɐ ˈtardɨ
 Pattern Applied: (?<!ã)e(?!éê)$->ɨ
 
-Origin Word: buɐˈtardɨ -> Processed Word: buɐˈtaɾdɨ
+Origin Word: buɐ ˈtardɨ -> Processed Word: buɐ ˈtaɾdɨ
 Pattern Applied: (?<=[aɐeɛɨijoɔuw])r(?=[ˈbdfgʃɲʎʒklmnpstvz])->ɾ
 
-Origin Word: buɐˈtaɾdɨ -> Processed Word: [buɐˈtaɾdɨ
+Origin Word: buɐ ˈtaɾdɨ -> Processed Word: [buɐ ˈtaɾdɨ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [buɐˈtaɾdɨ -> Processed Word: [buɐˈtaɾdɨ]
+Origin Word: [buɐ ˈtaɾdɨ -> Processed Word: [buɐ ˈtaɾdɨ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈboca -> Processed Word: ˈbocɐ
@@ -2920,19 +2920,19 @@ Pattern Applied: (?<=^)->[
 Origin Word: [ˈb/O/lu -> Processed Word: [ˈb/O/lu]
 Pattern Applied: (?<=$)->]
 
-Origin Word: bom-ˈdia -> Processed Word: bomˈdia
-Pattern Applied: -->
+Origin Word: bom-ˈdia -> Processed Word: bom ˈdia
+Pattern Applied: --> 
 
-Origin Word: bomˈdia -> Processed Word: bomˈdiɐ
+Origin Word: bom ˈdia -> Processed Word: bom ˈdiɐ
 Pattern Applied: a(?!áãâ)$->ɐ
 
-Origin Word: bomˈdiɐ -> Processed Word: bõˈdiɐ
+Origin Word: bom ˈdiɐ -> Processed Word: bõ ˈdiɐ
 Pattern Applied: (om|on|ôn)(?=[ˈ bcçdgjlmnpqrstvxz])->õ
 
-Origin Word: bõˈdiɐ -> Processed Word: [bõˈdiɐ
+Origin Word: bõ ˈdiɐ -> Processed Word: [bõ ˈdiɐ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [bõˈdiɐ -> Processed Word: [bõˈdiɐ]
+Origin Word: [bõ ˈdiɐ -> Processed Word: [bõ ˈdiɐ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: boˈneca -> Processed Word: buˈneca
@@ -8159,15 +8159,6 @@ Origin Word: ˈẽtɾɨ -> Processed Word: [ˈẽtɾɨ
 Pattern Applied: (?<=^)->[
 
 Origin Word: [ˈẽtɾɨ -> Processed Word: [ˈẽtɾɨ]
-Pattern Applied: (?<=$)->]
-
-Origin Word: ˈsem -> Processed Word: ˈsɐ̃j̃
-Pattern Applied: (ém|em)$->ɐ̃j̃
-
-Origin Word: ˈsɐ̃j̃ -> Processed Word: [ˈsɐ̃j̃
-Pattern Applied: (?<=^)->[
-
-Origin Word: [ˈsɐ̃j̃ -> Processed Word: [ˈsɐ̃j̃]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈsobre -> Processed Word: ˈsobrɨ
