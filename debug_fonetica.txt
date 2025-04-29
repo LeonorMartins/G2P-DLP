@@ -1015,16 +1015,16 @@ Pattern Applied: (?<=$)->]
 Origin Word: ˈvelho -> Processed Word: ˈvelhu
 Pattern Applied: (?<!ã)o(?!óõô)$->u
 
-Origin Word: ˈvelhu -> Processed Word: ˈveʎu
+Origin Word: ˈvelhu -> Processed Word: ˈvɐlhu
+Pattern Applied: e(?=(lh|ch|nh|ʒ))->ɐ
+
+Origin Word: ˈvɐlhu -> Processed Word: ˈvɐʎu
 Pattern Applied: lh->ʎ
 
-Origin Word: ˈveʎu -> Processed Word: ˈv/E/ʎu
-Pattern Applied: (?<=ˈ(b|β|k|d|ð|f|g|ɣ|ʃ||ɲ|ʎ|ʒ|l|m|n|p|ɾ|ʀ|s|t|v|z|pɾ|bɾ|tɾ|dɾ|kɾ|gɾ|fɾ|vɾ|pl|bl|kl|gl|fl))e(?!̃)(?!w)->/E/
-
-Origin Word: ˈv/E/ʎu -> Processed Word: [ˈv/E/ʎu
+Origin Word: ˈvɐʎu -> Processed Word: [ˈvɐʎu
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ˈv/E/ʎu -> Processed Word: [ˈv/E/ʎu]
+Origin Word: [ˈvɐʎu -> Processed Word: [ˈvɐʎu]
 Pattern Applied: (?<=$)->]
 
 Origin Word: verˈmelho -> Processed Word: vɨrˈmelho
@@ -1033,19 +1033,19 @@ Pattern Applied: (?<!^)e(?![mnliu][ˈ bcçdfhgjlmnpqrstvxz])(?=.*ˈ)->ɨ
 Origin Word: vɨrˈmelho -> Processed Word: vɨrˈmelhu
 Pattern Applied: (?<!ã)o(?!óõô)$->u
 
-Origin Word: vɨrˈmelhu -> Processed Word: vɨrˈmeʎu
+Origin Word: vɨrˈmelhu -> Processed Word: vɨrˈmɐlhu
+Pattern Applied: e(?=(lh|ch|nh|ʒ))->ɐ
+
+Origin Word: vɨrˈmɐlhu -> Processed Word: vɨrˈmɐʎu
 Pattern Applied: lh->ʎ
 
-Origin Word: vɨrˈmeʎu -> Processed Word: vɨɾˈmeʎu
+Origin Word: vɨrˈmɐʎu -> Processed Word: vɨɾˈmɐʎu
 Pattern Applied: (?<=[aɐeêɛɨijoôɔuw])r(?=[ˈbdfgʃɲʎʒklmnpstvz])->ɾ
 
-Origin Word: vɨɾˈmeʎu -> Processed Word: vɨɾˈm/E/ʎu
-Pattern Applied: (?<=ˈ(b|β|k|d|ð|f|g|ɣ|ʃ||ɲ|ʎ|ʒ|l|m|n|p|ɾ|ʀ|s|t|v|z|pɾ|bɾ|tɾ|dɾ|kɾ|gɾ|fɾ|vɾ|pl|bl|kl|gl|fl))e(?!̃)(?!w)->/E/
-
-Origin Word: vɨɾˈm/E/ʎu -> Processed Word: [vɨɾˈm/E/ʎu
+Origin Word: vɨɾˈmɐʎu -> Processed Word: [vɨɾˈmɐʎu
 Pattern Applied: (?<=^)->[
 
-Origin Word: [vɨɾˈm/E/ʎu -> Processed Word: [vɨɾˈm/E/ʎu]
+Origin Word: [vɨɾˈmɐʎu -> Processed Word: [vɨɾˈmɐʎu]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈvivo -> Processed Word: ˈvivu
@@ -3697,19 +3697,19 @@ Pattern Applied: (?<!^)o(?![mnliu][ˈ bcçdfhgjlmnpqrstvxz])(?=.*ˈ)->u
 Origin Word: cuˈelho -> Processed Word: cuˈelhu
 Pattern Applied: (?<!ã)o(?!óõô)$->u
 
-Origin Word: cuˈelhu -> Processed Word: cuˈeʎu
+Origin Word: cuˈelhu -> Processed Word: cuˈɐlhu
+Pattern Applied: e(?=(lh|ch|nh|ʒ))->ɐ
+
+Origin Word: cuˈɐlhu -> Processed Word: cuˈɐʎu
 Pattern Applied: lh->ʎ
 
-Origin Word: cuˈeʎu -> Processed Word: kuˈeʎu
+Origin Word: cuˈɐʎu -> Processed Word: kuˈɐʎu
 Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ê|ɛ|i|ĩ|ɨ|j)->k
 
-Origin Word: kuˈeʎu -> Processed Word: kuˈ/E/ʎu
-Pattern Applied: (?<=ˈ(b|β|k|d|ð|f|g|ɣ|ʃ||ɲ|ʎ|ʒ|l|m|n|p|ɾ|ʀ|s|t|v|z|pɾ|bɾ|tɾ|dɾ|kɾ|gɾ|fɾ|vɾ|pl|bl|kl|gl|fl))e(?!̃)(?!w)->/E/
-
-Origin Word: kuˈ/E/ʎu -> Processed Word: [kuˈ/E/ʎu
+Origin Word: kuˈɐʎu -> Processed Word: [kuˈɐʎu
 Pattern Applied: (?<=^)->[
 
-Origin Word: [kuˈ/E/ʎu -> Processed Word: [kuˈ/E/ʎu]
+Origin Word: [kuˈɐʎu -> Processed Word: [kuˈɐʎu]
 Pattern Applied: (?<=$)->]
 
 Origin Word: ˈcoisa -> Processed Word: ˈcoisɐ
