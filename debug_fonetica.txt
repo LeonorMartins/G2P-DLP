@@ -2057,7 +2057,7 @@ Origin Word: aˈbɔburɐ -> Processed Word: ɐˈbɔburɐ
 Pattern Applied: (?<!ˈ)^a(?![jwɫ])->ɐ
 
 Origin Word: ɐˈbɔburɐ -> Processed Word: ɐˈbɔβurɐ
-Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))b(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃))->β
+Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))b(?=[aɐeɛɨijoɔuwɐ̃ẽĩõũj̃w̃])->β
 
 Origin Word: ɐˈbɔβurɐ -> Processed Word: ɐˈβɔβurɐ
 Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|o|ɔ|/O/|u|j|w)ˈ)b(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃))->β
@@ -3677,7 +3677,7 @@ Origin Word: ˈclube -> Processed Word: ˈclubɨ
 Pattern Applied: (?<!ã)e$->ɨ
 
 Origin Word: ˈclubɨ -> Processed Word: ˈcluβɨ
-Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))b(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃))->β
+Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))b(?=[aɐeɛɨijoɔuwɐ̃ẽĩõũj̃w̃])->β
 
 Origin Word: ˈcluβɨ -> Processed Word: ˈkluβɨ
 Pattern Applied: c(?!(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ))->k
@@ -7178,7 +7178,7 @@ Origin Word: ˈsábɐdu -> Processed Word: ˈsabɐdu
 Pattern Applied: á->a
 
 Origin Word: ˈsabɐdu -> Processed Word: ˈsaβɐdu
-Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))b(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃))->β
+Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))b(?=[aɐeɛɨijoɔuwɐ̃ẽĩõũj̃w̃])->β
 
 Origin Word: ˈsaβɐdu -> Processed Word: ˈsaβɐðu
 Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))d(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃))->ð
@@ -11039,7 +11039,7 @@ Origin Word: trɐbɐˈlhar -> Processed Word: trɐbɐˈʎar
 Pattern Applied: lh->ʎ
 
 Origin Word: trɐbɐˈʎar -> Processed Word: trɐβɐˈʎar
-Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))b(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃))->β
+Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))b(?=[aɐeɛɨijoɔuwɐ̃ẽĩõũj̃w̃])->β
 
 Origin Word: trɐβɐˈʎar -> Processed Word: trɐβɐˈʎaɾ
 Pattern Applied: r$->ɾ
