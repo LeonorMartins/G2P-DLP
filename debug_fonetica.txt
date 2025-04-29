@@ -347,7 +347,7 @@ Origin Word: eˈnorme -> Processed Word: eˈnormɨ
 Pattern Applied: (?<!ã)e(?!éê)$->ɨ
 
 Origin Word: eˈnormɨ -> Processed Word: iˈnormɨ
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
+Pattern Applied: (?<!ˈ)^e(?![juɫs̃])->i
 
 Origin Word: iˈnormɨ -> Processed Word: iˈnoɾmɨ
 Pattern Applied: (?<=[aɐeêɛɨijoôɔuw])r(?=[ˈbdfgʃɲʎʒklmnpstvz])->ɾ
@@ -1309,19 +1309,16 @@ Pattern Applied: a(?!áãâ)$->ɐ
 Origin Word: emˈborɐ -> Processed Word: ẽˈborɐ
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽˈborɐ -> Processed Word: ĩˈborɐ
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩˈborɐ -> Processed Word: ĩˈboɾɐ
+Origin Word: ẽˈborɐ -> Processed Word: ẽˈboɾɐ
 Pattern Applied: (?<=[aɐeêɛɨijoôɔuw])r(?=[aɐeêɛɨijoôɔuwɐ̃ẽĩj̃w̃])->ɾ
 
-Origin Word: ĩˈboɾɐ -> Processed Word: ĩˈb/O/ɾɐ
+Origin Word: ẽˈboɾɐ -> Processed Word: ẽˈb/O/ɾɐ
 Pattern Applied: (?<=ˈ(b|β|k|d|ð|f|g|ɣ|ʃ||ɲ|ʎ|ʒ|l|m|n|p|ɾ|ʀ|s|t|v|z|pɾ|bɾ|tɾ|dɾ|kɾ|gɾ|fɾ|vɾ|pl|bl|kl|gl|fl))o(?![ju])(?!õô)->/O/
 
-Origin Word: ĩˈb/O/ɾɐ -> Processed Word: [ĩˈb/O/ɾɐ
+Origin Word: ẽˈb/O/ɾɐ -> Processed Word: [ẽˈb/O/ɾɐ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩˈb/O/ɾɐ -> Processed Word: [ĩˈb/O/ɾɐ]
+Origin Word: [ẽˈb/O/ɾɐ -> Processed Word: [ẽˈb/O/ɾɐ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: enˈtão -> Processed Word: ẽˈtão
@@ -1330,13 +1327,10 @@ Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 Origin Word: ẽˈtão -> Processed Word: ẽˈtɐ̃w̃
 Pattern Applied: ão->ɐ̃w̃
 
-Origin Word: ẽˈtɐ̃w̃ -> Processed Word: ĩˈtɐ̃w̃
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩˈtɐ̃w̃ -> Processed Word: [ĩˈtɐ̃w̃
+Origin Word: ẽˈtɐ̃w̃ -> Processed Word: [ẽˈtɐ̃w̃
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩˈtɐ̃w̃ -> Processed Word: [ĩˈtɐ̃w̃]
+Origin Word: [ẽˈtɐ̃w̃ -> Processed Word: [ẽˈtɐ̃w̃]
 Pattern Applied: (?<=$)->]
 
 Origin Word: entreˈtanto -> Processed Word: entrɨˈtanto
@@ -1351,16 +1345,13 @@ Pattern Applied: (am|âm|an|ân)(?=[ˈ bcçdgjlmnpqrstvxz])->ɐ̃
 Origin Word: entrɨˈtɐ̃tu -> Processed Word: ẽtrɨˈtɐ̃tu
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽtrɨˈtɐ̃tu -> Processed Word: ĩtrɨˈtɐ̃tu
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩtrɨˈtɐ̃tu -> Processed Word: ĩtɾɨˈtɐ̃tu
+Origin Word: ẽtrɨˈtɐ̃tu -> Processed Word: ẽtɾɨˈtɐ̃tu
 Pattern Applied: (?<=[pbtdkgfv])r->ɾ
 
-Origin Word: ĩtɾɨˈtɐ̃tu -> Processed Word: [ĩtɾɨˈtɐ̃tu
+Origin Word: ẽtɾɨˈtɐ̃tu -> Processed Word: [ẽtɾɨˈtɐ̃tu
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩtɾɨˈtɐ̃tu -> Processed Word: [ĩtɾɨˈtɐ̃tu]
+Origin Word: [ẽtɾɨˈtɐ̃tu -> Processed Word: [ẽtɾɨˈtɐ̃tu]
 Pattern Applied: (?<=$)->]
 
 Origin Word: finalˈmente -> Processed Word: finalˈmentɨ
@@ -1900,16 +1891,13 @@ Pattern Applied: (am|âm|an|ân)(?=[ˈ bcçdgjlmnpqrstvxz])->ɐ̃
 Origin Word: enˈquɐ̃tu -> Processed Word: ẽˈquɐ̃tu
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽˈquɐ̃tu -> Processed Word: ĩˈquɐ̃tu
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩˈquɐ̃tu -> Processed Word: ĩˈkʷɐ̃tu
+Origin Word: ẽˈquɐ̃tu -> Processed Word: ẽˈkʷɐ̃tu
 Pattern Applied: qu(?=(a|ɐ|ɐ̃))->kʷ
 
-Origin Word: ĩˈkʷɐ̃tu -> Processed Word: [ĩˈkʷɐ̃tu
+Origin Word: ẽˈkʷɐ̃tu -> Processed Word: [ẽˈkʷɐ̃tu
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩˈkʷɐ̃tu -> Processed Word: [ĩˈkʷɐ̃tu]
+Origin Word: [ẽˈkʷɐ̃tu -> Processed Word: [ẽˈkʷɐ̃tu]
 Pattern Applied: (?<=$)->]
 
 Origin Word: mas -> Processed Word: maʃ
@@ -4327,22 +4315,19 @@ Pattern Applied: a(?!áãâ)$->ɐ
 Origin Word: emˈpresɐ -> Processed Word: ẽˈpresɐ
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽˈpresɐ -> Processed Word: ĩˈpresɐ
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩˈpresɐ -> Processed Word: ĩˈprezɐ
+Origin Word: ẽˈpresɐ -> Processed Word: ẽˈprezɐ
 Pattern Applied: (?<=[aɐeɛɨijoɔuw])s(?=[aɐeɛɨijoɔuw])->z
 
-Origin Word: ĩˈprezɐ -> Processed Word: ĩˈpɾezɐ
+Origin Word: ẽˈprezɐ -> Processed Word: ẽˈpɾezɐ
 Pattern Applied: (?<=[pbtdkgfv])r->ɾ
 
-Origin Word: ĩˈpɾezɐ -> Processed Word: ĩˈpɾ/E/zɐ
+Origin Word: ẽˈpɾezɐ -> Processed Word: ẽˈpɾ/E/zɐ
 Pattern Applied: (?<=ˈ(b|β|k|d|ð|f|g|ɣ|ʃ||ɲ|ʎ|ʒ|l|m|n|p|ɾ|ʀ|s|t|v|z|pɾ|bɾ|tɾ|dɾ|kɾ|gɾ|fɾ|vɾ|pl|bl|kl|gl|fl))e(?!̃)(?!w)->/E/
 
-Origin Word: ĩˈpɾ/E/zɐ -> Processed Word: [ĩˈpɾ/E/zɐ
+Origin Word: ẽˈpɾ/E/zɐ -> Processed Word: [ẽˈpɾ/E/zɐ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩˈpɾ/E/zɐ -> Processed Word: [ĩˈpɾ/E/zɐ]
+Origin Word: [ẽˈpɾ/E/zɐ -> Processed Word: [ẽˈpɾ/E/zɐ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: enˈtrada -> Processed Word: enˈtradɐ
@@ -4351,26 +4336,23 @@ Pattern Applied: a(?!áãâ)$->ɐ
 Origin Word: enˈtradɐ -> Processed Word: ẽˈtradɐ
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽˈtradɐ -> Processed Word: ĩˈtradɐ
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩˈtradɐ -> Processed Word: ĩˈtraðɐ
+Origin Word: ẽˈtradɐ -> Processed Word: ẽˈtraðɐ
 Pattern Applied: (?<=[aɐeêɛɨioôɔujw])d(?=[aɐeêɛɨijoôɔuwɐ̃ẽĩõũj̃w̃])->ð
 
-Origin Word: ĩˈtraðɐ -> Processed Word: ĩˈtɾaðɐ
+Origin Word: ẽˈtraðɐ -> Processed Word: ẽˈtɾaðɐ
 Pattern Applied: (?<=[pbtdkgfv])r->ɾ
 
-Origin Word: ĩˈtɾaðɐ -> Processed Word: [ĩˈtɾaðɐ
+Origin Word: ẽˈtɾaðɐ -> Processed Word: [ẽˈtɾaðɐ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩˈtɾaðɐ -> Processed Word: [ĩˈtɾaðɐ]
+Origin Word: [ẽˈtɾaðɐ -> Processed Word: [ẽˈtɾaðɐ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: eˈquipa -> Processed Word: eˈquipɐ
 Pattern Applied: a(?!áãâ)$->ɐ
 
 Origin Word: eˈquipɐ -> Processed Word: iˈquipɐ
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
+Pattern Applied: (?<!ˈ)^e(?![juɫs̃])->i
 
 Origin Word: iˈquipɐ -> Processed Word: iˈkipɐ
 Pattern Applied: qu(?=(ɐj|ɐ̃j̃|e|ẽ|ê|ɛ|i|ĩ|ɨ))->k
@@ -4487,7 +4469,7 @@ Origin Word: eˈxemplu -> Processed Word: eˈxẽplu
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
 Origin Word: eˈxẽplu -> Processed Word: iˈxẽplu
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
+Pattern Applied: (?<!ˈ)^e(?![juɫs̃])->i
 
 Origin Word: iˈxẽplu -> Processed Word: iˈʃẽplu
 Pattern Applied: x->ʃ
@@ -9568,22 +9550,19 @@ Pattern Applied: (?<=$)->]
 Origin Word: enˈcher -> Processed Word: ẽˈcher
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽˈcher -> Processed Word: ĩˈcher
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩˈcher -> Processed Word: ĩˈʃer
+Origin Word: ẽˈcher -> Processed Word: ẽˈʃer
 Pattern Applied: ch->ʃ
 
-Origin Word: ĩˈʃer -> Processed Word: ĩˈʃeɾ
+Origin Word: ẽˈʃer -> Processed Word: ẽˈʃeɾ
 Pattern Applied: r$->ɾ
 
-Origin Word: ĩˈʃeɾ -> Processed Word: ĩˈʃ/E/ɾ
+Origin Word: ẽˈʃeɾ -> Processed Word: ẽˈʃ/E/ɾ
 Pattern Applied: (?<=ˈ(b|β|k|d|ð|f|g|ɣ|ʃ||ɲ|ʎ|ʒ|l|m|n|p|ɾ|ʀ|s|t|v|z|pɾ|bɾ|tɾ|dɾ|kɾ|gɾ|fɾ|vɾ|pl|bl|kl|gl|fl))e(?!̃)(?!w)->/E/
 
-Origin Word: ĩˈʃ/E/ɾ -> Processed Word: [ĩˈʃ/E/ɾ
+Origin Word: ẽˈʃ/E/ɾ -> Processed Word: [ẽˈʃ/E/ɾ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩˈʃ/E/ɾ -> Processed Word: [ĩˈʃ/E/ɾ]
+Origin Word: [ẽˈʃ/E/ɾ -> Processed Word: [ẽˈʃ/E/ɾ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: enconˈtrar -> Processed Word: encõˈtrar
@@ -9592,22 +9571,19 @@ Pattern Applied: (om|on|ôn)(?=[ˈ bcçdgjlmnpqrstvxz])->õ
 Origin Word: encõˈtrar -> Processed Word: ẽcõˈtrar
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽcõˈtrar -> Processed Word: ĩcõˈtrar
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩcõˈtrar -> Processed Word: ĩkõˈtrar
+Origin Word: ẽcõˈtrar -> Processed Word: ẽkõˈtrar
 Pattern Applied: c(?!ɐj|ɐ̃j̃|e|ẽ|ê|ɛ|i|ĩ|ɨ|j)->k
 
-Origin Word: ĩkõˈtrar -> Processed Word: ĩkõˈtraɾ
+Origin Word: ẽkõˈtrar -> Processed Word: ẽkõˈtraɾ
 Pattern Applied: r$->ɾ
 
-Origin Word: ĩkõˈtraɾ -> Processed Word: ĩkõˈtɾaɾ
+Origin Word: ẽkõˈtraɾ -> Processed Word: ẽkõˈtɾaɾ
 Pattern Applied: (?<=[pbtdkgfv])r->ɾ
 
-Origin Word: ĩkõˈtɾaɾ -> Processed Word: [ĩkõˈtɾaɾ
+Origin Word: ẽkõˈtɾaɾ -> Processed Word: [ẽkõˈtɾaɾ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩkõˈtɾaɾ -> Processed Word: [ĩkõˈtɾaɾ]
+Origin Word: [ẽkõˈtɾaɾ -> Processed Word: [ẽkõˈtɾaɾ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: engaˈnar -> Processed Word: engɐˈnar
@@ -9616,34 +9592,28 @@ Pattern Applied: (?<!^)a(?![mnliou][ˈ bcçdfhgjlmnpqrstvxz])(?=.*ˈ)->ɐ
 Origin Word: engɐˈnar -> Processed Word: ẽgɐˈnar
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽgɐˈnar -> Processed Word: ĩgɐˈnar
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩgɐˈnar -> Processed Word: ĩgɐˈnaɾ
+Origin Word: ẽgɐˈnar -> Processed Word: ẽgɐˈnaɾ
 Pattern Applied: r$->ɾ
 
-Origin Word: ĩgɐˈnaɾ -> Processed Word: [ĩgɐˈnaɾ
+Origin Word: ẽgɐˈnaɾ -> Processed Word: [ẽgɐˈnaɾ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩgɐˈnaɾ -> Processed Word: [ĩgɐˈnaɾ]
+Origin Word: [ẽgɐˈnaɾ -> Processed Word: [ẽgɐˈnaɾ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: enˈtrar -> Processed Word: ẽˈtrar
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽˈtrar -> Processed Word: ĩˈtrar
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩˈtrar -> Processed Word: ĩˈtraɾ
+Origin Word: ẽˈtrar -> Processed Word: ẽˈtraɾ
 Pattern Applied: r$->ɾ
 
-Origin Word: ĩˈtraɾ -> Processed Word: ĩˈtɾaɾ
+Origin Word: ẽˈtraɾ -> Processed Word: ẽˈtɾaɾ
 Pattern Applied: (?<=[pbtdkgfv])r->ɾ
 
-Origin Word: ĩˈtɾaɾ -> Processed Word: [ĩˈtɾaɾ
+Origin Word: ẽˈtɾaɾ -> Processed Word: [ẽˈtɾaɾ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩˈtɾaɾ -> Processed Word: [ĩˈtɾaɾ]
+Origin Word: [ẽˈtɾaɾ -> Processed Word: [ẽˈtɾaɾ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: entreˈgar -> Processed Word: entrɨˈgar
@@ -9652,37 +9622,31 @@ Pattern Applied: (?<!^)e(?![mnliu][ˈ bcçdfhgjlmnpqrstvxz])(?=.*ˈ)->ɨ
 Origin Word: entrɨˈgar -> Processed Word: ẽtrɨˈgar
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽtrɨˈgar -> Processed Word: ĩtrɨˈgar
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩtrɨˈgar -> Processed Word: ĩtrɨˈɣar
+Origin Word: ẽtrɨˈgar -> Processed Word: ẽtrɨˈɣar
 Pattern Applied: (?<=[aɐeêɛɨioôɔujw]ˈ)g(?=[aɐeêɛɨijoôɔuwɐ̃ẽĩõũj̃w̃])->ɣ
 
-Origin Word: ĩtrɨˈɣar -> Processed Word: ĩtrɨˈɣaɾ
+Origin Word: ẽtrɨˈɣar -> Processed Word: ẽtrɨˈɣaɾ
 Pattern Applied: r$->ɾ
 
-Origin Word: ĩtrɨˈɣaɾ -> Processed Word: ĩtɾɨˈɣaɾ
+Origin Word: ẽtrɨˈɣaɾ -> Processed Word: ẽtɾɨˈɣaɾ
 Pattern Applied: (?<=[pbtdkgfv])r->ɾ
 
-Origin Word: ĩtɾɨˈɣaɾ -> Processed Word: [ĩtɾɨˈɣaɾ
+Origin Word: ẽtɾɨˈɣaɾ -> Processed Word: [ẽtɾɨˈɣaɾ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩtɾɨˈɣaɾ -> Processed Word: [ĩtɾɨˈɣaɾ]
+Origin Word: [ẽtɾɨˈɣaɾ -> Processed Word: [ẽtɾɨˈɣaɾ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: enviˈar -> Processed Word: ẽviˈar
 Pattern Applied: (em|en|ên)(?=[ˈ bcçdgjlmnpqrstvxz])->ẽ
 
-Origin Word: ẽviˈar -> Processed Word: ĩviˈar
-Pattern Applied: (?<!ˈ)^e(?![juɫs])->i
-
-Origin Word: ĩviˈar -> Processed Word: ĩviˈaɾ
+Origin Word: ẽviˈar -> Processed Word: ẽviˈaɾ
 Pattern Applied: r$->ɾ
 
-Origin Word: ĩviˈaɾ -> Processed Word: [ĩviˈaɾ
+Origin Word: ẽviˈaɾ -> Processed Word: [ẽviˈaɾ
 Pattern Applied: (?<=^)->[
 
-Origin Word: [ĩviˈaɾ -> Processed Word: [ĩviˈaɾ]
+Origin Word: [ẽviˈaɾ -> Processed Word: [ẽviˈaɾ]
 Pattern Applied: (?<=$)->]
 
 Origin Word: escoˈlher -> Processed Word: escuˈlher
