@@ -1403,7 +1403,7 @@ Origin Word: ˈojɨ -> Processed Word: ˈoʒɨ
 Pattern Applied: (?<=[ˈaáãɐɐ̃eéẽɨiĩoóõuúũ])j(?=[aáãɐɐ̃eéẽɨiĩoóõuúũ])->ʒ
 
 Origin Word: ˈoʒɨ -> Processed Word: ˈ/O/ʒɨ
-Pattern Applied: (?<=ˈ)o(?![ju])(?!õ)->/O/
+Pattern Applied: (?<=ˈ)o(?![ju])->/O/
 
 Origin Word: ˈ/O/ʒɨ -> Processed Word: [ˈ/O/ʒɨ
 Pattern Applied: (?<=^)->[
@@ -1607,7 +1607,7 @@ Origin Word: ˈora -> Processed Word: ˈorɐ
 Pattern Applied: a(?!áãâ)$->ɐ
 
 Origin Word: ˈorɐ -> Processed Word: ˈ/O/rɐ
-Pattern Applied: (?<=ˈ)o(?![ju])(?!õ)->/O/
+Pattern Applied: (?<=ˈ)o(?![ju])->/O/
 
 Origin Word: ˈ/O/rɐ -> Processed Word: ˈ/O/ɾɐ
 Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))r(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃))->ɾ
@@ -4958,7 +4958,7 @@ Origin Word: ˈomem -> Processed Word: ˈomɐ̃j̃
 Pattern Applied: (ém|em)$->ɐ̃j̃
 
 Origin Word: ˈomɐ̃j̃ -> Processed Word: ˈ/O/mɐ̃j̃
-Pattern Applied: (?<=ˈ)o(?![ju])(?!õ)->/O/
+Pattern Applied: (?<=ˈ)o(?![ju])->/O/
 
 Origin Word: ˈ/O/mɐ̃j̃ -> Processed Word: [ˈ/O/mɐ̃j̃
 Pattern Applied: (?<=^)->[
@@ -4973,7 +4973,7 @@ Origin Word: ˈora -> Processed Word: ˈorɐ
 Pattern Applied: a(?!áãâ)$->ɐ
 
 Origin Word: ˈorɐ -> Processed Word: ˈ/O/rɐ
-Pattern Applied: (?<=ˈ)o(?![ju])(?!õ)->/O/
+Pattern Applied: (?<=ˈ)o(?![ju])->/O/
 
 Origin Word: ˈ/O/rɐ -> Processed Word: ˈ/O/ɾɐ
 Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))r(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃))->ɾ
@@ -5015,7 +5015,7 @@ Origin Word: ˈorta -> Processed Word: ˈortɐ
 Pattern Applied: a(?!áãâ)$->ɐ
 
 Origin Word: ˈortɐ -> Processed Word: ˈ/O/rtɐ
-Pattern Applied: (?<=ˈ)o(?![ju])(?!õ)->/O/
+Pattern Applied: (?<=ˈ)o(?![ju])->/O/
 
 Origin Word: ˈ/O/rtɐ -> Processed Word: ˈ/O/ɾtɐ
 Pattern Applied: (?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))r(?=[ˈbdfgʃɲʎʒklmnpstvz])->ɾ
@@ -6167,7 +6167,7 @@ Origin Word: ˈobra -> Processed Word: ˈobrɐ
 Pattern Applied: a(?!áãâ)$->ɐ
 
 Origin Word: ˈobrɐ -> Processed Word: ˈ/O/brɐ
-Pattern Applied: (?<=ˈ)o(?![ju])(?!õ)->/O/
+Pattern Applied: (?<=ˈ)o(?![ju])->/O/
 
 Origin Word: ˈ/O/brɐ -> Processed Word: ˈ/O/bɾɐ
 Pattern Applied: (?<=[pbtdkgfv])r->ɾ
@@ -6182,7 +6182,7 @@ Origin Word: ˈolho -> Processed Word: ˈolhu
 Pattern Applied: (?<!ã)o(?!óõô)$->u
 
 Origin Word: ˈolhu -> Processed Word: ˈ/O/lhu
-Pattern Applied: (?<=ˈ)o(?![ju])(?!õ)->/O/
+Pattern Applied: (?<=ˈ)o(?![ju])->/O/
 
 Origin Word: ˈ/O/lhu -> Processed Word: ˈ/O/ʎu
 Pattern Applied: lh->ʎ
@@ -6215,7 +6215,7 @@ Origin Word: ˈosso -> Processed Word: ˈossu
 Pattern Applied: (?<!ã)o(?!óõô)$->u
 
 Origin Word: ˈossu -> Processed Word: ˈ/O/ssu
-Pattern Applied: (?<=ˈ)o(?![ju])(?!õ)->/O/
+Pattern Applied: (?<=ˈ)o(?![ju])->/O/
 
 Origin Word: ˈ/O/ssu -> Processed Word: ˈ/O/su
 Pattern Applied: s{2}->s
@@ -6260,7 +6260,7 @@ Origin Word: ˈovo -> Processed Word: ˈovu
 Pattern Applied: (?<!ã)o(?!óõô)$->u
 
 Origin Word: ˈovu -> Processed Word: ˈ/O/vu
-Pattern Applied: (?<=ˈ)o(?![ju])(?!õ)->/O/
+Pattern Applied: (?<=ˈ)o(?![ju])->/O/
 
 Origin Word: ˈ/O/vu -> Processed Word: [ˈ/O/vu
 Pattern Applied: (?<=^)->[
