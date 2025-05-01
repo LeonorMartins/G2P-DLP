@@ -1,58 +1,54 @@
 ID;Sílaba;Contexto;Find;Replace;Exemplo
-A1;?CV/ ?CV? / ?CVG / ?CV?G / ?CCV;Seleciona a posição anterior a sequência CV, CV?, CVG, CV?G e CCV com vogal acentuada, à exceção de <r>;(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû]);?;Origin Word: pé -> Processed Word: ?pé
-A2;?CV / ?CV?;Seleciona a posição anterior a <r> não precedido por <p>, <b>, <t>, <d>, <c>, <g>, <f>, <v> e <r> e seguido de vogal acentuada;(?<![pbtdcgfvr])(?=r[áàâãéèêíìîóòôúùû]);?;Origin Word: rádio -> Processed Word: ?rádio
-A3;?CV / ?CV?;Seleciona a posição anterior a <s> não precedido por <s> e seguido de vogal acentuada;(?<!s)(?=s[áàâãéèêíìîóòôúùû]);?;Origin Word: sábado -> Processed Word: ?sábado
-A4;^?V / ^?VC;Seleciona a posição anterior à vogal acentuada em início de palavra;(?=^[áàâéèêíìîóòôúùû]);?;Origin Word: água -> Processed Word: ?água
-A5;V.?V?G;Seleciona a fronteira entre V e sequência V?G;(?<=[aeiou])(?=(ão));?;Origin Word: leão -> Processed Word: le?ão
-A6;V.?VC;Seleciona a fronteira silábica entre sequência vocálica <a.í> e <a.ú> seguidos de consoante em coda final;(?<=a)(?=[íú]);?;Origin Word: país -> Processed Word: pa?ís
-A7;?CVC / ?CVGC / ?CCVC;Seleciona a posição anterior a  CVC, CVGC, CCVC, à exceção de <h>, <l>, <r> e <s> em ataque silábico, terminadas em consoante;(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$);?;Origin Word: natal -> Processed Word: na?tal
+A1;;;;;
+A2;;;;;
+A3;;;;;
+A4;;;;;
+A5;;;;;
+A6;;;;;
+A7;;;;;
 "A8
-";?CVC;Seleciona a fronteira entre V  e sequência CVC com <r> em ataque silábico, terminada em consoante;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu|ou)[rlsz]$);?;Origin Word: adorar -> Processed Word: ado?rar
-A9;?CVC;Seleciona a fronteira entre V  e sequência CVC com <l> em ataque silábico, terminada em consoante;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfv])(?=l(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu|ou)[rlsz]$);?;Origin Word: falar -> Processed Word: fa?lar
-A10;?CVC;Seleciona a fronteira entre V  e sequência CVC com <s> em ataque silábico, terminada em consoante;(?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu|ou)[rlsz]$);?;Origin Word: pensar -> Processed Word: pen?sar
-A11;^?VC;Seleciona a posição anterior à sequência monossilábica VC, terminada em consoante;(?<![áàãâéèêíìîóòõôúùû].*)(?=^[aeiou][rlsz]$);?;Origin Word: ar -> Processed Word: ?ar
-A12;?CVVC;Seleciona a posição anterior a C seguido de <ais> (a não confundir com a sequência vocálica V.V [?i]);(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)ais$);?;Origin Word: mais -> Processed Word: ?mais
-A13;V?.VC;Seleciona a fronteira entre sequência silábica V.V, seguida de consoante <r> em coda final;(?<![áàãâéèêíìîóòõôúùû].*)(?<=a)(?=i[r]$);?;Origin Word: cair -> Processed Word: ca?ir
-A14;V.?VC;Seleciona a fronteira silábica entre sequência heterossilábica V.V terminada em consoante;(?<![áàãâéèêíìîóòõôúùû].*)(?<=[ieo])(?=[aeo][rszl]$);?;Origin Word: voar -> Processed Word: vo?ar
-A15;CV.?VC;Seleciona a fronteira silábica entre a sequência CV e VC ([ua]), terminada em consoante;(?<![áàãâéèêíìîóòõôúùû].*)(?<=[bcçdfhjklmnpsrtvxwz]u)(?=a[rszl]$);?;Origin Word: continuar -> Processed Word: continu?ar
-A16;?CVG / ?CCVG;Seleciona a posição anterior às sequências CVG e CCVG final, à exceção de <h>, <r>, <l> e <s> em ataque silábico, terminadas em consoante;(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$);?;Origin Word: bacalhau -> Processed Word: baca?lhau
-A17;"?CVG
-
-";Seleciona a posição anterior à sequência CVG com <r> em ataque silábico, terminada em ditongo oral;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r(ai|ei|oi|ui|ao|au|eu|iu|ou)$);?;Origin Word: rei -> Processed Word: ?rei
-A18;"?CVG
-
-";Seleciona a posição anterior à sequência CVG com <s> em ataque silábico, terminada em ditongo oral;(?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s(ai|ei|oi|ui|ao|au|eu|iu|ou)$);?;Origin Word: museu -> Processed Word: mu?seu
-A19;^?VG;Seleciona a posição anterior à sequência monossilábica ?VG;(?<![áàãâéèêíìîóòõôúùû].*)(?=^(ai|ei|oi|ui|au|eu|iu|ou)$);?;Origin Word: eu -> Processed Word: ?eu
-A20;?CV?;Seleciona a posição anterior à sequência CV?, à exceção de <h>, <l>, <r> e <s> em ataque silábico;(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aiou][m]$);?;Origin Word: assim -> Processed Word: a?ssim
-A21;^?CV?;Seleciona a posição anterior à sequência CV? monossilábica, com <h>, <l>, <r> ou <s> em ataque silábico;(?<![áàãâéèêíìîóòõôúùû].*)(?=^[hlrs][aiou][m]$);?;Origin Word: sim -> Processed Word: ?sim
-A22;^?CV?G?;Seleciona a posição anterior à sequência CV?G? monossilábica, à exceção de <h>, <l> e <r> em ataque silábico;(?<![áàãâéèêíìîóòõôúùû].*)(?=^(b|c|ç|d|f|gu|g|ch|j|m|n|p|qu|r|s|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$);?;Original Word: bem -> Processed Word: ?bem
-A23;?CV;Seleciona a posição anterior à sequência CV, terminada em <i>;(?<![áàãâéèêíìîóòõôúùû].*)(?<=(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[i]$);?;Origin Word: ali -> Processed Word: a?li
-A24;?CV.CV / ?CV.CCV / ?CCV.CV / ?CCV.CCV / ?CVG.CV / ?CVG.CCV /  CCVG.CV;Seleciona a posição anterior às sequências ?CV.C,?CV.CCV, ?CCV.CV, ?CCV.CCV, ?CVG.CV, ?CCVG.CV e?CVG.CCV, à exceção de <h>, <l>, <r> e <s> no primeiro ataque silábico, terminadas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: boca -> Processed Word: ?boca
-A25;?CV.CV /?CV.CCV / ?CVG.CV / ?CVG.CCV;Seleciona a posição anterior às sequências ?CV.CV ,?CV.CCV  e ?CVG.CV com <r> no primeiro ataque silábico, terminadas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: rico -> Processed Word: ?rico
-A26;?CV.CV /?CV.CCV / ?CVG.CV / ?CVG.CCV;Seleciona a posição anterior às sequências ?CV.CV ,?CV.CCV  e ?CVG.CV com <l> no primeiro ataque silábico, terminadas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfv])(?=l(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: logo -> Processed Word: ?logo
-A27;?CV.CV /?CV.CCV / ?CVG.CV / ?CVG.CCV;Seleciona a posição anterior às sequências ?CV.CV ,?CV.CCV  e ?CVG.CV com <s> no primeiro ataque silábico, terminadas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: saco -> Processed Word: ?saco
-A28;?CV.CV /?CV.CCV / ?CVG.CV / ?CVG.CCV;Seleciona a posição anterior à sequência CV.CV, com <h> em primeiro ataque silábico, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<![cln])(?=h(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: hora -> Processed Word: ?hora
-A29;?CVC.CV / ?CCVC.CV;Seleciona a posição anterior às sequências ?CVC.CV e?CCVC.CV, à exceção de <h>, <l>, <r> e <s> nos dois ataques silábicos, com <l>, <r>, <s> ou <x> em coda silábica, terminadas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: perna -> Processed Word: ?perna
-A30;?CVC.CV / ?CCVC.CV;Seleciona a posição anterior às sequências ?CVC.CV e?CCVC.CV, à exceção de <h>, <r>, <l> e <s> no primeiro ataque silábico, com <r> em coda e <l> ou <s> em segundo ataque silábico, terminadas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[r][ls][aoe]$);?;Origin Word: conversa -> Processed Word: con?versa
-A31;?CVC.CV;Seleciona a posição anterior à sequência ?CVC.CV com <l> no primeiro ataque silábico, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfv])(?=l(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrs](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: lista -> Processed Word: ?lista
-A32;?CVC.CV;Seleciona a posição anterior à sequência ?CVC.CV com <s> no primeiro ataque silábico, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrs](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: sorte -> Processed Word: ?sorte
-A33;?CVC.CV;Seleciona a posição anterior à sequência CVC.CV, com <h> em primeiro ataque silábico, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<![cln])(?=h(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrs](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: horta -> Processed Word: ?horta
-A34;?CV?.CV / ?CV?.CCV / ?CCV?.CV;Seleciona a posição anterior às sequências ?CV?.CV, ?CV?.CCV e CCV?.CV, à exceção de <h>, <l>, <r> e <s> no primeiro ataque silábico, terminadas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: tempo -> Processed Word: ?tempo
-A35;?CV?.CV / ?CV?.CCV;Seleciona a posição anterior à sequência ?CV?.CV, com <r> no primeiro ataque silábico, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: durante -> Processed Word: du?rante
-A36;?CV?.CV / ?CV?.CCV;Seleciona a posição anterior à sequência ?CV?.CV, com <l> no primeiro ataque silábico, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfv])(?=l[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: limpo -> Processed Word: ?limpo
-A37;?CV?.CV / ?CV?.CCV;Seleciona a posição anterior à sequência ?CV?.CV, com <s> no primeiro ataque silábico, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: sempre -> Processed Word: ?sempre
-A38;?CVG.V / ?CCVG.V;Seleciona a posição anterior às sequências ?CVG.V e ?CCVG.V, sem <h>, <l>, <r> ou <s> em ataque silábico, terminadas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$);?;Origin Word: cheio -> Processed Word: ?cheio
-A39;?CV.V / ?CCV.V;Seleciona a posição anterior às sequências ?CV.V e ?CCV.V, sem <h>, <l>, <r> ou <s> em ataque silábico, terminadas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|l|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[ieo][aoe]$);?;Origin Word: frio -> Processed Word: ?frio
-A40;?CV.V;Seleciona a posição anterior à sequência ?CV.V, com <r> em ataque silábico, terminada em vogal ;(?<![áàãâéèêíìîóòõôúùû])(?<![pbtdcgfvr])(?=r[ieo][aoe]$);?;Origin Word: rio -> Processed Word: ?rio
-A41;?CV.V;Seleciona a posição anterior à sequência ?CV.V, com <r> em ataque silábico, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r[u][aoe]$);?;Origin Word: rua -> Processed Word: ?rua
-A42;?CV.V;Seleciona a posição anterior à sequência ?CV.V, com <l> em ataque silábico, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfv])(?=l[u][aoe]$);?;Origin Word: lua -> Processed Word: ?lua
-A43;^?V.CV / ^?VG.CV / ^?V.CCV / ^?VG.CCV;Seleciona a posição anterior às sequências ^?V.CV, ^?VG.CV, ^?V.CCV e ?VG.CCV em início de palavra, terminadas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?=^(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: isso -> Processed Word: ?isso
-A44;^?VC.CV;Seleciona a posição anterior à sequência ?VC.CV em início de palavra, com <r>, <l> ou <s> em coda silábica, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?=^(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrs](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: algo -> Processed Word: ?algo
-A45;^?V?.CV / ^?V?.CCV;Seleciona a posição anterior às sequências ?V?.CV e ?V?.CCV em início de palavra, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?=^[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: onde -> Processed Word: ?onde
-A46;V.?V.CV / V.?V.CCV ;Seleciona a posição anterior às sequências V.?V.CV e V.?V.CCV (ditongos crescentes <ia>, <ie>, <io>, <ea>, <eo>, <oa>, <oe>), terminas em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<=[ieo])(?=[aeo](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: demasiado -> Processed Word: demasi?ado
-A47;V.?V?.CV;Seleciona a fronteira entre V e sequência ?V?.CV, terminada em vogal;(?<![áàãâéèêíìîóòõôúùû].*)(?<=[aeio])(?=[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$);?;Origin Word: cliente -> Processed Word: cli?ente
-A48;?CV.CV?;Seleciona a posição anterior à sequência ?CV.CV?, à exceção de <h>, <l>, <r> e <s> em ataque silábico, terminada em <em>;(?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$);?;Origin Word: imagem -> Processed Word: i?magem
-A49;?CV.CV?;Seleciona a posição anterior à sequência ?CV.CV?, com <r> em ataque silábico, terminada em <em>;(?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$);?;Origin Word: origem -> Processed Word: o?rigem
-A50;?CV.CV?;Seleciona a posição anterior à sequência ?CV.CV?, com <h> em ataque silábico, terminada em <em>;(?<![áàãâéèêíìîóòõôúùû].*)(?<![cln])(?=h(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$);?;Origin Word: homem -> Processed Word: ?homem
-A51;V.?V.CV?;Seleciona a fronteira entre V e a sequência ?V.CV?, terminada em <em>;(?<![áàãâéèêíìîóòõôúùû].*)(?<=[ieo])(?=[aeo](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(em)$);?;Origin Word: viagem -> Processed Word: vi?agem
-A52;?VC;Seleciona a posição anterior à sequência ?VC (interjeições);(?<![áàãâéèêíìîóòõôúùû].*)(?=^(ah|oh)$);?;Origin Word: ah -> Processed Word: ?ah
+";;;;;
+A9;;;;;
+A10;;;;;
+A11;;;;;
+A12;;;;;
+A13;;;;;
+A14;;;;;
+A15;;;;;
+A16;;;;;
+A17;;;;;
+A18;;;;;
+A19;;;;;
+A20;;;;;
+A21;;;;;
+A22;;;;;
+A23;;;;;
+A24;;;;;
+A25;;;;;
+A26;;;;;
+A27;;;;;
+A28;;;;;
+A29;;;;;
+A30;;;;;
+A31;;;;;
+A32;;;;;
+A33;;;;;
+A34;;;;;
+A35;;;;;
+A36;;;;;
+A37;;;;;
+A38;;;;;
+A39;;;;;
+A40;;;;;
+A41;;;;;
+A42;;;;;
+A43;;;;;
+A44;;;;;
+A45;;;;;
+A46;;;;;
+A47;;;;;
+A48;;;;;
+A49;;;;;
+A50;;;;;
+A51;;;;;
+A52;;;;;
