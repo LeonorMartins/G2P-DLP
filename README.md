@@ -19,7 +19,7 @@ Cada módulo opera sobre um *corpus* estruturado em tabelas ODS com regras basea
 
 ## Estrutura do Repositório
 
-.
+```
 ├── Debug/
 │   └── Ficheiros de *logs* e *debug* gerados durante a execução dos scripts e notebooks.
 │
@@ -45,7 +45,7 @@ Cada módulo opera sobre um *corpus* estruturado em tabelas ODS com regras basea
 │       - Expressão *regex* usada (Find)
 │       - Substituição aplicada (Replace)
 │       - Exemplo de aplicação
-
+```
 
 ### Publicações relacionadas
 Simões, A., Almeida, J. J. & Salgado, A. (2016). Building a Dictionary Using XML Technology. In *5th Symposium on Languages, Applications and Technologies* (SLATE'16). *Open Access Series in Informatics* (OASIcs), Vol. 51, pp. 14:1-14:8, Schloss Dagstuhl – Leibniz-Zentrum für Informatik. <https://doi.org/10.4230/OASIcs.SLATE.2016.14>
