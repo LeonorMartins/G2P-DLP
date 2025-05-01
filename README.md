@@ -20,14 +20,14 @@ Cada módulo opera sobre um *corpus* estruturado em tabelas ODS com regras basea
 ## Estrutura do Repositório
 
 ```
-├── **Debug**/
+├── Debug/
 │   └── Ficheiros de *logs* e *debug* gerados durante a execução dos scripts e notebooks.
 │
-├── **Notebooks**/
+├── Notebooks/
 │   └── Notebooks Jupyter correspondentes aos três módulos (sílaba, acento, fonética).
 │       Apresenta o processo de elaboração dos ficheiros Pyhton e os resultados obtidos.
 │
-├── **Python**/
+├── Python/
 │   └── Scripts Python autónomos para os três módulos principais.
 │       - silaba.py
 │       - acento.py
