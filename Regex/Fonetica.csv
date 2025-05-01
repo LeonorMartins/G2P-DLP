@@ -1,7 +1,7 @@
 ID,Contexto fonético,Find,Replace,Exemplo
 T1,Seleciona todos os hífens e substitui-os por um espaço em branco,-,,Origin Word: bom-ˈdia -> Processed Word: bom ˈdia
 T2,"Seleciona e exclui todos os <h>, exceto os que se encontram precedidos por <c>, <l> ou <n>",(?<![cln])h,,Origin Word: ˈhora -> Processed Word: ˈora
-T3,"Seleciona todos os <e> seguidos de sílaba iniciada por vogal [a, ɐ, ɐ̃, e, ɛ, o, ɔ, õ] tóncia",e(?=ˈ[aáâãeéêoóôõ]),i,Origin Word: passeˈar -> Processed Word: passiˈar
+T3,"Seleciona todos os <e> seguidos de sílaba iniciada por vogal [a, ɐ, ɐ̃, e, ɛ, o, ɔ, õ] tónica",e(?=ˈ[aáâãeéêoóôõ]),i,Origin Word: passeˈar -> Processed Word: passiˈar
 T4,"Seleciona todos os <e> seguidos de sílaba iniciada por vogal  [a, ɐ, ɐ̃, e, ɛ, o, ɔ, õ] ",e(?=[aáâãeéêoóôõ]),i,Origin Word: ˈárea -> Processed Word: ˈária
 T5,"Seleciona todos os <o> pretónicos, à exceção dos que se encontram em início de palavra, que são seguidos por marcador de nasalidade <m> ou <n>, por <l> em coda, por glide <i> ou <u> ou por marcador de sílaba tónica",(?<!^)o(?![mnliu][ˈ bcçdfhgjlmnpqrstvxz])(?=.*ˈ),u,Origin Word: toˈmar -> Processed Word: tuˈmar
 T6,"Seleciona todos os <a> pretónicos, à exceção dos que se encontram em início de palavra, que são seguidos por marcador de nasalidade <m> ou <n>, por <l> em coda, por glide <i> ou <u> ou por marcador de sílaba tónica",(?<!^)a(?![mnliou][ˈ bcçdfhgjlmnpqrstvxz])(?=.*ˈ),ɐ,Origin Word: saˈber -> Processed Word: sɐˈber
