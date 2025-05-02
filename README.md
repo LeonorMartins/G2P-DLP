@@ -4,13 +4,13 @@ O presente repositório apresenta o sistema de conversão automático utilizado 
 Este sistema é composto por três módulos principais, organizados em scripts Python e demonstrados em notebooks Jupyter. Cada módulo realiza uma tarefa específica no processo de conversão:
 ## Módulos
 
-### 🔹 Sílaba
+#### Sílaba
 Efetua a translineação dos 730 lemas, com base em princípios fonológicos silábicos do português.
 
-### 🔹 Acento 
+#### Acento 
 Efetua a marcação da sílaba tónica dos 713 lemas acentuados, com base do paradigma acentual geral das palavras não-verbais do português.
 
-### 🔹 Fonética
+#### Fonética
 Efetua a transcrição fonética dos 730 lemas, convertendo os grafemas em caracteres fornecidos pelo [AFI](https://www.internationalphoneticassociation.org/).
 
 Cada módulo opera sobre um *corpus* estruturado em tabelas ODS com regras baseadas em expressões regulares.
