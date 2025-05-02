@@ -1,7 +1,7 @@
 # Sistema de conversão grafema-fone(ma) e de translineação
 O presente repositório apresenta o sistema de conversão automático utilizado na translineação, marcação da sílaba tónica e transcrição fonética de 730 lemas do Nível 1 do [Vocabulário Fundamental](https://doi.org/10.5281/zenodo.10889986) do [_Dicionário da Língua Portuguesa_ (DLP)](https://dicionario.acad-ciencias.pt/).
 
-Este sistema é composto por três módulos principais, organizados em scripts Python e demonstrados em notebooks Jupyter. Cada módulo realiza uma tarefa no processo de conversão:
+Este sistema é composto por três módulos principais, organizados em scripts Python e demonstrados em notebooks Jupyter. Cada módulo realiza uma tarefa específica no processo de conversão:
 ## Módulos
 
 ### 🔹 Silaba
