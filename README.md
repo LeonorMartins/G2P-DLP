@@ -1,19 +1,19 @@
 # Sistema de conversão grafema-fone(ma) e de translineação
-O presente repositório apresenta o sistema de conversão automático utilizado na translineação, marcação da sílaba tónica e transcrição fonética de 730 lemas do Nível 1 do [Vocabulário Fundamental](https://doi.org/10.5281/zenodo.10889986) do [_Dicionário da Língua Portuguesa_ (DLP)](https://dicionario.acad-ciencias.pt/).
+O presente repositório apresenta o sistema de conversão automático concebido para a translineação, marcação da sílaba tónica e transcrição fonética de 730 lemas do Nível 1 do [Vocabulário Fundamental](https://doi.org/10.5281/zenodo.10889986) do [_Dicionário da Língua Portuguesa_ (DLP)](https://dicionario.acad-ciencias.pt/).
 
-Este sistema é composto por três módulos principais, organizados em scripts Python e demonstrados em notebooks Jupyter. Cada módulo realiza uma tarefa específica no processo de conversão:
+Este sistema é composto por três módulos principais, implementados através de  *scripts* Python e demonstrados em *notebooks* Jupyter. Cada módulo realiza uma tarefa específica no processo de conversão:
 ## Módulos
 
 ### Sílaba
-Efetua a translineação dos 730 lemas, com base em princípios fonológicos silábicos do português.
+Faz a translineação dos 730 lemas, fundamentada em princípios fonológicos silábicos do português.
 
 ### Acento 
-Efetua a marcação da sílaba tónica dos 713 lemas acentuados, com base do paradigma acentual geral das palavras não-verbais do português.
+Faz a marcação da sílaba tónica dos 713 lemas acentuados, com base no paradigma acentual geral das palavras não-verbais do português.
 
 ### Fonética
-Efetua a transcrição fonética dos 730 lemas, convertendo os grafemas em caracteres fornecidos pelo [AFI](https://www.internationalphoneticassociation.org/).
+Faz a transcrição fonética dos 730 lemas, convertendo os grafemas em caracteres fornecidos pelo Alfabeto Fonético Internacional [(AFI)](https://www.internationalphoneticassociation.org/).
 
-Cada módulo opera sobre um *corpus* estruturado em tabelas ODS com regras baseadas em expressões regulares.
+Cada módulo opera sobre um *corpus* estruturado em tabelas ODS, utilizando regras baseadas em expressões regulares.
 
 ---
 
