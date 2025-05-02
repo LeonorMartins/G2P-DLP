@@ -4,7 +4,7 @@ O presente repositório apresenta o sistema de conversão automático utilizado 
 Este sistema é composto por três módulos principais, organizados em scripts Python e demonstrados em notebooks Jupyter. Cada módulo realiza uma tarefa específica no processo de conversão:
 ## Módulos
 
-### 🔹 Silaba
+### 🔹 Sílaba
 Efetua a translineação dos 730 lemas, com base em princípios fonológicos silábicos do português.
 
 ### 🔹 Acento 
@@ -34,7 +34,7 @@ Cada módulo opera sobre um *corpus* estruturado em tabelas ODS com regras basea
 │       - fonetica.py
 │
 ├── ODS/
-│   └── Ficheiros de dados no formato ODS contendo os corpora utilizados nos módulos.
+│   └── Ficheiros de dados no formato ODS com os corpora utilizados nos módulos.
 │       Estes ficheiros especificam os contextos, padrões e substituições aplicadas.
 │
 ├── Regex/
