@@ -90,5 +90,3 @@ T88,Seleciona todos os <r> em coda silábica no final de palavra,r$,ɾ,Origin Wo
 T89,Seleciona todos os <r> em posição intervocálica,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))r(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ɾ,Origin Word: ˈkaru -> Processed Word: ˈkaɾu
 T90,Seleciona todos os <r> em posição intervocálica tónica,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w)ˈ)r(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ɾ,Origin Word: nɐtuˈraɫ -> Processed Word: nɐtuˈɾaɫ
 T91,Seleciona todos os <r> pertencentes a um grupo consonântico próprio,(?<=[pbtdkgfv])r,ɾ,Origin Word: ˈfriu -> Processed Word: ˈfɾiu
-T92,Seleciona a posição inicial de qualquer sequência,(?<=^),[,
-T93,Seleciona a posição final de qualquer sequência,(?<=$),],
