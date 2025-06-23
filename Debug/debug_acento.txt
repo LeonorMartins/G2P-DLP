@@ -41,7 +41,7 @@ Original Word: castanho -> Processed Word: casˈtanho
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: cheio -> Processed Word: ˈcheio
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
 
 Original Word: chinês -> Processed Word: chiˈnês
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
@@ -410,7 +410,7 @@ Original Word: ajuda -> Processed Word: aˈjuda
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: aldeia -> Processed Word: alˈdeia
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
 
 Original Word: alegria -> Processed Word: aleˈgria
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|l|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[ieo][aoe]$)->ˈ
@@ -695,7 +695,7 @@ Original Word: colher -> Processed Word: coˈlher
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: comboio -> Processed Word: comˈboio
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
 
 Original Word: comida -> Processed Word: coˈmida
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -944,7 +944,7 @@ Original Word: idade -> Processed Word: iˈdade
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: ideia -> Processed Word: iˈdeia
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
 
 Original Word: ilha -> Processed Word: ˈilha
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -1040,7 +1040,7 @@ Original Word: madeira -> Processed Word: maˈdeira
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: maio -> Processed Word: ˈmaio
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
 
 Original Word: mala -> Processed Word: ˈmala
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -1091,10 +1091,10 @@ Original Word: medo -> Processed Word: ˈmedo
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: meia -> Processed Word: ˈmeia
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
 
 Original Word: meio -> Processed Word: ˈmeio
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
 
 Original Word: mel -> Processed Word: ˈmel
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
@@ -1280,7 +1280,7 @@ Original Word: povo -> Processed Word: ˈpovo
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: praia -> Processed Word: ˈpraia
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu)[aoe]$)->ˈ
 
 Original Word: prato -> Processed Word: ˈprato
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
