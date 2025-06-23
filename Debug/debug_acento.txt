@@ -1136,7 +1136,7 @@ Original Word: mundo -> Processed Word: ˈmundo
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: museu -> Processed Word: muˈseu
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?<!s)(?=s(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
 
 Original Word: música -> Processed Word: ˈmúsica
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
