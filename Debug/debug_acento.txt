@@ -212,7 +212,7 @@ Original Word: ainda -> Processed Word: aˈinda
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<=[aeio])(?=[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: ali -> Processed Word: aˈli
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[i]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[i]$)->ˈ
 
 Original Word: amanhã -> Processed Word: amaˈnhã
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
@@ -221,7 +221,7 @@ Original Word: apenas -> Processed Word: apeˈnas
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: aqui -> Processed Word: aˈqui
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[i]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[i]$)->ˈ
 
 Original Word: assim -> Processed Word: aˈssim
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aiou][m]$)->ˈ
