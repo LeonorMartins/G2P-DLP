@@ -1601,7 +1601,7 @@ Original Word: este -> Processed Word: ˈeste
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrs](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: eu -> Processed Word: ˈeu
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(ai|ei|oi|ui|au|eu|iu|ou)$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=^(ai|ei|oi|ui|au|eu|iu|ou)$)->ˈ
 
 Original Word: isso -> Processed Word: ˈisso
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
