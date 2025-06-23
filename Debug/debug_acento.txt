@@ -1343,7 +1343,7 @@ Original Word: região -> Processed Word: regiˈão
 Pattern Applied: (?<=[aeiou])(?=(ão))->ˈ
 
 Original Word: rei -> Processed Word: ˈrei
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?<![pbtdcgfvr])(?=r(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
 
 Original Word: respeito -> Processed Word: resˈpeito
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
