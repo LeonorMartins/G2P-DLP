@@ -1718,7 +1718,7 @@ Original Word: brincar -> Processed Word: brinˈcar
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: cair -> Processed Word: caˈir
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<=a)(?=i[r]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?<=a)(?=i[r]$)->ˈ
 
 Original Word: cantar -> Processed Word: canˈtar
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
@@ -2045,7 +2045,7 @@ Original Word: saber -> Processed Word: saˈber
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: sair -> Processed Word: saˈir
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<=a)(?=i[r]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?<=a)(?=i[r]$)->ˈ
 
 Original Word: saltar -> Processed Word: salˈtar
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
