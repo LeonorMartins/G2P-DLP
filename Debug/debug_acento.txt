@@ -932,7 +932,7 @@ Original Word: horário -> Processed Word: hoˈrário
 Pattern Applied: (?<![pbtdcgfvr])(?=r[áàâãéèêíìîóòôúùû])->ˈ
 
 Original Word: horta -> Processed Word: ˈhorta
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<![cln])(?=h(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrs](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?<![cln])(?=h(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrs](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: hospital -> Processed Word: hospiˈtal
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
