@@ -1757,7 +1757,7 @@ Original Word: contar -> Processed Word: conˈtar
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: continuar -> Processed Word: continuˈar
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<=[bcçdfhjklmnpsrtvxwz]u)(?=a[rszl]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?<=[bcçdfhjklmnpsrtvxwz]u)(?=a[rszl]$)->ˈ
 
 Original Word: conversar -> Processed Word: converˈsar
 Pattern Applied: (?<!ˈ.*)(?<!s)(?=s(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu|ou)[rlsz]$)->ˈ
