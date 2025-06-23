@@ -368,13 +368,13 @@ Original Word: quando -> Processed Word: ˈquando
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: ah -> Processed Word: ˈah
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(ah|oh)$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=^(ah|oh)$)->ˈ
 
 Original Word: ó -> Processed Word: ˈó
 Pattern Applied: (?=^[áàâéèêíìîóòôúùû])->ˈ
 
 Original Word: oh -> Processed Word: ˈoh
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(ah|oh)$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=^(ah|oh)$)->ˈ
 
 Original Word: olá -> Processed Word: oˈlá
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
