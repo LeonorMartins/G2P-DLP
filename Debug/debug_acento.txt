@@ -65,7 +65,7 @@ Original Word: doce -> Processed Word: ˈdoce
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: enorme -> Processed Word: eˈnorme
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: escuro -> Processed Word: esˈcuro
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -86,10 +86,10 @@ Original Word: fino -> Processed Word: ˈfino
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: forte -> Processed Word: ˈforte
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: fresco -> Processed Word: ˈfresco
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: frio -> Processed Word: ˈfrio
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|l|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[ieo][aoe]$)->ˈ
@@ -188,7 +188,7 @@ Original Word: sozinho -> Processed Word: soˈzinho
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: triste -> Processed Word: ˈtriste
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: último -> Processed Word: ˈúltimo
 Pattern Applied: (?=^[áàâéèêíìîóòôúùû])->ˈ
@@ -293,7 +293,7 @@ Original Word: menos -> Processed Word: meˈnos
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: mesmo -> Processed Word: ˈmesmo
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: muito -> Processed Word: ˈmuito
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -359,7 +359,7 @@ Original Word: tão -> Processed Word: ˈtão
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
 
 Original Word: tarde -> Processed Word: ˈtarde
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: enquanto -> Processed Word: enˈquanto
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -398,10 +398,10 @@ Original Word: açúcar -> Processed Word: aˈçúcar
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
 
 Original Word: adulto -> Processed Word: aˈdulto
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: agosto -> Processed Word: aˈgosto
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: água -> Processed Word: ˈágua
 Pattern Applied: (?=^[áàâéèêíìîóòôúùû])->ˈ
@@ -503,10 +503,10 @@ Original Word: banho -> Processed Word: ˈbanho
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: barba -> Processed Word: ˈbarba
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: barco -> Processed Word: ˈbarco
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: barulho -> Processed Word: baˈrulho
 Pattern Applied: (?<!ˈ.*)(?<![pbtdcgfvr])(?=r(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -533,7 +533,7 @@ Original Word: bilhete -> Processed Word: biˈlhete
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: boa-tarde -> Processed Word: boa-ˈtarde
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: boca -> Processed Word: ˈboca
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -572,7 +572,7 @@ Original Word: cabelo -> Processed Word: caˈbelo
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: caderno -> Processed Word: caˈderno
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: café -> Processed Word: caˈfé
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
@@ -611,19 +611,19 @@ Original Word: carnaval -> Processed Word: carnaˈval
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: carne -> Processed Word: ˈcarne
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: carro -> Processed Word: ˈcarro
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: carta -> Processed Word: ˈcarta
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: casa -> Processed Word: ˈcasa
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: casca -> Processed Word: ˈcasca
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: caso -> Processed Word: ˈcaso
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -725,13 +725,13 @@ Original Word: coração -> Processed Word: coraˈção
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
 
 Original Word: corda -> Processed Word: ˈcorda
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: corpo -> Processed Word: ˈcorpo
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: costa -> Processed Word: ˈcosta
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: cozinha -> Processed Word: coˈzinha
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -758,10 +758,10 @@ Original Word: dente -> Processed Word: ˈdente
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: desculpa -> Processed Word: desˈculpa
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: desporto -> Processed Word: desˈporto
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: deus -> Processed Word: ˈdeus
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
@@ -839,13 +839,13 @@ Original Word: férias -> Processed Word: ˈférias
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
 
 Original Word: festa -> Processed Word: ˈfesta
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: filho -> Processed Word: ˈfilho
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: filme -> Processed Word: ˈfilme
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: fim -> Processed Word: ˈfim
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aiou][m]$)->ˈ
@@ -860,16 +860,16 @@ Original Word: folha -> Processed Word: ˈfolha
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: força -> Processed Word: ˈforça
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: forma -> Processed Word: ˈforma
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: formiga -> Processed Word: forˈmiga
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: forno -> Processed Word: ˈforno
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: frase -> Processed Word: ˈfrase
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -908,7 +908,7 @@ Original Word: golo -> Processed Word: ˈgolo
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: gosto -> Processed Word: ˈgosto
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: gota -> Processed Word: ˈgota
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -956,7 +956,7 @@ Original Word: início -> Processed Word: iˈnício
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
 
 Original Word: inverno -> Processed Word: inˈverno
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: irmão -> Processed Word: irˈmão
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
@@ -1067,10 +1067,10 @@ Original Word: mar -> Processed Word: ˈmar
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: marca -> Processed Word: ˈmarca
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: março -> Processed Word: ˈmarço
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: margarina -> Processed Word: margaˈrina
 Pattern Applied: (?<!ˈ.*)(?<![pbtdcgfvr])(?=r(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -1124,10 +1124,10 @@ Original Word: montanha -> Processed Word: monˈtanha
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: morte -> Processed Word: ˈmorte
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: mosca -> Processed Word: ˈmosca
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: mulher -> Processed Word: muˈlher
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
@@ -1217,7 +1217,7 @@ Original Word: parede -> Processed Word: paˈrede
 Pattern Applied: (?<!ˈ.*)(?<![pbtdcgfvr])(?=r(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: parte -> Processed Word: ˈparte
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: pássaro -> Processed Word: ˈpássaro
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
@@ -1253,7 +1253,7 @@ Original Word: pergunta -> Processed Word: perˈgunta
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: perna -> Processed Word: ˈperna
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: pessoa -> Processed Word: peˈssoa
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|l|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[ieo][aoe]$)->ˈ
@@ -1274,7 +1274,7 @@ Original Word: ponto -> Processed Word: ˈponto
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: porta -> Processed Word: ˈporta
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: povo -> Processed Word: ˈpovo
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -1310,7 +1310,7 @@ Original Word: programa -> Processed Word: proˈgrama
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: quarto -> Processed Word: ˈquarto
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: queijo -> Processed Word: ˈqueijo
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -1349,13 +1349,13 @@ Original Word: respeito -> Processed Word: resˈpeito
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: resposta -> Processed Word: resˈposta
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: restaurante -> Processed Word: restauˈrante
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: revista -> Processed Word: reˈvista
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: rio -> Processed Word: ˈrio
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r[ieo][aoe]$)->ˈ
@@ -1439,7 +1439,7 @@ Original Word: tapete -> Processed Word: taˈpete
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: tarde -> Processed Word: ˈtarde
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: televisão -> Processed Word: televiˈsão
 Pattern Applied: (?<!s)(?=s[áàâãéèêíìîóòôúùû])->ˈ
@@ -1454,7 +1454,7 @@ Original Word: terra -> Processed Word: ˈterra
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: texto -> Processed Word: ˈtexto
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: tio -> Processed Word: ˈtio
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|l|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[ieo][aoe]$)->ˈ
@@ -1469,7 +1469,7 @@ Original Word: tronco -> Processed Word: ˈtronco
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: turma -> Processed Word: ˈturma
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: urso -> Processed Word: ˈurso
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrs](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -1514,7 +1514,7 @@ Original Word: vizinho -> Processed Word: viˈzinho
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: volta -> Processed Word: ˈvolta
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: vontade -> Processed Word: vonˈtade
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -1562,7 +1562,7 @@ Original Word: contra -> Processed Word: ˈcontra
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: desde -> Processed Word: ˈdesde
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: durante -> Processed Word: duˈrante
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfvr])(?=r[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -1592,7 +1592,7 @@ Original Word: cada -> Processed Word: ˈcada
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: certo -> Processed Word: ˈcerto
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)[lrsx](b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: esse -> Processed Word: ˈesse
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
