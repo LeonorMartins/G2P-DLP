@@ -1082,7 +1082,7 @@ Original Word: mata -> Processed Word: ˈmata
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: material -> Processed Word: materiˈal
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<=[ieo])(?=[aeo][rszl]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?<=[ieo])(?=[aeo][rszl]$)->ˈ
 
 Original Word: médico -> Processed Word: ˈmédico
 Pattern Applied: (?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[áàâãéèêíìîóòôúùû])->ˈ
@@ -1832,7 +1832,7 @@ Original Word: entregar -> Processed Word: entreˈgar
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: enviar -> Processed Word: enviˈar
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<=[ieo])(?=[aeo][rszl]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?<=[ieo])(?=[aeo][rszl]$)->ˈ
 
 Original Word: escolher -> Processed Word: escoˈlher
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
@@ -1985,7 +1985,7 @@ Original Word: passar -> Processed Word: paˈssar
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: passear -> Processed Word: passeˈar
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<=[ieo])(?=[aeo][rszl]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?<=[ieo])(?=[aeo][rszl]$)->ˈ
 
 Original Word: pedir -> Processed Word: peˈdir
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
@@ -2132,7 +2132,7 @@ Original Word: viver -> Processed Word: viˈver
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
 
 Original Word: voar -> Processed Word: voˈar
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<=[ieo])(?=[aeo][rszl]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?<=[ieo])(?=[aeo][rszl]$)->ˈ
 
 Original Word: voltar -> Processed Word: volˈtar
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
