@@ -122,7 +122,7 @@ Original Word: longo -> Processed Word: ˈlongo
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<![pbtdcgfv])(?=l[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: mau -> Processed Word: ˈmau
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
 
 Original Word: natural -> Processed Word: natuˈral
 Pattern Applied: (?<!ˈ.*)(?<![pbtdcgfvr])(?=r(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu|ou)[rlsz]$)->ˈ
@@ -494,7 +494,7 @@ Original Word: azeite -> Processed Word: aˈzeite
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: bacalhau -> Processed Word: bacaˈlhau
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
 
 Original Word: bairro -> Processed Word: ˈbairro
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -539,7 +539,7 @@ Original Word: boca -> Processed Word: ˈboca
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: boi -> Processed Word: ˈboi
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
 
 Original Word: bola -> Processed Word: ˈbola
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
@@ -1196,7 +1196,7 @@ Original Word: padre -> Processed Word: ˈpadre
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: pai -> Processed Word: ˈpai
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
 
 Original Word: país -> Processed Word: paˈís
 Pattern Applied: (?<=a)(?=[íú])->ˈ
@@ -1229,7 +1229,7 @@ Original Word: pata -> Processed Word: ˈpata
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: pau -> Processed Word: ˈpau
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(ai|ei|oi|ui|ao|au|eu|iu|ou)$)->ˈ
 
 Original Word: paz -> Processed Word: ˈpaz
 Pattern Applied: (?<!ˈ.*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|q|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ei|oi|ui|ao|au|eu|iu)[rlsz]$)->ˈ
