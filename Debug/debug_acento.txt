@@ -338,7 +338,7 @@ Original Word: sempre -> Processed Word: ˈsempre
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s[aeiou][mn](b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: sim -> Processed Word: ˈsim
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^[hlrs][aiou][m]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=^[hlrs][aiou][m]$)->ˈ
 
 Original Word: só -> Processed Word: ˈsó
 Pattern Applied: (?<!s)(?=s[áàâãéèêíìîóòôúùû])->ˈ
@@ -1418,7 +1418,7 @@ Original Word: soldado -> Processed Word: solˈdado
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=(b|c|ç|d|f|gu|g|ch|nh|lh|j|m|n|p|qu|rr|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
 
 Original Word: som -> Processed Word: ˈsom
-Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?=^[hlrs][aiou][m]$)->ˈ
+Pattern Applied: (?<!ˈ.*)(?=^[hlrs][aiou][m]$)->ˈ
 
 Original Word: sonho -> Processed Word: ˈsonho
 Pattern Applied: (?<![áàãâéèêíìîóòõôúùû].*)(?<!s)(?=s(a|e|i|o|u|ai|ei|oi|ui|ao|au|eu|iu|ou)(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl)[aoe]$)->ˈ
