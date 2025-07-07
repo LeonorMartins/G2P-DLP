@@ -32,61 +32,62 @@ T30,Seleciona a palavra <muito>,muitu,mũj̃tu,Origin Word: ˈmuitu -> Processe
 T31,Seleciona todos os <ai>,ai,aj,Origin Word: ˈmais -> Processed Word: ˈmajs
 T32,Seleciona todos os <ei>,ei,ɐj,Origin Word: ˈfeirɐ -> Processed Word: ˈfɐjrɐ
 T33,Seleciona todos os <oi>,oi,oj,Origin Word: ˈnoitɨ -> Processed Word: ˈnojtɨ
-T34,"Seleciona todos os <ui>, à exceção dos que se encontram precedidos de <g> ou <q>",(?<![gq])ui,uj,Origin Word: cuiˈdar -> Processed Word: cujˈdar
-T35,Seleciona todos os <au> e <ao>,(au|ao),aw,Origin Word: ˈmau -> Processed Word: ˈmaw
-T36,Seleciona todos os <eu>,eu,ew,Origin Word: ˈdeus -> Processed Word: ˈdews
-T37,Seleciona todos os <éu>,éu,ɛw,Origin Word: ˈcéu -> Processed Word: ˈcɛw
-T38,Seleciona todos os <í>,í,i,Origin Word: iˈníciu -> Processed Word: iˈniciu
-T39,Seleciona todos os <é>,é,ɛ,Origin Word: ˈpé -> Processed Word: ˈpɛ
-T40,Seleciona todos os <ú>,ú,u,Origin Word: ˈúnicu -> Processed Word: ˈunicu
-T41,Seleciona todos os <ó>,ó,ɔ,Origin Word: ˈsó -> Processed Word: ˈsɔ
-T42,Seleciona todos os <á>,á,a,Origin Word: ˈʒá -> Processed Word: ˈʒa
-T43,Seleciona todos os <l> em coda silábica no interior de palavra,(?<=[aɐeêɛɨijoôɔuw])l(?=[ˈ bcçdfgʒklmnpqrstvxz]),ɫ,Origin Word: ˈaltu -> Processed Word: ˈaɫtu
-T44,Seleciona todos os <l> em coda silábica no final de palavra,$l,ɫ,Origin Word: loˈcal -> Processed Word: luˈcaɫ
-T45,Seleciona todos os <e> átonos seguidos de /l/ em coda silábica,(?<!ˈ(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl))e(?=ɫ),ɛ,Origin Word: puˈssiveɫ -> Processed Word: puˈssivɛɫ
-T46,Seleciona todos os <a> átonos em fronteira inicial de palavra,(?<!ˈ)^a(?![jwɫ]),ɐ,Origin Word: aˈmar -> Processed Word: ɐˈmar
-T47,Seleciona todos os <o> átonos em fronteira inicial de palavra,(?<!ˈ)^o(?![juɫ]),ɔ / o,Origin Word: oˈlhar -> Processed Word: ɔ / oˈlhar
-T48,Seleciona todos os <e> átonos em fronteira inicial de palavra,(?<!ˈ)^e(?![juɫs̃]),e / i,Origin Word: eˈquipɐ -> Processed Word: e / iˈquipɐ
-T49,Seleciona todos os <es> átonos em fronteira inicial de palavra,(?<!ˈ)^es(?![aaɐeêɛɨioôɔuwɐ̃ẽĩõũ]),ɨʃ,Origin Word: esˈcolɐ -> Processed Word: ɨʃˈcolɐ
-T50,"Seleciona todos os <a> (tónicos) seguidos de consoante nasal  <m>, <n> ou <nh>",a(?=(m|n|nh)),ɐ,Origin Word: ˈramu -> Processed Word: ˈrɐmu
-T51,Seleciona todos os <o> tónicos,(?<=ˈ(b|c|ch|d|f|g|ʒ|l|lh|m|n|nh|p|q|r|rr|ss|s|t|v|x|z|pr|br|tr|dr|kr|gr|fr|vr|pl|bl|kl|gl|fl))o(?![ju])(?!õô),/O/,Origin Word: ˈdocɨ -> Processed Word: ˈd/O/cɨ
-T52,Seleciona todos os <o> tónicos em fronteira inicial de palavra,(?<=ˈ)o(?![ju])(?!õ),/O/,Origin Word: ˈoʒɨ -> Processed Word: ˈ/O/ʒɨ
-T52,Seleciona todos os <ô>,ô,o,Origin Word: ˈpôr -> Processed Word: ˈpor
-T54,Seleciona todos os <ou>,ou,o,Origin Word: ouˈvir -> Processed Word: oˈvir
-T55,Seleciona todos os <e> tónicos,(?<=ˈ(b|c|ch|d|f|g|gu|ʒ|l|lh|m|n|nh|p|q|qu|r|rr|ss|s|t|v|x|z|pr|br|tr|dr|kr|gr|fr|vr|pl|bl|kl|gl|fl))e(?![̃w]),/E/,Origin Word: ˈvez -> Processed Word: ˈv/E/z
-T56,Seleciona todos os <e> tónicos em fronteira inicial de palavra,(?<=ˈ)e(?![̃w]),/E/,Origin Word: ˈestɨ -> Processed Word: ˈ/E/stɨ
-T57,Seleciona todos os <ê>,ê,e,Origin Word: purˈquê -> Processed Word: purˈque
-T58,Seleciona todos os <ch>,ch,ʃ,Origin Word: ˈchɐ̃w̃ -> Processed Word: ˈʃɐ̃w̃
-T59,Seleciona todos os <nh>,nh,ɲ,Origin Word: ˈbanhu -> Processed Word: ˈbaɲu
-T60,Seleciona todos os <lh>,lh,ʎ,Origin Word: oˈlhar -> Processed Word: oˈʎar
-T61,Seleciona todos os <x>,x,ʃ,Origin Word: puˈxar -> Processed Word: puˈʃar
-T62,"Seleciona todos os <b> em posição intervocálica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))b(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),β,Origin Word: ˈsabɐdu -> Processed Word: ˈsaβɐdu
-T63,"Seleciona todos os <b> em ataque de sílaba tónica, em posição intervocálica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|o|ɔ|/O/|u|j|w)ˈ)b(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),β,Origin Word: sɐˈbor -> Processed Word: sɐˈβor
-T64,"Seleciona todos os <d> em posição intervocálica tónica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))d(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ð,Origin Word: ˈmodu -> Processed Word: ˈmoðu
-T65,"Seleciona todos os <d> em posição intervocálica tónica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|o|ɔ|/O/|u|j|w)ˈ)d(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ð,Origin Word: ɐˈduɫtu -> Processed Word: ɐˈðuɫtu
-T56,Seleciona todos os <g> seguidos de <e> ou <i>,g(?=(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ)),ʒ,Origin Word: fuˈgir -> Processed Word: fuˈʒir
-T67,Seleciona todos os <gu> seguidos de <e> ou <i>,gu(?=(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ)),g,Origin Word: ˈguerrɐ -> Processed Word: ˈgerrɐ
-T68,Seleciona todos os <gu> seguidos de <a>,gu(?=(a|ɐ|ɐ̃)),gʷ,Origin Word: iˈguaɫ -> Processed Word: iˈgʷaɫ
-T69,"Seleciona todos os <g> em posição intervocálica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))g(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ɣ,Origin Word: ˈʒogu -> Processed Word: ˈʒoɣu
-T70,"Seleciona todos os <g> em posição intervocálica tónica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|o|ɔ|/O/|u|j|w)ˈ)g(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ɣ,Origin Word: pɐˈgar -> Processed Word: pɐˈɣar
-T71,Seleciona todos os <s> em posição intervocálica,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))s(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w)),z,Origin Word: ˈasɐ -> Processed Word: ˈazɐ
-T72,Seleciona todos os <s> em posição intervocálica tónica,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w)ˈ)s(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w)),z,Origin Word: cɐˈsar -> Processed Word: cɐˈzar
-T73,Seleciona todos os <ç>,ç,s,Origin Word: ˈforçɐ -> Processed Word: ˈforsɐ
-T74,Seleciona todos os <c> à exceção dos que se encontram seguidos por ,c(?!(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ)),k,Origin Word: ˈmarcɐ -> Processed Word: ˈmarkɐ
-T75,Seleciona todos os <c> seguidos de ,c(?=(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ)),s,Origin Word: ˈcertu -> Processed Word: ˈsertu
-T76,Seleciona todos os <ss>,s{2},s,Origin Word: ˈissu -> Processed Word: ˈisu
-T77,Seleciona todos os <s> seguidos de consoante surda ,s(?=[ptkfs]),ʃ,Origin Word: ˈistu -> Processed Word: ˈiʃtu
-T78,Seleciona todos os <s> tónicos seguidos de consoante surda,s(?=ˈ[ptkfs]),ʃ,Origin Word: nɐsˈser -> Processed Word: nɐʃˈser
-T79,Seleciona todos os <s> seguidos de consoante sonora,s(?=[bdgmnɲrvzlʎ]),ʒ,Origin Word: ˈmesmu -> Processed Word: ˈmeʒmu
-T80,Seleciona todos os <s> em coda silábica no final de palavra,s$,ʃ,Origin Word: ˈmajs -> Processed Word: ˈmajʃ
-T81,Seleciona todos os <z> em coda silábica no final de palavra,z$,ʃ,Origin Word: ɐˈrroz -> Processed Word: ɐˈrroʃ
-T82,Seleciona todos os <qu> seguidos de <e> e <i>,qu(?=(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ)),k,Origin Word: ɐˈqui -> Processed Word: ɐˈki
-T83,Seleciona todos os <qu> seguidos de <a>,qu(?=(a|ɐ|ɐ̃)),kʷ,Origin Word: ˈquɐ̃du -> Processed Word: ˈkʷɐ̃du
-T84,Seleciona todos os <r> em fronteira inicial de palavra,^r,ʀ,Origin Word: rɐˈpaz -> Processed Word: ʀɐˈpaz
-T85,Seleciona todos os <r> tónicos em fronteira inicial de palavra,^(?<=[ˈ])r,ʀ,Origin Word: ˈrɐj -> Processed Word: ʀɐj
-T86,Seleciona todos os <rr>,r{2},ʀ,Origin Word: ˈterrɐ -> Processed Word: ˈteʀɐ
-T87,Seleciona todos os <r> em coda silábica no interior de palavra,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))r(?=[ˈbdfgʃɲʎʒklmnpstvz]),ɾ,Origin Word: ˈursu -> Processed Word: ˈuɾsu
-T88,Seleciona todos os <r> em coda silábica no final de palavra,r$,ɾ,Origin Word: ɐˈmor -> Processed Word: ɐˈmoɾ
-T89,Seleciona todos os <r> em posição intervocálica,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))r(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ɾ,Origin Word: ˈkaru -> Processed Word: ˈkaɾu
-T90,Seleciona todos os <r> em posição intervocálica tónica,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w)ˈ)r(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ɾ,Origin Word: nɐtuˈraɫ -> Processed Word: nɐtuˈɾaɫ
-T91,Seleciona todos os <r> pertencentes a um grupo consonântico próprio,(?<=[pbtdkgfv])r,ɾ,Origin Word: ˈfriu -> Processed Word: ˈfɾiu
+T34, Seleciona todos os <kõˈboiu>,kõˈboiu,kõˈbɔju,Origin Word: kõˈboiu -> Processed Word: kõˈbɔju
+T35,Seleciona todos os <ui>, à exceção dos que se encontram precedidos de <g> ou <q>",(?<![gq])ui,uj,Origin Word: cuiˈdar -> Processed Word: cujˈdar
+T36,Seleciona todos os <au> e <ao>,(au|ao),aw,Origin Word: ˈmau -> Processed Word: ˈmaw
+T37,Seleciona todos os <eu>,eu,ew,Origin Word: ˈdeus -> Processed Word: ˈdews
+T38,Seleciona todos os <éu>,éu,ɛw,Origin Word: ˈcéu -> Processed Word: ˈcɛw
+T39,Seleciona todos os <í>,í,i,Origin Word: iˈníciu -> Processed Word: iˈniciu
+T40,Seleciona todos os <é>,é,ɛ,Origin Word: ˈpé -> Processed Word: ˈpɛ
+T41,Seleciona todos os <ú>,ú,u,Origin Word: ˈúnicu -> Processed Word: ˈunicu
+T42,Seleciona todos os <ó>,ó,ɔ,Origin Word: ˈsó -> Processed Word: ˈsɔ
+T43,Seleciona todos os <á>,á,a,Origin Word: ˈʒá -> Processed Word: ˈʒa
+T44,Seleciona todos os <l> em coda silábica no interior de palavra,(?<=[aɐeêɛɨijoôɔuw])l(?=[ˈ bcçdfgʒklmnpqrstvxz]),ɫ,Origin Word: ˈaltu -> Processed Word: ˈaɫtu
+T45,Seleciona todos os <l> em coda silábica no final de palavra,$l,ɫ,Origin Word: loˈcal -> Processed Word: luˈcaɫ
+T46,Seleciona todos os <e> átonos seguidos de /l/ em coda silábica,(?<!ˈ(b|c|ç|d|f|gu|g|ch|nh|lh|j|l|m|n|p|qu|r|rr|s|ss|t|v|x|z|pr|br|tr|dr|cr|gr|fr|vr|pl|bl|cl|gl|fl))e(?=ɫ),ɛ,Origin Word: puˈssiveɫ -> Processed Word: puˈssivɛɫ
+T47,Seleciona todos os <a> átonos em fronteira inicial de palavra,(?<!ˈ)^a(?![jwɫ]),ɐ,Origin Word: aˈmar -> Processed Word: ɐˈmar
+T48,Seleciona todos os <o> átonos em fronteira inicial de palavra,(?<!ˈ)^o(?![juɫ]),ɔ / o,Origin Word: oˈlhar -> Processed Word: ɔ / oˈlhar
+T49,Seleciona todos os <e> átonos em fronteira inicial de palavra,(?<!ˈ)^e(?![juɫs̃]),e / i,Origin Word: eˈquipɐ -> Processed Word: e / iˈquipɐ
+T50,Seleciona todos os <es> átonos em fronteira inicial de palavra,(?<!ˈ)^es(?![aaɐeêɛɨioôɔuwɐ̃ẽĩõũ]),ɨʃ,Origin Word: esˈcolɐ -> Processed Word: ɨʃˈcolɐ
+T51,"Seleciona todos os <a> (tónicos) seguidos de consoante nasal  <m>, <n> ou <nh>",a(?=(m|n|nh)),ɐ,Origin Word: ˈramu -> Processed Word: ˈrɐmu
+T52,Seleciona todos os <o> tónicos,(?<=ˈ(b|c|ch|d|f|g|ʒ|l|lh|m|n|nh|p|q|r|rr|ss|s|t|v|x|z|pr|br|tr|dr|kr|gr|fr|vr|pl|bl|kl|gl|fl))o(?![ju])(?!õô),/O/,Origin Word: ˈdocɨ -> Processed Word: ˈd/O/cɨ
+T53,Seleciona todos os <o> tónicos em fronteira inicial de palavra,(?<=ˈ)o(?![ju])(?!õ),/O/,Origin Word: ˈoʒɨ -> Processed Word: ˈ/O/ʒɨ
+T54,Seleciona todos os <ô>,ô,o,Origin Word: ˈpôr -> Processed Word: ˈpor
+T55,Seleciona todos os <ou>,ou,o,Origin Word: ouˈvir -> Processed Word: oˈvir
+T56,Seleciona todos os <e> tónicos,(?<=ˈ(b|c|ch|d|f|g|gu|ʒ|l|lh|m|n|nh|p|q|qu|r|rr|ss|s|t|v|x|z|pr|br|tr|dr|kr|gr|fr|vr|pl|bl|kl|gl|fl))e(?![̃w]),/E/,Origin Word: ˈvez -> Processed Word: ˈv/E/z
+T57,Seleciona todos os <e> tónicos em fronteira inicial de palavra,(?<=ˈ)e(?![̃w]),/E/,Origin Word: ˈestɨ -> Processed Word: ˈ/E/stɨ
+T58,Seleciona todos os <ê>,ê,e,Origin Word: purˈquê -> Processed Word: purˈque
+T59,Seleciona todos os <ch>,ch,ʃ,Origin Word: ˈchɐ̃w̃ -> Processed Word: ˈʃɐ̃w̃
+T60,Seleciona todos os <nh>,nh,ɲ,Origin Word: ˈbanhu -> Processed Word: ˈbaɲu
+T61,Seleciona todos os <lh>,lh,ʎ,Origin Word: oˈlhar -> Processed Word: oˈʎar
+T62,Seleciona todos os <x>,x,ʃ,Origin Word: puˈxar -> Processed Word: puˈʃar
+T63,"Seleciona todos os <b> em posição intervocálica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))b(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),β,Origin Word: ˈsabɐdu -> Processed Word: ˈsaβɐdu
+T64,"Seleciona todos os <b> em ataque de sílaba tónica, em posição intervocálica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|o|ɔ|/O/|u|j|w)ˈ)b(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),β,Origin Word: sɐˈbor -> Processed Word: sɐˈβor
+T65,"Seleciona todos os <d> em posição intervocálica tónica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))d(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ð,Origin Word: ˈmodu -> Processed Word: ˈmoðu
+T66,"Seleciona todos os <d> em posição intervocálica tónica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|o|ɔ|/O/|u|j|w)ˈ)d(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ð,Origin Word: ɐˈduɫtu -> Processed Word: ɐˈðuɫtu
+T67,Seleciona todos os <g> seguidos de <e> ou <i>,g(?=(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ)),ʒ,Origin Word: fuˈgir -> Processed Word: fuˈʒir
+T68,Seleciona todos os <gu> seguidos de <e> ou <i>,gu(?=(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ)),g,Origin Word: ˈguerrɐ -> Processed Word: ˈgerrɐ
+T69,Seleciona todos os <gu> seguidos de <a>,gu(?=(a|ɐ|ɐ̃)),gʷ,Origin Word: iˈguaɫ -> Processed Word: iˈgʷaɫ
+T70,"Seleciona todos os <g> em posição intervocálica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))g(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ɣ,Origin Word: ˈʒogu -> Processed Word: ˈʒoɣu
+T71,"Seleciona todos os <g> em posição intervocálica tónica, à exceção dos que se encontram parecidos de vogal ou glide nasal",(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|o|ɔ|/O/|u|j|w)ˈ)g(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ɣ,Origin Word: pɐˈgar -> Processed Word: pɐˈɣar
+T72,Seleciona todos os <s> em posição intervocálica,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))s(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w)),z,Origin Word: ˈasɐ -> Processed Word: ˈazɐ
+T73,Seleciona todos os <s> em posição intervocálica tónica,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w)ˈ)s(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w)),z,Origin Word: cɐˈsar -> Processed Word: cɐˈzar
+T74,Seleciona todos os <ç>,ç,s,Origin Word: ˈforçɐ -> Processed Word: ˈforsɐ
+T75,Seleciona todos os <c> à exceção dos que se encontram seguidos por ,c(?!(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ)),k,Origin Word: ˈmarcɐ -> Processed Word: ˈmarkɐ
+T76,Seleciona todos os <c> seguidos de ,c(?=(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ)),s,Origin Word: ˈcertu -> Processed Word: ˈsertu
+T77,Seleciona todos os <ss>,s{2},s,Origin Word: ˈissu -> Processed Word: ˈisu
+T78,Seleciona todos os <s> seguidos de consoante surda ,s(?=[ptkfs]),ʃ,Origin Word: ˈistu -> Processed Word: ˈiʃtu
+T79,Seleciona todos os <s> tónicos seguidos de consoante surda,s(?=ˈ[ptkfs]),ʃ,Origin Word: nɐsˈser -> Processed Word: nɐʃˈser
+T80,Seleciona todos os <s> seguidos de consoante sonora,s(?=[bdgmnɲrvzlʎ]),ʒ,Origin Word: ˈmesmu -> Processed Word: ˈmeʒmu
+T81,Seleciona todos os <s> em coda silábica no final de palavra,s$,ʃ,Origin Word: ˈmajs -> Processed Word: ˈmajʃ
+T82,Seleciona todos os <z> em coda silábica no final de palavra,z$,ʃ,Origin Word: ɐˈrroz -> Processed Word: ɐˈrroʃ
+T83,Seleciona todos os <qu> seguidos de <e> e <i>,qu(?=(ɐj|ɐ̃j̃|e|ɛ|/E/|ẽ|i|ĩ|ɨ)),k,Origin Word: ɐˈqui -> Processed Word: ɐˈki
+T84,Seleciona todos os <qu> seguidos de <a>,qu(?=(a|ɐ|ɐ̃)),kʷ,Origin Word: ˈquɐ̃du -> Processed Word: ˈkʷɐ̃du
+T85,Seleciona todos os <r> em fronteira inicial de palavra,^r,ʀ,Origin Word: rɐˈpaz -> Processed Word: ʀɐˈpaz
+T86,Seleciona todos os <r> tónicos em fronteira inicial de palavra,^(?<=[ˈ])r,ʀ,Origin Word: ˈrɐj -> Processed Word: ʀɐj
+T87,Seleciona todos os <rr>,r{2},ʀ,Origin Word: ˈterrɐ -> Processed Word: ˈteʀɐ
+T88,Seleciona todos os <r> em coda silábica no interior de palavra,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))r(?=[ˈbdfgʃɲʎʒklmnpstvz]),ɾ,Origin Word: ˈursu -> Processed Word: ˈuɾsu
+T89,Seleciona todos os <r> em coda silábica no final de palavra,r$,ɾ,Origin Word: ɐˈmor -> Processed Word: ɐˈmoɾ
+T90,Seleciona todos os <r> em posição intervocálica,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w))r(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ɾ,Origin Word: ˈkaru -> Processed Word: ˈkaɾu
+T91,Seleciona todos os <r> em posição intervocálica tónica,(?<=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w)ˈ)r(?=(a|ɐ|e|ɛ|/E/|ɨ|i|j|o|ɔ|/O/|u|w|ɐ̃|ẽ|ĩ|õ|ũ|j̃|w̃)),ɾ,Origin Word: nɐtuˈraɫ -> Processed Word: nɐtuˈɾaɫ
+T92,Seleciona todos os <r> pertencentes a um grupo consonântico próprio,(?<=[pbtdkgfv])r,ɾ,Origin Word: ˈfriu -> Processed Word: ˈfɾiu
