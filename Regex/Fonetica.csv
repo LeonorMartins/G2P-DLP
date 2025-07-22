@@ -24,7 +24,7 @@ T22,"Seleciona todas as sequências finais de <i>, seguidos de marcador de nasal
 T23,"Seleciona todas as sequências finais de <o>, seguidos de marcador de nasalidade <m> ou <n> ",om$,õ,Origin Word: ˈbom -> Processed Word: ˈbõ
 T24,"Seleciona todas as sequências finais de <ã>, à exceção dos que se encontram seguidos de <o>",ã(?!o)$,ɐ̃,Origin Word: mɐˈnhã -> Processed Word: mɐˈnhɐ̃
 T25,"Seleciona todas as sequências finais de <u>, seguidos de marcador de nasalidade <m> ou <n> ",um$,ũ,Origin Word: alˈgum -> Processed Word: alˈgũ
-T26,Seleciona todos os <j> em ataque silábico,(?<=[ˈaáɐɐ̃eéẽɨiĩoóõuúũ])j(?=[aáɐɐ̃eéẽɨiĩoóõuúũ]),ʒ,Origin Word: ˈlojɐ -> Processed Word: ˈloʒɐ
+T26,Seleciona todos os <j> em ataque silábico intervocálico,(?<=[ˈaáɐɐ̃eéẽɨiĩoóõuúũ])j(?=[aáɐɐ̃eéẽɨiĩoóõuúũ]),ʒ,Origin Word: ˈlojɐ -> Processed Word: ˈloʒɐ
 T27,Seleciona todos os <j> em fronteira inicial de palavra,^j,ʒ,Origin Word: jɐrˈdĩ -> Processed Word: ʒɐrˈdĩ
 T28,Seleciona todos os <e> finais seguidos de marcador de nasalidade <m> ou <n>,(ém|em)$,ɐ̃j̃,Origin Word: ˈʒovem -> Processed Word: ˈʒovɐ̃j̃
 T29,Seleciona todos os <ão>,ão,ɐ̃w̃,Origin Word: feiˈʒão -> Processed Word: feiˈʒɐ̃w̃
