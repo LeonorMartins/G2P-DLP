@@ -48,6 +48,10 @@ Cada módulo opera sobre um *corpus* estruturado em tabelas ODS, utilizando regr
 ```
 
 ### Publicações relacionadas
+Martins, L. (2025). [Desenvolvimento de um sistema de conversão grafema-fone[ma] para o Vocabulário Fundamental da Academia das Ciências de Lisboa](https://repositorio-aberto.up.pt/handle/10216/168957). Dissertação de Mestrado. Faculdade de Letras da Universidade do Porto.
+
+Reis, L. (2025). [Vocabulário Fundamental da Academia das Ciências de Lisboa: seleção lexical, alinhamento dos sentidos e codificação](https://run.unl.pt/handle/10362/186964). Dissertação de Mestrado, Universidade NOVA de Lisboa. 
+
 Simões, A., Almeida, J. J. & Salgado, A. (2016). Building a Dictionary Using XML Technology. In *5th Symposium on Languages, Applications and Technologies* (SLATE'16). *Open Access Series in Informatics* (OASIcs), Vol. 51, pp. 14:1-14:8, Schloss Dagstuhl – Leibniz-Zentrum für Informatik. <https://doi.org/10.4230/OASIcs.SLATE.2016.14>
 
 Wilkens, R., Pintard, A., François, T., Barbosa, S., Reis, M. L., Amaro, R., Ribeiro, E., Mamede, N., Baptista, J., Blanco, X., Catena, A., Gauchola, R., & MU, K. (2024). *iRead4Skills – Basic Lexicons per Complexity Level (v1.0)* [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.10889986>
