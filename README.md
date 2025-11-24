@@ -1,53 +1,53 @@
-# Sistema de conversão grafema-fone(ma) e de translineação
-O presente repositório apresenta o sistema de conversão automático concebido para a translineação, marcação da sílaba tónica e transcrição fonética de 730 lemas do Nível 1 do [Vocabulário Fundamental](https://doi.org/10.5281/zenodo.10889986) do [_Dicionário da Língua Portuguesa_ (DLP)](https://dicionario.acad-ciencias.pt/).
+# G2P-DLP (grapheme-to-phoneme converter)
+The present repository presents the automatic conversion system designed for the syllabification, stress marking, and phonetic transcription of the [Vocabulário Fundamental](https://doi.org/10.5281/zenodo.10889986) do [_Dicionário da Língua Portuguesa_ (DLP)](https://dicionario.acad-ciencias.pt/).
 
-Este sistema é composto por três módulos principais, implementados através de  *scripts* Python e demonstrados em *notebooks* Jupyter. Cada módulo realiza uma tarefa específica no processo de conversão:
-## Módulos
+This system is composed of three main modules, implemented through Python scripts and demonstrated in Jupyter notebooks. Each module performs a specific task within the conversion process:
+## Modules
 
-### Sílaba
-Faz a translineação dos 730 lemas, fundamentada em princípios fonológicos silábicos do português.
+### Syllabic Division
+Marks the stressed syllable of the lemmas, following the general stress paradigm of non-verbal Portuguese words.
 
-### Acento 
-Faz a marcação da sílaba tónica dos 713 lemas acentuados, com base no paradigma acentual geral das palavras não-verbais do português.
+### Stress Marking
+Marks the stressed syllable of the accented lemmas, following the general stress paradigm of non-verbal Portuguese words.
 
-### Fonética
-Faz a transcrição fonética dos 730 lemas, convertendo os grafemas em caracteres fornecidos pelo Alfabeto Fonético Internacional [(AFI)](https://www.internationalphoneticassociation.org/).
+### Phonetic Transcription
+Produces the phonetic transcription of the 730 lemmas, converting graphemes into characters from the International Phonetic Alphabet [(IPA)](https://www.internationalphoneticassociation.org/).
 
-Cada módulo opera sobre um *corpus* estruturado em tabelas ODS, utilizando regras baseadas em expressões regulares.
+Each module operates on a corpus structured in ODS tables, using rules based on regular expressions.
 
 ---
 
-## Estrutura do Repositório
+## Repository Structure
 
 ```
 ├── Debug/
-│   └── Ficheiros de *logs* e *debug* gerados durante a execução dos scripts e notebooks.
+│   └── Log and debug files generated during the execution of the scripts and notebooks.
 │
 ├── Notebooks/
-│   └── Notebooks Jupyter correspondentes aos três módulos (sílaba, acento, fonética).
-│       Apresenta o processo de elaboração dos ficheiros Pyhton e os resultados obtidos.
+│   └── Jupyter notebooks corresponding to the three modules (syllable, stress, phonetics).
+│       They present the process of developing the Python files and the results obtained.
 │
 ├── Python/
-│   └── Scripts Python autónomos para os três módulos principais.
+│   └── Standalone Python scripts for the three main modules.
 │       - silaba.py
 │       - acento.py
 │       - fonetica.py
 │
 ├── ODS/
-│   └── Ficheiros de dados no formato ODS com os corpora utilizados nos módulos.
-│       Estes ficheiros especificam os contextos, padrões e substituições aplicadas.
+│   └── ODS-format data files containing the corpora used in the modules.
+│       These files specify the contexts, patterns, and substitutions applied.
 │
 ├── Regex/
-│   └── Tabelas CSV com as expressões regulares utilizadas em cada módulo.
-│       Cada linha inclui:
-│       - ID da *regex*
-│       - Padrão de contexto
-│       - Expressão *regex* usada (Find)
-│       - Substituição aplicada (Replace)
-│       - Exemplo de aplicação
+│   └── CSV tables with the regular expressions used in each module.
+│       Each line includes:
+│       - Regex ID
+│       - Context Pattern
+│       - Regex expression (Find)
+│       - Applied substitution (Replace)
+│       - Example of application
 ```
 
-### Publicações relacionadas
+### Related publications
 Martins, L. (2025). [Desenvolvimento de um sistema de conversão grafema-fone[ma] para o Vocabulário Fundamental da Academia das Ciências de Lisboa](https://repositorio-aberto.up.pt/handle/10216/168957). Dissertação de Mestrado. Faculdade de Letras da Universidade do Porto.
 
 Reis, L. (2025). [Vocabulário Fundamental da Academia das Ciências de Lisboa: seleção lexical, alinhamento dos sentidos e codificação](https://run.unl.pt/handle/10362/186964). Dissertação de Mestrado, Universidade NOVA de Lisboa. 
