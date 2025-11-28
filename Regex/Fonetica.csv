@@ -33,7 +33,7 @@ T31,Seleciona todos os <ai>,ai,aj,Origin Word: ˈmais -> Processed Word: ˈmajs
 T32,Seleciona todos os <ei>,ei,ɐj,Origin Word: ˈfeirɐ -> Processed Word: ˈfɐjrɐ
 T33,Seleciona todos os <oi>,oi,oj,Origin Word: ˈnoitɨ -> Processed Word: ˈnojtɨ
 T34, Seleciona todos os <kõˈboiu>,kõˈboiu,kõˈbɔju,Origin Word: kõˈboiu -> Processed Word: kõˈbɔju
-T35,Seleciona todos os <ui>, à exceção dos que se encontram precedidos de <g> ou <q>",(?<![gq])ui,uj,Origin Word: cuiˈdar -> Processed Word: cujˈdar
+T35,Seleciona todos os <ui>, à exceção dos que se encontram precedidos de <g> ou <q>,(?<![gq])ui,uj,Origin Word: cuiˈdar -> Processed Word: cujˈdar
 T36,Seleciona todos os <au> e <ao>,(au|ao),aw,Origin Word: ˈmau -> Processed Word: ˈmaw
 T37,Seleciona todos os <eu>,eu,ew,Origin Word: ˈdeus -> Processed Word: ˈdews
 T38,Seleciona todos os <éu>,éu,ɛw,Origin Word: ˈcéu -> Processed Word: ˈcɛw
