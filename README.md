@@ -48,7 +48,6 @@ Each module operates on a corpus structured in ODS tables, using rules based on 
 ```
 
 ### Related publications
-Martins, L. (2025). [Desenvolvimento de um sistema de conversão grafema-fone[ma] para o Vocabulário Fundamental da Academia das Ciências de Lisboa](https://repositorio-aberto.up.pt/handle/10216/168957). Dissertação de Mestrado. Faculdade de Letras da Universidade do Porto.
 
 Reis, L. (2025). [Vocabulário Fundamental da Academia das Ciências de Lisboa: seleção lexical, alinhamento dos sentidos e codificação](https://run.unl.pt/handle/10362/186964). Dissertação de Mestrado, Universidade NOVA de Lisboa. 
 
